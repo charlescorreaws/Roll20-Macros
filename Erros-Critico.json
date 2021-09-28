@@ -1,0 +1,257 @@
+{
+    "name": "Erros-Critico",
+    "showplayers": true,
+    "id": "-Mk4buC6ocYm8hwHEhmj",
+    "items": {
+        "-Mk4buCGCfVUMvm1INkp": {
+            "id": "-Mk4buCGCfVUMvm1INkp",
+            "name": "Seu erro é tanto que você desmaia de desgosto. CD15 de INT para acordar",
+            "weight": "1"
+        },
+        "-Mk4buCIa_AJixNeDx19": {
+            "id": "-Mk4buCIa_AJixNeDx19",
+            "name": "O personagem ao errar acaba atraindo pra si um campo magnético. Qualquer magia  ou projétil será direcionado pra si durante 1d6 turnos",
+            "weight": "1"
+        },
+        "-Mk4buCJqe5beRC_dWTJ": {
+            "id": "-Mk4buCJqe5beRC_dWTJ",
+            "name": "Todas as armadilhas do cômodo que o personagem se encontra é ativado, curiosamente direcionada pra si",
+            "weight": "1"
+        },
+        "-Mk4buCKrzJ2_xPot3nC": {
+            "id": "-Mk4buCKrzJ2_xPot3nC",
+            "name": "Um clone do inimigo surge adjacente ao alvo primário, usando os mesmos status",
+            "weight": "1"
+        },
+        "-Mk4buCLvur-uC_ZcSxI": {
+            "id": "-Mk4buCLvur-uC_ZcSxI",
+            "name": "O personagem se torna um ponto de gravidade humano. Todos os personagens se movem em direção a ele, necessitando em todo turno realizar um teste de Atletismo CD 18 para poder se mover livremente",
+            "weight": "1"
+        },
+        "-Mk4buCNygaBipYDziu0": {
+            "id": "-Mk4buCNygaBipYDziu0",
+            "name": "A próxima magia  conjurada será aleatória, conjurada em um alvo aleatório, não podendo ser cancelada voluntariamente",
+            "weight": "1"
+        },
+        "-Mk4buCOkbRpLjrFdlWB": {
+            "id": "-Mk4buCOkbRpLjrFdlWB",
+            "name": "As armas dos inimigos dobram de tamanho, recebendo 1d4 de dano bônus",
+            "weight": "1"
+        },
+        "-Mk4buCQJpMeRKegc5MQ": {
+            "id": "-Mk4buCQJpMeRKegc5MQ",
+            "name": "Todas as magias que o atacante usar durante este dia serão direcionadas para si, exceto magias que o beneficiem. Estas serão direcionadas aos inimigos",
+            "weight": "1"
+        },
+        "-Mk4buCRrH6WFHFWOkN4": {
+            "id": "-Mk4buCRrH6WFHFWOkN4",
+            "name": "O personagem irá chamar a atenção de seus inimigos, sendo o prinicipal foco de ataques,e xceto quando não houver possibilidade disto ocorrer",
+            "weight": "1"
+        },
+        "-Mk4buCTdRudus9P9Yhy": {
+            "id": "-Mk4buCTdRudus9P9Yhy",
+            "name": "O personagem deverá designar um aliado aleatório em segredo para se transformar em um vaso de planta por 1d6 turnos",
+            "weight": "1"
+        },
+        "-Mk4buCUHSCHkxpOYOkY": {
+            "id": "-Mk4buCUHSCHkxpOYOkY",
+            "name": "O atacante sente a obrigação de se provar, se movimentando em direção ao maior número de inimigos possíveis nesse turno, ou, caso ele já tenha gasto parte ou totalmente sua movimentação, no próximo turno",
+            "weight": "1"
+        },
+        "-Mk4buCV56qyoYPjPFjp": {
+            "id": "-Mk4buCV56qyoYPjPFjp",
+            "name": "O dedo mindinho bate numa rocha, recebendo 1d2 de dano e reduzindo a movimentação em 50% no próximo turno. Além disso, ele sai pulando",
+            "weight": "1"
+        },
+        "-Mk4buCWJJyWYyyv4WJq": {
+            "id": "-Mk4buCWJJyWYyyv4WJq",
+            "name": "Você pisa em um formigueiro, tomando 1d4 de dano por turno até o fim do combate e reduzindo seu deslocamento em 3mts",
+            "weight": "1"
+        },
+        "-Mk4buCYRXwOhdcwjaf-": {
+            "id": "-Mk4buCYRXwOhdcwjaf-",
+            "name": "O personagem fica preso em um lamaçal, ficando incapaz de se mover. CD10+LV do usuário em FOR para tentar sair",
+            "weight": "1"
+        },
+        "-Mk4buCZ_bLC3qVZ60IK": {
+            "id": "-Mk4buCZ_bLC3qVZ60IK",
+            "name": "A armadura se solta durante o ataque, desconsiderando totalmente a CA durante esse período",
+            "weight": "1"
+        },
+        "-Mk4buC_Fp5UzY5O7dr0": {
+            "id": "-Mk4buC_Fp5UzY5O7dr0",
+            "name": "10% das moedas de ouro do atacante criam asas e voam para o além",
+            "weight": "1"
+        },
+        "-Mk4buCaU5tKjUajq39y": {
+            "id": "-Mk4buCaU5tKjUajq39y",
+            "name": "A mochila se rompe com o ataque",
+            "weight": "1"
+        },
+        "-Mk4buCbIxxa9HVjsUe0": {
+            "id": "-Mk4buCbIxxa9HVjsUe0",
+            "name": "Você fica com soluço e até o final do combate, você demorará um turno extra pra conjurar uma magia",
+            "weight": "1"
+        },
+        "-Mk4buCdCcEx7IdRwJZF": {
+            "id": "-Mk4buCdCcEx7IdRwJZF",
+            "name": "Uma ilusão toma conta de sua mente, fazendo-o atacar um aliado imediatamente de qualquer forma possível",
+            "weight": "1"
+        },
+        "-Mk4buCeZRvUuYjE8A0d": {
+            "id": "-Mk4buCeZRvUuYjE8A0d",
+            "name": "Sua arma começa a provocar os inimigos, fazendo com que eles te ataquem com vantagem por 1d6 turnos",
+            "weight": "1"
+        },
+        "-Mk4buCf4EohrbPplm9n": {
+            "id": "-Mk4buCf4EohrbPplm9n",
+            "name": "O ombro do atacante se desloca, reduzindo o bônus de FOR/DES nos ataques e danos à 0",
+            "weight": "1"
+        },
+        "-Mk4buCgMWMrTvs0LNJs": {
+            "id": "-Mk4buCgMWMrTvs0LNJs",
+            "name": "O atacante sente fortes câimbras e tem seu deslocamento reduzido pela metade",
+            "weight": "1"
+        },
+        "-Mk4buCiHIWU-fMISiXd": {
+            "id": "-Mk4buCiHIWU-fMISiXd",
+            "name": "O personagem sente forte tontura, reduzindo o bônus de DES na CA para 0",
+            "weight": "1"
+        },
+        "-Mk4buCjnz2T_JDw--1y": {
+            "id": "-Mk4buCjnz2T_JDw--1y",
+            "name": "O atacante torce o calcanhar, reduzindo seu deslocamento por 1d6 turnos",
+            "weight": "1"
+        },
+        "-Mk4buCkjrC4DAZM8BYB": {
+            "id": "-Mk4buCkjrC4DAZM8BYB",
+            "name": "O usuário arranha suas cordas vocais, ficando incapacitado de conjurar magias que necessitem de Verbal",
+            "weight": "1"
+        },
+        "-Mk4buClVFTWvVV4Yd-a": {
+            "id": "-Mk4buClVFTWvVV4Yd-a",
+            "name": "Queda de arma à 1,5mt de distância a escolha do jogador",
+            "weight": "1"
+        },
+        "-Mk4buCmOCHZb661ysWE": {
+            "id": "-Mk4buCmOCHZb661ysWE",
+            "name": "Queda de arma à 3mts de distância a escolha do jogador",
+            "weight": "1"
+        },
+        "-Mk4buCn6vt5Ot7FmFO5": {
+            "id": "-Mk4buCn6vt5Ot7FmFO5",
+            "name": "A arma causará 50% de dano apenas até que ela seja consertada",
+            "weight": "1"
+        },
+        "-Mk4buCoNEassldN0ADe": {
+            "id": "-Mk4buCoNEassldN0ADe",
+            "name": "A arma cai em um plano astral",
+            "weight": "1"
+        },
+        "-Mk4buCpMUjDgAhoZtbp": {
+            "id": "-Mk4buCpMUjDgAhoZtbp",
+            "name": "A arma quebra e nunca mais poderá ser utilizada",
+            "weight": "1"
+        },
+        "-Mk4buCq3-lgfISMQim3": {
+            "id": "-Mk4buCq3-lgfISMQim3",
+            "name": "O personagem recebe desvantagem nos ataques no próximo turno",
+            "weight": "1"
+        },
+        "-Mk4buCsEcFaJy81k-7Q": {
+            "id": "-Mk4buCsEcFaJy81k-7Q",
+            "name": "Um inimigo (a escolha do inimigo) se aproxima até 9mts do player que teve falha crítica. Se ele conseguir ficar do lado do inimigo, pode realizar um ataque",
+            "weight": "1"
+        },
+        "-Mk4buCtr22QgKzJatq_": {
+            "id": "-Mk4buCtr22QgKzJatq_",
+            "name": "Tamanha a esquiva de seu oponente, você fica com o status Amedrontado até o fim do combate contra aquela criatura",
+            "weight": "1"
+        },
+        "-Mk4buCuSnpfSqmvDvaL": {
+            "id": "-Mk4buCuSnpfSqmvDvaL",
+            "name": "O inimigo lhe agarra após a defesa sucessiva",
+            "weight": "1"
+        },
+        "-Mk4buCvdC9ghKG3sbOc": {
+            "id": "-Mk4buCvdC9ghKG3sbOc",
+            "name": "O inimigo lhe provoca após sua falha, lhe forçando até o fim do combate a atacar apenas ele, com desvantagem",
+            "weight": "1"
+        },
+        "-Mk4buCwdkPkfhkTNUZ3": {
+            "id": "-Mk4buCwdkPkfhkTNUZ3",
+            "name": "O personagem se machuca no ataque, ficando caído e recebendo 1d8 de dano",
+            "weight": "1"
+        },
+        "-Mk4buCxKIIEWijQsxlf": {
+            "id": "-Mk4buCxKIIEWijQsxlf",
+            "name": "O personagem se auto-acerta, causando seu dano padrão",
+            "weight": "1"
+        },
+        "-Mk4buCze6sBhrsUiFVF": {
+            "id": "-Mk4buCze6sBhrsUiFVF",
+            "name": "O adversário poderá contra-atacar o ataque falho",
+            "weight": "1"
+        },
+        "-Mk4buD-8kIFT0PE_CVd": {
+            "id": "-Mk4buD-8kIFT0PE_CVd",
+            "name": "O ataque falho acerta a própria armadura, reduzindo a CA concedida pela metade (arredondado para baixo)",
+            "weight": "1"
+        },
+        "-Mk4buD0rjYxk1chG1eI": {
+            "id": "-Mk4buD0rjYxk1chG1eI",
+            "name": "A iniciativa passa imediatamente para o oponente atacado",
+            "weight": "1"
+        },
+        "-Mk4buD12b2L4G8sfRNH": {
+            "id": "-Mk4buD12b2L4G8sfRNH",
+            "name": "O personagem escorrega numa poça de água, ficando caído até o final do seu turno",
+            "weight": "1"
+        },
+        "-Mk4buD2Ghq54nEHDyr0": {
+            "id": "-Mk4buD2Ghq54nEHDyr0",
+            "name": "O inimigo conjura Escudo Arcano automaticamente e ainda por cima errando o ataque",
+            "weight": "1"
+        },
+        "-Mk4buD2Ghq54nEHDyr1": {
+            "id": "-Mk4buD2Ghq54nEHDyr1",
+            "name": "Um goblin arcano rouba um item aleatório do personagem que errou",
+            "weight": "1"
+        },
+        "-Mk4buD3o6-1rl8oXhis": {
+            "id": "-Mk4buD3o6-1rl8oXhis",
+            "name": "Um feixe de luz originário da Agréstia das Fadas lhe cega por 1d6 turnos",
+            "weight": "1"
+        },
+        "-Mk4buD4YXWteIt9xwnM": {
+            "id": "-Mk4buD4YXWteIt9xwnM",
+            "name": "O personagem acaba entrando  em um plano elemental por acidente, permanecendo lá por 1d4 turnos",
+            "weight": "1"
+        },
+        "-Mk4buD5t5a4GjcnZ1DK": {
+            "id": "-Mk4buD5t5a4GjcnZ1DK",
+            "name": "Todos os inimigos adjacentes a você lhe atacarão após sua falha",
+            "weight": "1"
+        },
+        "-Mk4buD7kvTYvI3ZG7e-": {
+            "id": "-Mk4buD7kvTYvI3ZG7e-",
+            "name": "Você conjura um scroll mágico da lista de itens mágicos em si mesmo",
+            "weight": "1"
+        },
+        "-Mk4buD9FYmw64hO6h1s": {
+            "id": "-Mk4buD9FYmw64hO6h1s",
+            "name": "Um relâmpago cai na sua cabeça",
+            "weight": "1"
+        },
+        "-Mk4buDAk79M80o7scOe": {
+            "id": "-Mk4buDAk79M80o7scOe",
+            "name": "Um elemental aleatório surgirá adjacente a pessoa que ativou este efeito",
+            "weight": "1"
+        },
+        "-Mk4buDBvr46k1n3q7Tu": {
+            "id": "-Mk4buDBvr46k1n3q7Tu",
+            "name": "O personagem deve rolar imediatamente a tabela de Magia Selvagem",
+            "weight": ""
+        }
+    }
+}

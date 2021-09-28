@@ -1,0 +1,233 @@
+{
+    "schema_version": 2,
+    "macros": [
+        {
+            "attributes": {
+                "action": "[Image](?{URL da imagem}#.png)",
+                "istokenaction": true,
+                "name": "imagem-chat",
+                "visibleto": "all"
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "/talktomyself",
+                "istokenaction": false,
+                "name": "Esconder-Rolagens",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "/talktomyself off",
+                "istokenaction": false,
+                "name": "Liberar-Rolagens",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "@{selected|wtype}&{template:default}{{name=Iniciativa de Batalha}}  {{Comando=^{init-u}}}{{Modicador de Iniciativa=@{selected|initiative_bonus}}}{{Valor da Iniciativa=[[@{selected|initiative_style}+@{selected|initiative_bonus}@{selected|pbd_safe}[INIT] &{tracker}]]}} @{selected|charname_output}\n",
+                "istokenaction": false,
+                "name": "Iniciativa",
+                "visibleto": "all"
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "&{template:default} {{name=Mensagem enviada para ?{Digite no nome do personagem que deseja enviar a mensagem?}}} {{?{Digite a mensagem}}}",
+                "istokenaction": true,
+                "name": "Mensagem-Publica",
+                "visibleto": "all"
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "/w gm  &{template:default} {{name=Mensagem pro mestre}} {{?{Digite a mensagem}}}",
+                "istokenaction": true,
+                "name": "Mensagem-Mestre",
+                "visibleto": "all"
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        },
+        {
+            "attributes": {
+                "action": "&{template:atkdmg}  {{damage=1}} {{dmg1flag=1}} {{rname=MAGIA SELVAGEM - SURTO DE MAGIA}} {{dmg1=(1=SIM, 0=NÃO)``[[1d20cs>21cf>20<@{selected|bar3}]]`` \n\nEFEITO ``[[1t[Surto de Magia Selvagem]]]``}}",
+                "istokenaction": false,
+                "name": "SURTO-DE-MAGIA",
+                "visibleto": "-MYWAqxNALiKEJ6JOjwr,-M_X4ytoxhuk_zHUInXb,-Mgkmo8kYBafWAWn3d_S"
+            }
+        },
+        {
+            "attributes": {
+                "action": "&{template:npcaction} {{rname=Tabelas de Acertos Críticos  {{description=[Armas - Acerto Crítico com Armas](!\n%{Tabelas|Arma-Acertos-Críticos})\n [Magias - Acerto Crítico com Magia](!\n%{Tabelas|Magia-Acertos-Críticos})\n }}\n &{template:npcaction} {{rname=Tabelas de Falhas Críticas}} {{description=[Armas - Falhas Críticas com Armas](!\n%{Tabelas|Arma-Erros-Críticos})\n [Magias - Falhas Críticas com Magia](!\n%{Tabelas|Magia-Erros-Críticos})\n }}",
+                "istokenaction": false,
+                "name": "Críticos",
+                "visibleto": "all"
+            }
+        },
+        {
+            "attributes": {
+                "action": "/fx beam-acid @{target|token_id}",
+                "istokenaction": false,
+                "name": "Raio-de-Verde",
+                "visibleto": ""
+            }
+        },
+        {
+            "attributes": {
+                "action": "/fx beam-charm @{target|token_id}",
+                "istokenaction": false,
+                "name": "Raio-Rosa",
+                "visibleto": ""
+            }
+        },
+        {
+            "attributes": {
+                "action": "/fx beam-blood @{target|token_id}",
+                "istokenaction": false,
+                "name": "Raio-Vermelho",
+                "visibleto": ""
+            }
+        },
+        {
+            "attributes": {
+                "action": "/fx beam-death @{target|token_id}",
+                "istokenaction": false,
+                "name": "Raio-Necrotico",
+                "visibleto": ""
+            }
+        },
+        {
+            "attributes": {
+                "action": "/fx beam-fire @{target|token_id}",
+                "istokenaction": false,
+                "name": "Raio-De-Fogo",
+                "visibleto": ""
+            }
+        },
+        {
+            "attributes": {
+                "action": "/fx beam-frost @{target|token_id}",
+                "istokenaction": false,
+                "name": "Raio-de-Gelo",
+                "visibleto": ""
+            }
+        },
+        {
+            "attributes": {
+                "action": "/fx beam-holy @{target|token_id}",
+                "istokenaction": false,
+                "name": "Raio-Amarelo",
+                "visibleto": ""
+            }
+        },
+        {
+            "attributes": {
+                "action": "/fx beam-magic @{target|token_id}",
+                "istokenaction": false,
+                "name": "Raio-Magico",
+                "visibleto": ""
+            }
+        },
+        {
+            "attributes": {
+                "action": "/fx beam-slime @{target|token_id}",
+                "istokenaction": false,
+                "name": "Raio-de-Veneno",
+                "visibleto": ""
+            }
+        },
+        {
+            "attributes": {
+                "action": "/fx beam-smoke @{target|token_id}",
+                "istokenaction": false,
+                "name": "Raio-Sagrado-Radiante",
+                "visibleto": ""
+            }
+        },
+        {
+            "attributes": {
+                "action": "/fx beam-water @{target|token_id}",
+                "istokenaction": false,
+                "name": "Raio-Azul",
+                "visibleto": ""
+            }
+        },
+        {
+            "attributes": {
+                "action": "&{template:traits} {{name=Efeito de Magia Selvagem}} {{source=Personagem: @{selected|character_name}}} {{description=[[1t[Magia-Selvagem]]]}}",
+                "istokenaction": true,
+                "name": "Magia-Selvagem",
+                "visibleto": "-Mg8fePlm-re7BMl_lme,-Mhv5QJMkMHtYswa7y1A"
+            }
+        },
+        {
+            "attributes": {
+                "action": "@{selected|wtype} &{template:default} {{name=Dados do Personagem - @{selected|character_name}}} {{CA= @{selected|ac}}} {{Dado de Vida= 1D@{selected|hitdieroll}}}  {{Total HP= @{selected|hp}}} {{Deslocamento em FT= @{selected|speed}}} {{Percepção Passiva= @{selected|passive_wisdom}}} ",
+                "istokenaction": true,
+                "name": "Status",
+                "visibleto": "all"
+            }
+        },
+        {
+            "attributes": {
+                "action": "@{selected|perception_roll}",
+                "istokenaction": true,
+                "name": "Percepção",
+                "visibleto": "all"
+            }
+        },
+        {
+            "attributes": {
+                "action": "@{selected|wtype}&{template:simple} {{rname=^{sanity-u}}} {{mod=@{selected|sanity_mod}@{selected|jack_bonus}}} {{r1=[[@{selected|d20}+@{selected|sanity_mod}@{selected|jack_attr}[CHA]]]}} @{selected|rtype}+@{selected|sanity_mod}@{selected|jack_attr}[CHA]]]}} @{selected|charname_output}",
+                "istokenaction": true,
+                "name": "Sanidade",
+                "visibleto": "all"
+            }
+        },
+        {
+            "attributes": {
+                "action": "&{template:traits} {{name=Contos do Além - Colégio dos Espiritos do Bardo}} {{source=Personagem: @{selected|character_name}}} {{description=[[1t[Contos-do-além-bardos-do-colegio-dos-espiritos]]]}}",
+                "istokenaction": true,
+                "name": "Contos-do-Além",
+                "visibleto": "-Mg8fePlm-re7BMl_lme"
+            }
+        },
+        {
+            "attributes": {
+                "action": "@{selected|wtype}&{template:simple} @{selected|rtype}?{Ability|Acrobacia, +@{selected|acrobatics_bonus}+@{selected|acrobatics_flat}@{selected|pbd_safe} ]]&#125;&#125; {{rname=Acrobacia&#125;&#125; {{mod=@{selected|acrobatics_bonus}+@{selected|acrobatics_flat}&#125;&#125; {{r1=[[ @{selected|d20} + @{selected|acrobatics_bonus}+@{selected|acrobatics_flat}@{selected|pbd_safe} ]]&#125;&#125; {{reliablecheck=[[(@{selected|acrobatics_prof})*@{selected|reliable_talent}]]&#125;&#125;|Adestrar Animais, +@{selected|animal_handling_bonus}+@{selected|animal_handling_flat}@{selected|pbd_safe} ]]&#125;&#125; {{rname=Adestrar Animais&#125;&#125; {{mod=@{selected|animal_handling_bonus}+@{selected|animal_handling_flat}&#125;&#125; {{r1=[[ @{selected|d20} + @{selected|animal_handling_bonus}+@{selected|animal_handling_flat}@{selected|pbd_safe} ]]&#125;&#125; {{reliablecheck=[[(@{selected|animal_handling_prof})*@{selected|reliable_talent}]]&#125;&#125;|Arcanismo, +@{selected|arcana_bonus}+@{selected|arcana_flat}@{selected|pbd_safe} ]]&#125;&#125; {{rname=Arcanismo &#125;&#125; {{mod=@{selected|arcana_bonus}+@{selected|arcana_flat}&#125;&#125; {{r1=[[ @{selected|d20} + @{selected|arcana_bonus}+@{selected|arcana_flat}@{selected|pbd_safe} ]]&#125;&#125; {{reliablecheck=[[(@{selected|arcana_prof})*@{selected|reliable_talent}]]&#125;&#125;|Atletismo, +@{selected|athletics_bonus}+@{selected|athletics_flat}@{selected|pbd_safe} ]]&#125;&#125; {{rname=Atletismo&#125;&#125; {{mod=@{selected|athletics_bonus}+@{selected|athletics_flat}&#125;&#125; {{r1=[[ @{selected|d20} + @{selected|athletics_bonus}+@{selected|athletics_flat}@{selected|pbd_safe} ]]&#125;&#125; {{reliablecheck=[[(@{selected|athletics_prof})*@{selected|reliable_talent}]]&#125;&#125;|Enganação, +@{selected|deception_bonus}+@{selected|deception_flat}@{selected|pbd_safe} ]]&#125;&#125; {{rname=Enganação&#125;&#125; {{mod=@{selected|deception_bonus}+@{selected|deception_flat}&#125;&#125; {{r1=[[ @{selected|d20} + @{selected|deception_bonus}+@{selected|deception_flat}@{selected|pbd_safe} ]]&#125;&#125; {{reliablecheck=[[(@{selected|deception_prof})*@{selected|reliable_talent}]]&#125;&#125;|História, +@{selected|history_bonus}+@{selected|history_flat}@{selected|pbd_safe} ]]&#125;&#125; {{rname=História&#125;&#125; {{mod=@{selected|history_bonus}+@{selected|history_flat}&#125;&#125; {{r1=[[ @{selected|d20} + @{selected|history_bonus}+@{selected|history_flat}@{selected|pbd_safe} ]]&#125;&#125; {{reliablecheck=[[(@{selected|history_prof})*@{selected|reliable_talent}]]&#125;&#125;|Intuição, +@{selected|insight_bonus}+@{selected|insight_flat}@{selected|pbd_safe} ]]&#125;&#125; {{rname=Intuição&#125;&#125; {{mod=@{selected|insight_bonus}+@{selected|insight_flat}&#125;&#125; {{r1=[[ @{selected|d20} + @{selected|insight_bonus}+@{selected|insight_flat}@{selected|pbd_safe} ]]&#125;&#125; {{reliablecheck=[[(@{selected|insight_prof})*@{selected|reliable_talent}]]&#125;&#125;|Intimidação, +@{selected|intimidation_bonus}+@{selected|intimidation_flat}@{selected|pbd_safe} ]]&#125;&#125; {{rname=Intimidação&#125;&#125; {{mod=@{selected|intimidation_bonus}+@{selected|intimidation_flat}&#125;&#125; {{r1=[[ @{selected|d20} + @{selected|intimidation_bonus}+@{selected|intimidation_flat}@{selected|pbd_safe} ]]&#125;&#125; {{reliablecheck=[[(@{selected|intimidation_prof})*@{selected|reliable_talent}]]&#125;&#125;|Investigação, +@{selected|investigation_bonus}+@{selected|investigation_flat}@{selected|pbd_safe} ]]&#125;&#125; {{rname=Investigação&#125;&#125; {{mod=@{selected|investigation_bonus}+@{selected|investigation_flat}&#125;&#125; {{r1=[[ @{selected|d20} + @{selected|investigation_bonus}+@{selected|investigation_flat}@{selected|pbd_safe} ]]&#125;&#125; {{reliablecheck=[[(@{selected|investigation_prof})*@{selected|reliable_talent}]]&#125;&#125;|Medicina, +@{selected|medicine_bonus}+@{selected|medicine_flat}@{selected|pbd_safe} ]]&#125;&#125; {{rname=Medicina&#125;&#125; {{mod=@{selected|medicine_bonus}+@{selected|medicine_flat}&#125;&#125; {{r1=[[ @{selected|d20} + @{selected|medicine_bonus}+@{selected|medicine_flat}@{selected|pbd_safe} ]]&#125;&#125; {{reliablecheck=[[(@{selected|medicine_prof})*@{selected|reliable_talent}]]&#125;&#125;|Natureza, +@{selected|nature_bonus}+@{selected|nature_flat}@{selected|pbd_safe} ]]&#125;&#125; {{rname=Natureza&#125;&#125; {{mod=@{selected|nature_bonus}+@{selected|nature_flat}&#125;&#125; {{r1=[[ @{selected|d20} + @{selected|nature_bonus}+@{selected|nature_flat}@{selected|pbd_safe} ]]&#125;&#125; {{reliablecheck=[[(@{selected|nature_prof})*@{selected|reliable_talent}]]&#125;&#125;|Percepção, +@{selected|perception_bonus}+@{selected|perception_flat}@{selected|pbd_safe} ]]&#125;&#125; {{rname=Percepção&#125;&#125; {{mod=@{selected|perception_bonus}+@{selected|perception_flat}&#125;&#125; {{r1=[[ @{selected|d20} + @{selected|perception_bonus}+@{selected|perception_flat}@{selected|pbd_safe} ]]&#125;&#125; {{reliablecheck=[[(@{selected|perception_prof})*@{selected|reliable_talent}]]&#125;&#125;|Atuação, +@{selected|performance_bonus}+@{selected|performance_flat}@{selected|pbd_safe} ]]&#125;&#125; {{rname=Atuação&#125;&#125; {{mod=@{selected|performance_bonus}+@{selected|performance_flat}&#125;&#125; {{r1=[[ @{selected|d20} + @{selected|performance_bonus}+@{selected|performance_flat}@{selected|pbd_safe} ]]&#125;&#125; {{reliablecheck=[[(@{selected|performance_prof})*@{selected|reliable_talent}]]&#125;&#125;|Persuação, +@{selected|persuasion_bonus}+@{selected|persuasion_flat}@{selected|pbd_safe} ]]&#125;&#125; {{rname=Persuação&#125;&#125; {{mod=@{selected|persuasion_bonus}+@{selected|persuasion_flat}&#125;&#125; {{r1=[[ @{selected|d20} + @{selected|persuasion_bonus}+@{selected|persuasion_flat}@{selected|pbd_safe} ]]&#125;&#125; {{reliablecheck=[[(@{selected|persuasion_prof})*@{selected|reliable_talent}]]&#125;&#125;|Religião, +@{selected|religion_bonus}+@{selected|religion_flat}@{selected|pbd_safe} ]]&#125;&#125; {{rname=Religião&#125;&#125; {{mod=@{selected|religion_bonus}+@{selected|religion_flat}&#125;&#125; {{r1=[[ @{selected|d20} + @{selected|religion_bonus}+@{selected|religion_flat}@{selected|pbd_safe} ]]&#125;&#125; {{reliablecheck=[[(@{selected|religion_prof})*@{selected|reliable_talent}]]&#125;&#125;|Prestidigitação, +@{selected|sleight_of_hand_bonus}+@{selected|sleight_of_hand_flat}@{selected|pbd_safe} ]]&#125;&#125; {{rname=Prestidigitação&#125;&#125; {{mod=@{selected|sleight_of_hand_bonus}+@{selected|sleight_of_hand_flat}&#125;&#125; {{r1=[[ @{selected|d20} + @{selected|sleight_of_hand_bonus}+@{selected|sleight_of_hand_flat}@{selected|pbd_safe} ]]&#125;&#125; {{reliablecheck=[[(@{selected|sleight_of_hand_prof})*@{selected|reliable_talent}]]&#125;&#125;|Furtividade, +@{selected|stealth_bonus}+@{selected|stealth_flat}@{selected|pbd_safe} ]]&#125;&#125; {{rname=Furtividade&#125;&#125; {{mod=@{selected|stealth_bonus}+@{selected|stealth_flat}&#125;&#125; {{r1=[[ @{selected|d20} + @{selected|stealth_bonus}+@{selected|stealth_flat}@{selected|pbd_safe} ]]&#125;&#125; {{reliablecheck=[[(@{selected|stealth_prof})*@{selected|reliable_talent}]]&#125;&#125;|Sobrevivência, +@{selected|survival_bonus}+@{selected|survival_flat}@{selected|pbd_safe} ]]&#125;&#125; {{rname=Sobrevivência&#125;&#125; {{mod=@{selected|survival_bonus}+@{selected|survival_flat}&#125;&#125; {{r1=[[ @{selected|d20} + @{selected|survival_bonus}+@{selected|survival_flat}@{selected|pbd_safe} ]]&#125;&#125; {{reliablecheck=[[(@{selected|survival_prof})*@{selected|reliable_talent}]]&#125;&#125;|FORÇA, +@{selected|strength_mod}@{selected|jack_attr}[WIS]]]&#125;&#125; {{rname=FORÇA&#125;&#125; {{mod=@{selected|strength_mod}@{selected|jack_bonus}&#125;&#125; {{r1=[[ @{selected|d20} + @{selected|strength_mod}@{selected|jack_attr}[WIS]]]&#125;&#125; |DESTREZA, +@{selected|dexterity_mod}@{selected|jack_attr}[WIS]]]&#125;&#125; {{rname=DESTREZA&#125;&#125; {{mod=@{selected|dexterity_mod}@{selected|jack_bonus}&#125;&#125; {{r1=[[ @{selected|d20} + @{selected|dexterity_mod}@{selected|jack_attr}[WIS]]]&#125;&#125; |CONSTITUIÇÃO, +@{selected|constitution_mod}@{selected|jack_attr}[WIS]]]&#125;&#125; {{rname=CONSTITUIÇÃO&#125;&#125; {{mod=@{selected|constitution_mod}@{selected|jack_bonus}&#125;&#125; {{r1=[[ @{selected|d20} + @{selected|constitution_mod}@{selected|jack_attr}[WIS]]]&#125;&#125; |INTELIGÊNCIA, +@{selected|intelligence_mod}@{selected|jack_attr}[WIS]]]&#125;&#125; {{rname=INTELIGÊNCIA&#125;&#125; {{mod=@{selected|intelligence_mod}@{selected|jack_bonus}&#125;&#125; {{r1=[[ @{selected|d20} + @{selected|intelligence_mod}@{selected|jack_attr}[WIS]]]&#125;&#125; |SABEDORIA, +@{selected|wisdom_mod}@{selected|jack_attr}[WIS]]]&#125;&#125; {{rname=SABEDORIA&#125;&#125; {{mod=@{selected|wisdom_mod}@{selected|jack_bonus}&#125;&#125; {{r1=[[ @{selected|d20} + @{selected|wisdom_mod}@{selected|jack_attr}[WIS]]]&#125;&#125; |CARISMA, +@{selected|charisma_mod}@{selected|jack_attr}[WIS]]]&#125;&#125; {{rname=CARISMA&#125;&#125; {{mod=@{selected|charisma_mod}@{selected|jack_bonus}&#125;&#125; {{r1=[[ @{selected|d20} + @{selected|charisma_mod}@{selected|jack_attr}[WIS]]]&#125;&#125; } {{global=@{selected|global_skill_mod}}} @{selected|charname_output}",
+                "istokenaction": true,
+                "name": "Testes",
+                "visibleto": "all"
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "name": "Insanidade-de-Curta-Duracao",
+    "showplayers": true,
+    "id": "-MiX-n15cKLcB-PoCs1U",
+    "items": {
+        "-MiX-n17ATxs56gEubix": {
+            "id": "-MiX-n17ATxs56gEubix",
+            "name": "01–20 - [ Efeito (dura 1d10 minutos) ] - O personagem retira-se para dentro de sua própria mente e fica paralisado. O efeito termina se o personagem sofrer qualquer dano.",
+            "weight": "1"
+        },
+        "-MiX-n19Q0C96MatXM9a": {
+            "id": "-MiX-n19Q0C96MatXM9a",
+            "name": "21–30 - [ Efeito (dura 1d10 minutos) ] - O personagem fica incapacitado e passa esse tempo gritando, rindo ou chorando.",
+            "weight": "1"
+        },
+        "-MiX-n1AromStYfFu0JU": {
+            "id": "-MiX-n1AromStYfFu0JU",
+            "name": "31–40 - [ Efeito (dura 1d10 minutos) ] - O personagem fica amedrontado e deve usar sua ação e movimento a cada rodada para fugir da fonte do medo.",
+            "weight": "1"
+        },
+        "-MiX-n1BHHR5-ZlGDWF2": {
+            "id": "-MiX-n1BHHR5-ZlGDWF2",
+            "name": "41–50 - [ Efeito (dura 1d10 minutos) ] - O personagem começa a balbuciar e é incapaz de falar normalmente ou conjurar.",
+            "weight": "1"
+        },
+        "-MiX-n1BHHR5-ZlGDWF3": {
+            "id": "-MiX-n1BHHR5-ZlGDWF3",
+            "name": "51–60 - [ Efeito (dura 1d10 minutos) ] - O personagem deve usar sua ação a cada rodada para atacar a criatura mais próxima.",
+            "weight": "1"
+        },
+        "-MiX-n1Cy89PYduoPkGF": {
+            "id": "-MiX-n1Cy89PYduoPkGF",
+            "name": "61–70 - [ Efeito (dura 1d10 minutos) ] - O personagem experimenta alucinações vívidas e tem desvantagem nos testes de atributo.",
+            "weight": "1"
+        },
+        "-MiX-n1E2W4UjG78Si2C": {
+            "id": "-MiX-n1E2W4UjG78Si2C",
+            "name": "71–75 - [ Efeito (dura 1d10 minutos) ] - O personagem obedece às ordens de qualquer, desde que isso não seja obviamente autodestrutivo.",
+            "weight": "1"
+        },
+        "-MiX-n1FtrrwcJ09utrl": {
+            "id": "-MiX-n1FtrrwcJ09utrl",
+            "name": "76–80 - [ Efeito (dura 1d10 minutos) ] - O personagem experimenta uma vontade irresistível de comer algo estranho, como terra, lodo ou dejetos.",
+            "weight": "1"
+        },
+        "-MiX-n1Gtka7xCroNqaL": {
+            "id": "-MiX-n1Gtka7xCroNqaL",
+            "name": "81–90 - [ Efeito (dura 1d10 minutos) ] - O personagem fica atordoado.",
+            "weight": "1"
+        },
+        "-MiX-n1Hs7qSouhV9Y3_": {
+            "id": "-MiX-n1Hs7qSouhV9Y3_",
+            "name": "91–100 - [ Efeito (dura 1d10 minutos) ] - O personagem fica inconsciente.",
+            "weight": ""
+        }
+    }
+}

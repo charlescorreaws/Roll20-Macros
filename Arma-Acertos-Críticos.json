@@ -1,0 +1,95 @@
+{
+    "name": "Arma-Acertos-Críticos",
+    "showplayers": true,
+    "id": "-Mi77sy4CduSPT4Qjmj2",
+    "items": {
+        "-Mi77sy9ofbLzcHNs5Dt": {
+            "id": "-Mi77sy9ofbLzcHNs5Dt",
+            "name": "Seu golpe foi incrível, mas nada de extraordinário acontece. Um acerto crítico normal."
+        },
+        "-Mi77syBFDcgBhXbVmx9": {
+            "id": "-Mi77syBFDcgBhXbVmx9",
+            "name": "Você sente que é crucial manter sua vantagem contra o inimigo, não importa o preço.\tVocê pode escolher ganhar vantagem em todos os ataques contra seu alvo até o fim do seu próximo turno, mas se você fizer isso todos os outros inimigos terão vantagem nas rolagens de ataque contra você até o fim do seu próximo turno.",
+            "weight": 4
+        },
+        "-Mi77syC-WNlfpWgY99V": {
+            "id": "-Mi77syC-WNlfpWgY99V",
+            "name": "Você sente que é crucial mantar sua vantagem, mas também se manter consciente do seus arredores.\tVocê pode escolher ganhar vantagem em todas as rolagens de ataque contra seu alvo no seu próximo turno, se o fizer seu alvo tem vantagem contra você até o fim do seu próximo turno.",
+            "weight": 4
+        },
+        "-Mi77syDV3YFjtAJUoYb": {
+            "id": "-Mi77syDV3YFjtAJUoYb",
+            "name": "Você sabe como pressionar a vantagem.\tVocê ganha vantagem em todas as rolagens de ataque contra o seu alvo até o fim do seu próximo turno.",
+            "weight": 5
+        },
+        "-Mi77syEiNwDh7wBTZ3a": {
+            "id": "-Mi77syEiNwDh7wBTZ3a",
+            "name": "Enquanto você luta, você percebe uma rota de fuga efetiva para escapar do perigo.\tVocê pode usar a ação Desengajar depois desse ataque.",
+            "weight": 5
+        },
+        "-Mi77syF8Z3_kkT-Gh2D": {
+            "id": "-Mi77syF8Z3_kkT-Gh2D",
+            "name": "Você começa a sentir o fluxo da batalha, e sabe exatamente pra onde se mover.\tDepois do seu turno você vai pro início da ordem de iniciativa.",
+            "weight": 5
+        },
+        "-Mi77syF8Z3_kkT-Gh2E": {
+            "id": "-Mi77syF8Z3_kkT-Gh2E",
+            "name": "Você começa a reconhecer padrões nas técnicas de luta dos seus oponentes.\tVocê ganha +2 de CA contra seu alvo, e vantagem em todos os Testes de Resistência de efeitos que se originem do seu alvo até o fim do próximo turno.",
+            "weight": 5
+        },
+        "-Mi77syGsakWxvjUOuoG": {
+            "id": "-Mi77syGsakWxvjUOuoG",
+            "name": "Você consegue fazer manobras em direção ao seu oponente enquanto ataca, e tenta incomodá-lo ainda mais.\tDepois de atacar você pode escolher tentar agarrar seu oponente se você tiver uma mão livre, ou tentar dar um encontrão no seu oponente se ambas as mãos estiverem em uso.",
+            "weight": 10
+        },
+        "-Mi77syRpHXlalG1AxlD": {
+            "id": "-Mi77syRpHXlalG1AxlD",
+            "name": "Você consegue fazer manobras em direção ao seu oponente enquanto ataca, e tenta incomodá-lo ainda mais.\tDepois de atacar você pode escolher automaticamente acertar em uma ação de agarrar seu oponente se você tiver uma mão livre, ou dar um encontrão no seu oponente se ambas as mãos estiverem em uso.",
+            "weight": 10
+        },
+        "-Mi77sySXS-F08cxmAqA": {
+            "id": "-Mi77sySXS-F08cxmAqA",
+            "name": "Você tenta desarmar seu oponente.\tVocê pode tentar desarmar seu oponente depois do seu ataque. O Alvo tem que fazer um teste de resistência em força ou deixa a arma escolhida cair.",
+            "weight": 10
+        },
+        "-Mi77syTgO1WmPyedH69": {
+            "id": "-Mi77syTgO1WmPyedH69",
+            "name": "Você chuta a arma do seu oponente da mão dele.\tVocê pode tentar desarmar seu oponente depois do seu ataque, e você pode roubar a arma do seu oponente se você tiver uma mão livre. Se ambas as mãos estiverem ocupadas, você pode jogar a arma a 6m de distância. O Alvo tem que fazer um teste de resistência em força.",
+            "weight": 10
+        },
+        "-Mi77syUFqtO0Fk-ykb0": {
+            "id": "-Mi77syUFqtO0Fk-ykb0",
+            "name": "Seus sentidos se aguçam e você fica consciente das ameaças no campo de batalha.\tVocê pode usar a ação Esquivar depois do seu ataque.",
+            "weight": 5
+        },
+        "-Mi77syVEr9_xLuxlXqM": {
+            "id": "-Mi77syVEr9_xLuxlXqM",
+            "name": "Seu ataque derruba seu oponente.\tSeu oponente cai deitado.",
+            "weight": 5
+        },
+        "-Mi77syWwYUyjnnCwMXp": {
+            "id": "-Mi77syWwYUyjnnCwMXp",
+            "name": "Seu ataque surpreende seu oponente.\tSeu alvo está surpreso até o fim do próximo turno dele.",
+            "weight": 5
+        },
+        "-Mi77syXohXEA9ePd38b": {
+            "id": "-Mi77syXohXEA9ePd38b",
+            "name": "Você bate com muita força.\tRole um conjunto de dados uma categoria acima dos dados normais da sua arma, além dos dados de dano normais (D4 vira D6. D6 vira D8, D8 vira D10...etc.)",
+            "weight": 5
+        },
+        "-Mi77syYue8JgfZY6cKo": {
+            "id": "-Mi77syYue8JgfZY6cKo",
+            "name": "Você acerta com força extrema.\tRole um conjunto de dados uma categoria acima dos dados normais da sua arma, além dos dados de dano normais (D4 vira D6. D6 vira D8, D8 vira D10...etc.). Além disso o alvo sofre um nível de exaustão.",
+            "weight": 5
+        },
+        "-Mi77syZE_5EH_pvNgzQ": {
+            "id": "-Mi77syZE_5EH_pvNgzQ",
+            "name": "Você bate com força debilitante.\tRole um conjunto de dados uma categoria acima dos dados normais da sua arma, além dos dados de dano normais (D4 vira D6. D6 vira D8, D8 vira D10...etc.). Além disso o alvo sofre um ferimento permanente escolhido pelo mestre. O ferimento permanente pode ser curado Recuperando-se (p.187) com um descanso estendido, mas o ataque deixa uma cicatriz.",
+            "weight": 5
+        },
+        "-Mi77sy_34XrRZ3zKaQ9": {
+            "id": "-Mi77sy_34XrRZ3zKaQ9",
+            "name": "Você bate com força devastadora.\t Role um conjunto de dados uma categoria acima dos dados normais da sua arma, além dos dados de dano normais (D4 vira D6. D6 vira D8, D8 vira D10...etc.). O alvo também sofre um nível de exaustão. Além disso o alvo sofre um severo ferimento permanente escolhido pelo mestre. O ferimento permanente pode ser curado Recuperando-se (p.187) com um descanso estendido, mas o ataque deixa uma cicatriz."
+        }
+    }
+}

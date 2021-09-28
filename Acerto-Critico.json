@@ -1,0 +1,257 @@
+{
+    "name": "Acerto-Critico",
+    "showplayers": true,
+    "id": "-Mk4FZ1RmJaM5ZB8Jx0c",
+    "items": {
+        "-Mk4FZ1_7qoaEub2CJYX": {
+            "id": "-Mk4FZ1_7qoaEub2CJYX",
+            "name": "Aumenta o dano causado em 1",
+            "weight": "1"
+        },
+        "-Mk4FZ1a_lgXdWOhCVHq": {
+            "id": "-Mk4FZ1a_lgXdWOhCVHq",
+            "name": "Aumenta o dano causado em 5",
+            "weight": "1"
+        },
+        "-Mk4FZ1cpbf3AHrHyb3X": {
+            "id": "-Mk4FZ1cpbf3AHrHyb3X",
+            "name": "Aumenta o dano causado em 8",
+            "weight": "1"
+        },
+        "-Mk4FZ1dzLdhW_igLJiO": {
+            "id": "-Mk4FZ1dzLdhW_igLJiO",
+            "name": "Aumenta o dano causado em 11",
+            "weight": "1"
+        },
+        "-Mk4FZ1es1dXVW6_lkkC": {
+            "id": "-Mk4FZ1es1dXVW6_lkkC",
+            "name": "Aumenta o dano causado em 15",
+            "weight": "1"
+        },
+        "-Mk4FZ1gFobug4S67Htw": {
+            "id": "-Mk4FZ1gFobug4S67Htw",
+            "name": "Recebe Inspiração",
+            "weight": "1"
+        },
+        "-Mk4FZ1hk0ISZxjkR-4T": {
+            "id": "-Mk4FZ1hk0ISZxjkR-4T",
+            "name": "Recebe Surto de Ação somente nesse turno",
+            "weight": "1"
+        },
+        "-Mk4FZ1jobu9Af_rwwsK": {
+            "id": "-Mk4FZ1jobu9Af_rwwsK",
+            "name": "Pode conjurar uma magia livremente nesse turno, sem gastar slots de magia",
+            "weight": "1"
+        },
+        "-Mk4FZ1kGFQafyF1e-af": {
+            "id": "-Mk4FZ1kGFQafyF1e-af",
+            "name": "Concede 20% de XP extra nessa sessão",
+            "weight": "1"
+        },
+        "-Mk4FZ1mao23AqeXicZ0": {
+            "id": "-Mk4FZ1mao23AqeXicZ0",
+            "name": "Recebe um ponto de trama ou recebe uma inspiração de bardo",
+            "weight": "1"
+        },
+        "-Mk4FZ1oc6nL7QWNzUW2": {
+            "id": "-Mk4FZ1oc6nL7QWNzUW2",
+            "name": "Concede Escudo da Fé",
+            "weight": "1"
+        },
+        "-Mk4FZ1pnf3LdtG6y74O": {
+            "id": "-Mk4FZ1pnf3LdtG6y74O",
+            "name": "Concede Benção a três criaturas aleatórias",
+            "weight": "1"
+        },
+        "-Mk4FZ1rbNMcfYIGG96y": {
+            "id": "-Mk4FZ1rbNMcfYIGG96y",
+            "name": "Concede Palavra Curativa a todos os aliados",
+            "weight": "1"
+        },
+        "-Mk4FZ1sfWfOBs06vEDv": {
+            "id": "-Mk4FZ1sfWfOBs06vEDv",
+            "name": "Concede Ajuda a três aliados aleatórios",
+            "weight": "1"
+        },
+        "-Mk4FZ1usk5Jv1oCaHQ-": {
+            "id": "-Mk4FZ1usk5Jv1oCaHQ-",
+            "name": "Concede Sinal de Esperança a todos os aliados",
+            "weight": "1"
+        },
+        "-Mk4FZ1w3ulPhXpj8GMJ": {
+            "id": "-Mk4FZ1w3ulPhXpj8GMJ",
+            "name": "Meteoritos caem em todos os oponentes adjacentes ao alvo prioritário (2d6 de dano, DES para 1/2)",
+            "weight": "1"
+        },
+        "-Mk4FZ1ybyPHmrnk_P2S": {
+            "id": "-Mk4FZ1ybyPHmrnk_P2S",
+            "name": "Um relâmpago acerta a criatura atingida",
+            "weight": "1"
+        },
+        "-Mk4FZ2-kyfGYxqjtXh9": {
+            "id": "-Mk4FZ2-kyfGYxqjtXh9",
+            "name": "Uma armadura de gelo circundeia o atacante, concedendo 10 de vida temporária e causando a mesma quantia em dano para quem o atingir",
+            "weight": "1"
+        },
+        "-Mk4FZ20XXNxsqdOZ_uQ": {
+            "id": "-Mk4FZ20XXNxsqdOZ_uQ",
+            "name": "Uma nevasca cai impediosamente nos inimigos, causando 2d6 de dano em todos, em um alcance de 6mts de diâmetro",
+            "weight": "1"
+        },
+        "-Mk4FZ22YnzmDkgDPH-E": {
+            "id": "-Mk4FZ22YnzmDkgDPH-E",
+            "name": "O atacante fica imune a efeitos mágicos até a próxima magia acertá-lo ou até o fim do combate",
+            "weight": "1"
+        },
+        "-Mk4FZ23m-yDuXvYaYxS": {
+            "id": "-Mk4FZ23m-yDuXvYaYxS",
+            "name": "A arma fica encantada com gelo, diminuindo a distância de deslocamento em 50% de todas as criatuas que você atingir durante um turno, até o fim do combate",
+            "weight": "1"
+        },
+        "-Mk4FZ24Ft_bsL_rQOeB": {
+            "id": "-Mk4FZ24Ft_bsL_rQOeB",
+            "name": "O atacante pode se teleportar a até 18mts até o fim deste turno, sem gerar ataques de oportunidade",
+            "weight": "1"
+        },
+        "-Mk4FZ25CmRY45_q9EVy": {
+            "id": "-Mk4FZ25CmRY45_q9EVy",
+            "name": "Dobra seu atributo de dano para este ataque",
+            "weight": "1"
+        },
+        "-Mk4FZ271qYGDRrkmnxy": {
+            "id": "-Mk4FZ271qYGDRrkmnxy",
+            "name": "O ataque reduz a CA em 2 por conta de uma forte perfuração",
+            "weight": "1"
+        },
+        "-Mk4FZ28vSnPhKqgmGVs": {
+            "id": "-Mk4FZ28vSnPhKqgmGVs",
+            "name": "Você acerta com o ataque crítico em uma outra criatura adjacente a esta criatura",
+            "weight": "1"
+        },
+        "-Mk4FZ2AtAy-Uz58InAd": {
+            "id": "-Mk4FZ2AtAy-Uz58InAd",
+            "name": "O próximo ataque causado no oponente causará 10 de dano extra",
+            "weight": "1"
+        },
+        "-Mk4FZ2B5b6LdvMq7C_h": {
+            "id": "-Mk4FZ2B5b6LdvMq7C_h",
+            "name": "Quebra da Armadura do oponente",
+            "weight": "1"
+        },
+        "-Mk4FZ2Dsdgz4ceN-TOx": {
+            "id": "-Mk4FZ2Dsdgz4ceN-TOx",
+            "name": "Consegue pegar um item aleatório do oponente",
+            "weight": "1"
+        },
+        "-Mk4FZ2ERMgP32IhPa9N": {
+            "id": "-Mk4FZ2ERMgP32IhPa9N",
+            "name": "Consegue roubar 1d20*(nível do inimigo) em Ouro",
+            "weight": "1"
+        },
+        "-Mk4FZ2F3MWpnoLsdtsq": {
+            "id": "-Mk4FZ2F3MWpnoLsdtsq",
+            "name": "Desarma o possível escudo do inimigo e a derruba no chão, caso não tenha, dá uma rasteira causando 1d4 de dano e derruba o inimigo no chão",
+            "weight": "1"
+        },
+        "-Mk4FZ2Ge-JTBVHJ_OcU": {
+            "id": "-Mk4FZ2Ge-JTBVHJ_OcU",
+            "name": "Desarma a arma do oponente e a derruba",
+            "weight": "1"
+        },
+        "-Mk4FZ2IPyAFIeHeaJlZ": {
+            "id": "-Mk4FZ2IPyAFIeHeaJlZ",
+            "name": "Desarma a arma do oponente e a pega pra si",
+            "weight": "1"
+        },
+        "-Mk4FZ2KbJYEY6Sjuael": {
+            "id": "-Mk4FZ2KbJYEY6Sjuael",
+            "name": "Triplica os dados de dano",
+            "weight": "1"
+        },
+        "-Mk4FZ2LNITUpz3KnKI0": {
+            "id": "-Mk4FZ2LNITUpz3KnKI0",
+            "name": "Dobra o dano causado em vez de dobrar os dados",
+            "weight": "1"
+        },
+        "-Mk4FZ2NVIyb98UXKcpm": {
+            "id": "-Mk4FZ2NVIyb98UXKcpm",
+            "name": "Adiciona um dado extra no dano causado, sempre o maior dado disponível para dano, e adicione +5 no seu dano final",
+            "weight": "1"
+        },
+        "-Mk4FZ2OPGBheblUQAwE": {
+            "id": "-Mk4FZ2OPGBheblUQAwE",
+            "name": "Triplica o dano em vez de dobrar os dados",
+            "weight": "1"
+        },
+        "-Mk4FZ2Q7A6Jmt4cNPl_": {
+            "id": "-Mk4FZ2Q7A6Jmt4cNPl_",
+            "name": "Caso seu primeiro próximo ataque acerte o adversário, ele também será um ataque crítico",
+            "weight": "1"
+        },
+        "-Mk4FZ2SDZVQGaEAuv2t": {
+            "id": "-Mk4FZ2SDZVQGaEAuv2t",
+            "name": "Dá vantagem para os outros aliados atacarem o mesmo alvo até o seu próximo turno",
+            "weight": "1"
+        },
+        "-Mk4FZ2UQAqTuJYTngl7": {
+            "id": "-Mk4FZ2UQAqTuJYTngl7",
+            "name": "Dá desvantagem em todos os próximos ataques do turno subsequente do adversário",
+            "weight": "1"
+        },
+        "-Mk4FZ2WDBTm41Tq1gbe": {
+            "id": "-Mk4FZ2WDBTm41Tq1gbe",
+            "name": "Pode se movimentar mais 9mts durante esse turno",
+            "weight": "1"
+        },
+        "-Mk4FZ2YAW-ZhuHBC_9t": {
+            "id": "-Mk4FZ2YAW-ZhuHBC_9t",
+            "name": "Relâmpagos caem em direção a sua lâmina brandida, causando 1d6 de dano extra de raio até o fim do combate",
+            "weight": "1"
+        },
+        "-Mk4FZ2ZqNBiiBlpcaEW": {
+            "id": "-Mk4FZ2ZqNBiiBlpcaEW",
+            "name": "Pode realizar uma ação de desengage livremente nesse turno",
+            "weight": "1"
+        },
+        "-Mk4FZ2aWtyx9iEHLNLB": {
+            "id": "-Mk4FZ2aWtyx9iEHLNLB",
+            "name": "Pode realizar um novo ataque extra",
+            "weight": "1"
+        },
+        "-Mk4FZ2bwylxZbupL9fe": {
+            "id": "-Mk4FZ2bwylxZbupL9fe",
+            "name": "Ferimento interno grave que causa 1d12 de dano por turno",
+            "weight": "1"
+        },
+        "-Mk4FZ2doZB9mL_KAACK": {
+            "id": "-Mk4FZ2doZB9mL_KAACK",
+            "name": "Perda de um braço",
+            "weight": "1"
+        },
+        "-Mk4FZ2eLd7kXY3zdh3h": {
+            "id": "-Mk4FZ2eLd7kXY3zdh3h",
+            "name": "A criatura atingida é movida para um plano elemental por 10 turnos, CD15 SAB para retornar",
+            "weight": "1"
+        },
+        "-Mk4FZ2fLjyo-oVeIjri": {
+            "id": "-Mk4FZ2fLjyo-oVeIjri",
+            "name": "Perda de uma perna",
+            "weight": "1"
+        },
+        "-Mk4FZ2il_PipscjmAPE": {
+            "id": "-Mk4FZ2il_PipscjmAPE",
+            "name": "O atacante passa a enxergar o invisível até o fim do combate",
+            "weight": "1"
+        },
+        "-Mk4FZ2jLisUPSp3IyLX": {
+            "id": "-Mk4FZ2jLisUPSp3IyLX",
+            "name": "Perda de um olho",
+            "weight": "1"
+        },
+        "-Mk4FZ2kWOOL95NnGyU7": {
+            "id": "-Mk4FZ2kWOOL95NnGyU7",
+            "name": "K.O Instantâneo",
+            "weight": ""
+        }
+    }
+}

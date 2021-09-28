@@ -1,0 +1,537 @@
+{
+    "name": "Magia-Selvagem",
+    "showplayers": true,
+    "id": "-MiYHVI33f3vGm8K-Vss",
+    "items": {
+        "-MiYHVI9U_trmcAk2SLO": {
+            "id": "-MiYHVI9U_trmcAk2SLO",
+            "name": "Jogue nesta tabela no começo de cada um dos seus turnos pelo próximo minuto, ignorando este resultado em jogadas subsequentes.",
+            "weight": "1"
+        },
+        "-MiYHVICJ8lk-F8aFHSR": {
+            "id": "-MiYHVICJ8lk-F8aFHSR",
+            "name": "O conjurador troca de lugar com o alvo da magia.",
+            "weight": "1"
+        },
+        "-MiYHVIDn7aYBoGiz40h": {
+            "id": "-MiYHVIDn7aYBoGiz40h",
+            "name": "Por um minuto, você pode ver qualquer criatura invisível em sua linha de visão.",
+            "weight": "1"
+        },
+        "-MiYHVIG9undc1SNRTFc": {
+            "id": "-MiYHVIG9undc1SNRTFc",
+            "name": "Um cavalo de fogo aparece (não um Pesadelo, um cavalo mesmo) a 1,5 metro de distância de você, e desaparece depois de 1 minuto.",
+            "weight": "1"
+        },
+        "-MiYHVIH46qJw5Mz_4Zh": {
+            "id": "-MiYHVIH46qJw5Mz_4Zh",
+            "name": "Um modron escolhido e controlado pelo DM aparece em um espaço desocupado, a 1,5 metro de distância de você e desaparece 1 minuto depois. https://i.pinimg.com/originals/3e/b0/67/3eb067336f13a3587bf92ab0f8e7dca7.png",
+            "weight": "1"
+        },
+        "-MiYHVIIXu_4BVm02MEJ": {
+            "id": "-MiYHVIIXu_4BVm02MEJ",
+            "name": "Plantas começam a crescer rapidamente ao redor do conjurador.",
+            "weight": "1"
+        },
+        "-MiYHVIJ-Ai8P3oXd_LY": {
+            "id": "-MiYHVIJ-Ai8P3oXd_LY",
+            "name": "Você conjura bolade fogo como uma magia de 3º círculo centrada em você.",
+            "weight": "1"
+        },
+        "-MiYHVIJ-Ai8P3oXd_LZ": {
+            "id": "-MiYHVIJ-Ai8P3oXd_LZ",
+            "name": "Todas as armas a até 18 metros de distância de você se transformam em legumes, durante um minuto.",
+            "weight": "1"
+        },
+        "-MiYHVIKjUFvwmVhTmAf": {
+            "id": "-MiYHVIKjUFvwmVhTmAf",
+            "name": "Você conjura mísseis mágicos como uma magia de 5º círculo. https://dnd5spells.rpgist.net/pt-BR/spells/magic-missile",
+            "weight": "1"
+        },
+        "-MiYHVILRgwzUTJCmSMa": {
+            "id": "-MiYHVILRgwzUTJCmSMa",
+            "name": "A próxima vez que você falar, ativa uma arma de sopro de fogo em um cone de 9 metros, causando 5d6 pontos de dano ígneo.",
+            "weight": "1"
+        },
+        "-MiYHVIMZCVv0mlPNtmZ": {
+            "id": "-MiYHVIMZCVv0mlPNtmZ",
+            "name": "Jogue 1d20 + 1d6. Sua altura é alterada em um número de centímetros igual ao resultado obtido. Se a jogada for ímpar, você encolhe. Se for par, você cresce.",
+            "weight": "1"
+        },
+        "-MiYHVINywkiPkzxa6DA": {
+            "id": "-MiYHVINywkiPkzxa6DA",
+            "name": "O alvo fica preso em um casulo de cristal até que alguém use uma ação e o liberte, quebrando o casulo.",
+            "weight": "1"
+        },
+        "-MiYHVIO9tcaCIQM-fj-": {
+            "id": "-MiYHVIO9tcaCIQM-fj-",
+            "name": "Você conjura a magia confusão centrada em você. https://dnd5spells.rpgist.net/pt-BR/spells/confusion",
+            "weight": "1"
+        },
+        "-MiYHVIPnIc-mHBoDd9j": {
+            "id": "-MiYHVIPnIc-mHBoDd9j",
+            "name": "Você conjura onda trovejante como uma magia de 1º círculo centrada em você. https://dnd5spells.rpgist.net/pt-BR/spells/thunderwave",
+            "weight": "1"
+        },
+        "-MiYHVIQkEioDVK9W__T": {
+            "id": "-MiYHVIQkEioDVK9W__T",
+            "name": "Por um minuto, você recupera 5 pontos de vida no começo de cada um dos seus turnos.",
+            "weight": "1"
+        },
+        "-MiYHVIRa1wGbZPqWKVJ": {
+            "id": "-MiYHVIRa1wGbZPqWKVJ",
+            "name": "O alvo é transportado para o Plano Etéreo por 1 minuto.",
+            "weight": "1"
+        },
+        "-MiYHVISRFI4EPVNfoPU": {
+            "id": "-MiYHVISRFI4EPVNfoPU",
+            "name": "Uma longa barba feita de penas cresce em você e permanece até você espirrar, fazendo com que as penas explodam para fora do seu rosto.",
+            "weight": "1"
+        },
+        "-MiYHVIUaGZsC5YaQrwg": {
+            "id": "-MiYHVIUaGZsC5YaQrwg",
+            "name": "Uma Fúria de Ratos carrega o conjurador a 9 metros em uma direção aleatória.",
+            "weight": "1"
+        },
+        "-MiYHVIWAZI7cC-QkVoA": {
+            "id": "-MiYHVIWAZI7cC-QkVoA",
+            "name": "Você conjura graxa centrada em você. https://dnd5spells.rpgist.net/pt-BR/spells/grease",
+            "weight": "1"
+        },
+        "-MiYHVIXp4rxrYoLjw50": {
+            "id": "-MiYHVIXp4rxrYoLjw50",
+            "name": "Todas as criaturas a até 9 metros ao redor do conjurador ficam contidas, e devem fazer um teste de Força com CD 15 para escapar.",
+            "weight": "1"
+        },
+        "-MiYHVIZxZcAiPxWqXsN": {
+            "id": "-MiYHVIZxZcAiPxWqXsN",
+            "name": "Criaturas têm desvantagem em salvaguardas contra a próxima magia que você conjurar no próximo minuto, desde que ela envolva uma salvaguarda.",
+            "weight": "1"
+        },
+        "-MiYHVI_uWgkq6B1cMqP": {
+            "id": "-MiYHVI_uWgkq6B1cMqP",
+            "name": "Um carvalho adulto surge em um espaço desocupado a até 18 metros de distância do conjurador.",
+            "weight": "1"
+        },
+        "-MiYHVIb6SW7G_cOGvdW": {
+            "id": "-MiYHVIb6SW7G_cOGvdW",
+            "name": "Sua pele adquire um tom vibrante de azul.",
+            "weight": "1"
+        },
+        "-MiYHVId_yUSVFwS6z9i": {
+            "id": "-MiYHVId_yUSVFwS6z9i",
+            "name": "A magia remover maldição pode encerrar esse efeito.",
+            "weight": "1"
+        },
+        "-MiYHVIgRIxuV0A9RHp4": {
+            "id": "-MiYHVIgRIxuV0A9RHp4",
+            "name": "O conjurador pode se comunicar apenas com animais durante as próximas 24 horas.",
+            "weight": "1"
+        },
+        "-MiYHVIiyXVvgJJh33XD": {
+            "id": "-MiYHVIiyXVvgJJh33XD",
+            "name": "Um olho aparece na sua testa por um minuto. Durante esse tempo, você tem vantagem em testes de Sabedoria (Percepção) que dependam da visão.",
+            "weight": "1"
+        },
+        "-MiYHVIjzQqQEvqil2va": {
+            "id": "-MiYHVIjzQqQEvqil2va",
+            "name": "O conjurador dobra de peso por 1 minuto, e fica com o deslocamento reduzido pela metade.",
+            "weight": "1"
+        },
+        "-MiYHVIlpaGmjQZjg_VH": {
+            "id": "-MiYHVIlpaGmjQZjg_VH",
+            "name": "Por um minuto, todas as suas magias com um tempo de conjuração de uma ação passam a ter um tempo de conjuração de uma ação bônus.",
+            "weight": "1"
+        },
+        "-MiYHVInGQY5LncfAJGK": {
+            "id": "-MiYHVInGQY5LncfAJGK",
+            "name": "Você perde seu próximo turno, e vomita 1d100 peças de prata.",
+            "weight": "1"
+        },
+        "-MiYHVIpuwFT8xQeDb4o": {
+            "id": "-MiYHVIpuwFT8xQeDb4o",
+            "name": "Você se teleporta à até 18 metros para um espaço desocupado que possa ver, à sua escolha.",
+            "weight": "1"
+        },
+        "-MiYHVIrc3pc-SvpHhrl": {
+            "id": "-MiYHVIrc3pc-SvpHhrl",
+            "name": "Suas mãos ficam cobertas por uma gosma verde e grudenta.",
+            "weight": "1"
+        },
+        "-MiYHVIs8izf71gWF5JL": {
+            "id": "-MiYHVIs8izf71gWF5JL",
+            "name": "Você é transportado para o Plano Astral até o final do seu próximo turno; após esse tempo, você retorna para o espaço que ocupava ou para o espaço desocupado mais próximo, caso o espaço original esteja ocupado.",
+            "weight": "1"
+        },
+        "-MiYHVItW8I5EzE6DQ_g": {
+            "id": "-MiYHVItW8I5EzE6DQ_g",
+            "name": "Repolhos brotam de forma abundante em uma área com raio de 9 metros ao seu redor.",
+            "weight": "1"
+        },
+        "-MiYHVIvSbsiQKnCEFpC": {
+            "id": "-MiYHVIvSbsiQKnCEFpC",
+            "name": "Maximize o dano da sua próxima magia que cause dano, conjurada no próximo minuto.",
+            "weight": "1"
+        },
+        "-MiYHVIwmdsGIGHHgUwZ": {
+            "id": "-MiYHVIwmdsGIGHHgUwZ",
+            "name": "Pelas próximas 24 horas você consegue imitar perfeitamente a voz do alvo (ou de um dos alvos) da magia que desencadeou esse efeito.",
+            "weight": "1"
+        },
+        "-MiYHVIyZrv2Z75DIbvs": {
+            "id": "-MiYHVIyZrv2Z75DIbvs",
+            "name": "Jogue 1d10. Sua idade muda em um número de anos igual ao resultado da jogada. Se o resultado for ímpar, você fica mais jovem (no mínimo 1 ano de idade). Se o resultado for par, você fica mais velho.",
+            "weight": "1"
+        },
+        "-MiYHVIz5QFujqPlaVBX": {
+            "id": "-MiYHVIz5QFujqPlaVBX",
+            "name": "Chifres de cervo crescem na sua cabeça.",
+            "weight": "1"
+        },
+        "-MiYHVJ-6j1sGiUP9T2x": {
+            "id": "-MiYHVJ-6j1sGiUP9T2x",
+            "name": "Eles caem depois de 24 horas.",
+            "weight": "1"
+        },
+        "-MiYHVJ-6j1sGiUP9T2y": {
+            "id": "-MiYHVJ-6j1sGiUP9T2y",
+            "name": "1d6 flunfs controlados pelo DM aparecem em espaços desocupados num raio de 18 metros e ficam amedrontados por você. https://static.wikia.nocookie.net/forgottenrealmsbr/images/e/ec/Flumph-5e.jpg/revision/latest?cb=20201028222015",
+            "weight": "1"
+        },
+        "-MiYHVJ1_H0hjluE_oTN": {
+            "id": "-MiYHVJ1_H0hjluE_oTN",
+            "name": "Eles desaparecem após 1 minuto.",
+            "weight": "1"
+        },
+        "-MiYHVJ2NdSu64wwyPEx": {
+            "id": "-MiYHVJ2NdSu64wwyPEx",
+            "name": "Conjurador e alvo são arremessados 3 metros em direções opostas.",
+            "weight": "1"
+        },
+        "-MiYHVJ3R0QcN_8oJQce": {
+            "id": "-MiYHVJ3R0QcN_8oJQce",
+            "name": "Você recupera 2d10 pontos de vida.",
+            "weight": "1"
+        },
+        "-MiYHVJ4dWxWN5uQDNOp": {
+            "id": "-MiYHVJ4dWxWN5uQDNOp",
+            "name": "A gravidade fica invertida em uma esfera com raio de 9 metros ao redor de você até o início de seu próximo turno.",
+            "weight": "1"
+        },
+        "-MiYHVJ6krg6FkuATJge": {
+            "id": "-MiYHVJ6krg6FkuATJge",
+            "name": "Você fica distraído por uma nuvem de mosquitos pelo próximo minuto. Só consegue agir normalmente se obtiver sucesso em uma salvaguarda de Sabedoria com CD 10 no início do seu turno.",
+            "weight": "1"
+        },
+        "-MiYHVJ6krg6FkuATJgf": {
+            "id": "-MiYHVJ6krg6FkuATJgf",
+            "name": "Você se transforma em uma planta envasada até o começo de seu próximo turno. Enquanto estiver sob a forma de planta, estará incapacitado e vulnerável a todos os tipos de dano. Se ficar com 0 pontos de vida, seu vaso se quebra e você volta a sua forma normal.*",
+            "weight": "1"
+        },
+        "-MiYHVJ87hNWqOfpR48S": {
+            "id": "-MiYHVJ87hNWqOfpR48S",
+            "name": "Por um minuto, com o uso de uma ação bônus no começo de cada um dos seus turnos, você pode se teleportar a até 6 metros de distância.",
+            "weight": "1"
+        },
+        "-MiYHVJ9wUKj2Kpu1MBk": {
+            "id": "-MiYHVJ9wUKj2Kpu1MBk",
+            "name": "A magia ricocheteia aleatoriamente em uma criatura a até 9 metros do alvo original.",
+            "weight": "1"
+        },
+        "-MiYHVJARVATk6xq5TJc": {
+            "id": "-MiYHVJARVATk6xq5TJc",
+            "name": "Você conjura levitação em si mesmo. https://dnd5spells.rpgist.net/pt-BR/spells/levitate",
+            "weight": "1"
+        },
+        "-MiYHVJARVATk6xq5TJd": {
+            "id": "-MiYHVJARVATk6xq5TJd",
+            "name": "Suas peças de cobre se tornam de prata, peças de prata se tornam de ouro e peças de ouro se tornam de cobre.",
+            "weight": "1"
+        },
+        "-MiYHVJBW5pr-kM5z_9v": {
+            "id": "-MiYHVJBW5pr-kM5z_9v",
+            "name": "Um unicórnio controlado pelo DM aparece em um espaço a até 1,5 metro de você e desaparece após 1 minuto. https://3.bp.blogspot.com/-gw3T-pni2z4/WnDB2wU8wQI/AAAAAAAAAKI/brRhGqjBZRw1qniawGgBa2Ow8vjgIXtVwCLcBGAs/s1600/unicorn5.jpg",
+            "weight": "1"
+        },
+        "-MiYHVJCGXFVwTnR7inc": {
+            "id": "-MiYHVJCGXFVwTnR7inc",
+            "name": "Um dos olhos do alvo se transforma em uma safira com valor de 500 peças de ouro.",
+            "weight": "1"
+        },
+        "-MiYHVJDwlFqVEwcEMxm": {
+            "id": "-MiYHVJDwlFqVEwcEMxm",
+            "name": "Você não pode falar por um minuto.",
+            "weight": "1"
+        },
+        "-MiYHVJEq2My1LoXZ_D3": {
+            "id": "-MiYHVJEq2My1LoXZ_D3",
+            "name": "Sempre que tentar, bolhas rosas sairão da sua boca.",
+            "weight": "1"
+        },
+        "-MiYHVJF_9jwLEV2IBxX": {
+            "id": "-MiYHVJF_9jwLEV2IBxX",
+            "name": "Fumaça sai das suas orelhas por um minuto.",
+            "weight": "1"
+        },
+        "-MiYHVJF_9jwLEV2IBxY": {
+            "id": "-MiYHVJF_9jwLEV2IBxY",
+            "name": "Um escudo espectral flutua perto de você por um minuto, concedendo um bônus de +2 para sua CA e imunidade a mísseis mágicos.",
+            "weight": "1"
+        },
+        "-MiYHVJGQqlktgqCMBRk": {
+            "id": "-MiYHVJGQqlktgqCMBRk",
+            "name": "Você ganha uma cauda preênsil por uma hora.",
+            "weight": "1"
+        },
+        "-MiYHVJHZQjAlYyo3XMw": {
+            "id": "-MiYHVJHZQjAlYyo3XMw",
+            "name": "Você fica imune a intoxicação por álcool pelos próximos 5d6 dias.",
+            "weight": "1"
+        },
+        "-MiYHVJIz7MrJpvNxvkU": {
+            "id": "-MiYHVJIz7MrJpvNxvkU",
+            "name": "Todas as portas e janelas a até 18 metros de você se abrem.",
+            "weight": "1"
+        },
+        "-MiYHVJJKTdcyq2voLuR": {
+            "id": "-MiYHVJJKTdcyq2voLuR",
+            "name": "Seu cabelo cai, mas cresce de volta dentro de 24 horas.",
+            "weight": "1"
+        },
+        "-MiYHVJKaNEWWaRO9jlJ": {
+            "id": "-MiYHVJKaNEWWaRO9jlJ",
+            "name": "Uma pequena explosão deixa você com a cara suja de fuligem.",
+            "weight": "1"
+        },
+        "-MiYHVJLUw3cn6KDEfM4": {
+            "id": "-MiYHVJLUw3cn6KDEfM4",
+            "name": "Por um minuto, qualquer objeto inflamável que você tocar e que não esteja sendo vestido ou carregado por",
+            "weight": "1"
+        },
+        "-MiYHVJMbnozvY8hZ9h-": {
+            "id": "-MiYHVJMbnozvY8hZ9h-",
+            "name": "outra criatura explode em chamas.",
+            "weight": "1"
+        },
+        "-MiYHVJN1BZ8GHGr4QEk": {
+            "id": "-MiYHVJN1BZ8GHGr4QEk",
+            "name": "Um gêiser se forma sob você e te ergue a 15 metros do chão, até o início do seu próximo turno. https://media.istockphoto.com/vectors/water-comping-out-of-the-ground-vector-id533904880?k=20&m=533904880&s=612x612&w=0&h=_zlL2CAznK3kf_cNcyZcJG5vgqeS2LmbMD6QL1wpReQ=",
+            "weight": "1"
+        },
+        "-MiYHVJOHCcR5c7GBbCN": {
+            "id": "-MiYHVJOHCcR5c7GBbCN",
+            "name": "Você recupera o espaço de magia de menor círculo que tenha gasto.",
+            "weight": "1"
+        },
+        "-MiYHVJPEAWzjtjKlKe-": {
+            "id": "-MiYHVJPEAWzjtjKlKe-",
+            "name": "Um urso pardo aparece a até 18 metros de você, confuso, por um minuto. https://static.wikia.nocookie.net/harrypotter/images/a/a4/Bear.png/revision/latest?cb=20131031165028",
+            "weight": "1"
+        },
+        "-MiYHVJQLi7vXhEREMAs": {
+            "id": "-MiYHVJQLi7vXhEREMAs",
+            "name": "Por um minuto, você deve gritar ao falar.",
+            "weight": "1"
+        },
+        "-MiYHVJSLt4psy-QL6o8": {
+            "id": "-MiYHVJSLt4psy-QL6o8",
+            "name": "Mato cresce 6 metros ao seu redor, alcançando 1 metro de altura. Ele desaparece depois de um minuto.",
+            "weight": "1"
+        },
+        "-MiYHVJTNFnILgP1zlex": {
+            "id": "-MiYHVJTNFnILgP1zlex",
+            "name": "Você conjura névoa obscurecente centrada em você. https://dnd5spells.rpgist.net/pt-BR/spells/fog-cloud",
+            "weight": "1"
+        },
+        "-MiYHVJUfcxgxkSdw_10": {
+            "id": "-MiYHVJUfcxgxkSdw_10",
+            "name": "Você só consegue respirar debaixo d’água durante o próximo minuto. Caso contrário, estará sufocando.",
+            "weight": "1"
+        },
+        "-MiYHVJVmZjf_YPF5qrf": {
+            "id": "-MiYHVJVmZjf_YPF5qrf",
+            "name": "Até três criaturas, à sua escolha, e que estejam no máximo a 9 metros de distância, sofrem 4d10 pontos de dano elétrico.",
+            "weight": "1"
+        },
+        "-MiYHVJVmZjf_YPF5qrg": {
+            "id": "-MiYHVJVmZjf_YPF5qrg",
+            "name": "Você cai inconsciente até o início do seu próximo turno.",
+            "weight": "1"
+        },
+        "-MiYHVJX5vsAxAUgWcmR": {
+            "id": "-MiYHVJX5vsAxAUgWcmR",
+            "name": "Você fica amedrontado pela criatura mais próxima até o final do seu próximo turno.",
+            "weight": "1"
+        },
+        "-MiYHVJX5vsAxAUgWcmS": {
+            "id": "-MiYHVJX5vsAxAUgWcmS",
+            "name": "Se o alvo morrer no próximo minuto, o fantasma dele passa a assombrar o conjurador da última magia que o afetou.",
+            "weight": "1"
+        },
+        "-MiYHVJYwmDrpivYo1o2": {
+            "id": "-MiYHVJYwmDrpivYo1o2",
+            "name": "Cada criatura a até 9 metros de distância fica invisível por um minuto. A invisibilidade se encerra para uma criatura quando ela ataca ou conjura uma magia.",
+            "weight": "1"
+        },
+        "-MiYHVJ_0Aw5r26RkTJP": {
+            "id": "-MiYHVJ_0Aw5r26RkTJP",
+            "name": "Todos em uma área de 18 metros devem ter sucesso em uma salvaguarda de Sabedoria com CD 15 ou soltar o que estiver segurando nas mãos.",
+            "weight": "1"
+        },
+        "-MiYHVJaNsOVxOpMvklw": {
+            "id": "-MiYHVJaNsOVxOpMvklw",
+            "name": "Você ganha resistência a todos os tipos de dano por 1 minuto.",
+            "weight": "1"
+        },
+        "-MiYHVJbuq3rhFexSIZb": {
+            "id": "-MiYHVJbuq3rhFexSIZb",
+            "name": "Tudo o que estiver a até 6 metros do conjurador é puxado 3 metros em sua direção.",
+            "weight": "1"
+        },
+        "-MiYHVJccss1Sk1qFNX_": {
+            "id": "-MiYHVJccss1Sk1qFNX_",
+            "name": "Uma criatura a até 18 metros distante de você, e escolhida ao acaso, fica envenenada por 1d4 horas.",
+            "weight": "1"
+        },
+        "-MiYHVJccss1Sk1qFNXa": {
+            "id": "-MiYHVJccss1Sk1qFNXa",
+            "name": "Você fica com cheiro de lavanda por 1d6 dias.",
+            "weight": "1"
+        },
+        "-MiYHVJdZ0KrAUeQx-3S": {
+            "id": "-MiYHVJdZ0KrAUeQx-3S",
+            "name": "Você brilha com luz plena num raio de 18 metros por um minuto. Qualquer criatura que encerre o turno dela a até 1,5 metro de distância de você ficará cega até o final do próximo turno dela.",
+            "weight": "1"
+        },
+        "-MiYHVJe1DporgVlZYvY": {
+            "id": "-MiYHVJe1DporgVlZYvY",
+            "name": "Suas roupas encolhem e ficam desconfortavelmente apertadas.",
+            "weight": "1"
+        },
+        "-MiYHVJfeb9Q1Aa6DkJn": {
+            "id": "-MiYHVJfeb9Q1Aa6DkJn",
+            "name": "Você conjura polimorfia em si mesmo. Se falhar na salvaguarda, transforma-se numa ovelha pela duração da magia. https://dnd5spells.rpgist.net/pt-BR/spells/polymorph",
+            "weight": "1"
+        },
+        "-MiYHVJgHaSn5_DkZGcN": {
+            "id": "-MiYHVJgHaSn5_DkZGcN",
+            "name": "Se a magia matar o alvo, ele explode em pedacinhos.",
+            "weight": "1"
+        },
+        "-MiYHVJh1EqN9YsNS8yU": {
+            "id": "-MiYHVJh1EqN9YsNS8yU",
+            "name": "Borboletas e pétalas de flores ilusórias flutuam no ar a até 3 metros de distância de você por um minuto.",
+            "weight": "1"
+        },
+        "-MiYHVJh1EqN9YsNS8yV": {
+            "id": "-MiYHVJh1EqN9YsNS8yV",
+            "name": "Você fica preso dentro de uma esfera de vidro gigante, até alguém usar uma ação e o libertar.",
+            "weight": "1"
+        },
+        "-MiYHVJizR3cJNRvLZ1-": {
+            "id": "-MiYHVJizR3cJNRvLZ1-",
+            "name": "Você pode realizar outra ação imediatamente.",
+            "weight": "1"
+        },
+        "-MiYHVJjrrCnIKz98WmG": {
+            "id": "-MiYHVJjrrCnIKz98WmG",
+            "name": "Seus punhos ficam grandes e rígidos, passando a causar 1d8 pontos de dano contundente pelo próximo minuto.",
+            "weight": "1"
+        },
+        "-MiYHVJknnG7nJv9ZWE0": {
+            "id": "-MiYHVJknnG7nJv9ZWE0",
+            "name": "Qualquer criatura a até 9 metros de distância de você sofre 1d10 pontos de dano necrótico. Você recupera uma quantidade de pontos de vida igual à soma do dano necrótico causado.",
+            "weight": "1"
+        },
+        "-MiYHVJlvgzLGgMKyBVw": {
+            "id": "-MiYHVJlvgzLGgMKyBVw",
+            "name": "Durante um minuto, no marcador de iniciativa 20, uma voz alta e espectral ridiculariza você.",
+            "weight": "1"
+        },
+        "-MiYHVJmex5u4Uk0_ADd": {
+            "id": "-MiYHVJmex5u4Uk0_ADd",
+            "name": "Você conjura reflexos. https://dnd5spells.rpgist.net/pt-BR/spells/mirror-image",
+            "weight": "1"
+        },
+        "-MiYHVJmex5u4Uk0_ADe": {
+            "id": "-MiYHVJmex5u4Uk0_ADe",
+            "name": "Seus braços se transformam em tentáculos durante um minuto.",
+            "weight": "1"
+        },
+        "-MiYHVJnwZx0riMBv4Px": {
+            "id": "-MiYHVJnwZx0riMBv4Px",
+            "name": "Você conjura voo em uma criatura aleatória e que esteja a até 18 metros de distância de você. https://dnd5spells.rpgist.net/pt-BR/spells/fly",
+            "weight": "1"
+        },
+        "-MiYHVJoxDHlXQs6Anki": {
+            "id": "-MiYHVJoxDHlXQs6Anki",
+            "name": "Um grande olho flutuante segue você durante um hora.",
+            "weight": "1"
+        },
+        "-MiYHVJpWR6junt1q5nQ": {
+            "id": "-MiYHVJpWR6junt1q5nQ",
+            "name": "Você fica invisível por um minuto.",
+            "weight": "1"
+        },
+        "-MiYHVJqueGk-gXz_GYX": {
+            "id": "-MiYHVJqueGk-gXz_GYX",
+            "name": "Durante esse tempo, outras criaturas não podem ouvi-lo. O efeito termina se você atacar ou conjurar uma magia.",
+            "weight": "1"
+        },
+        "-MiYHVJri_n4iz6tFJgW": {
+            "id": "-MiYHVJri_n4iz6tFJgW",
+            "name": "Seus valores de Inteligência e Força se invertem durante uma hora.",
+            "weight": "1"
+        },
+        "-MiYHVJs_7qofJ6Konw1": {
+            "id": "-MiYHVJs_7qofJ6Konw1",
+            "name": "Se você morrer no próximo minuto, voltará imediatamente à vida como se tivesse sido alvo da magia reencarnar. https://dnd5spells.rpgist.net/pt-BR/spells/reincarnate",
+            "weight": "1"
+        },
+        "-MiYHVJt9wlIcg1vg7K0": {
+            "id": "-MiYHVJt9wlIcg1vg7K0",
+            "name": "Durante as próximas 24 horas, você enxerga todas as pessoas como se elas fossem corpos em decomposição.",
+            "weight": "1"
+        },
+        "-MiYHVJu_0r-54F6_MAG": {
+            "id": "-MiYHVJu_0r-54F6_MAG",
+            "name": "Seu tamanho aumenta em uma categoria por um minuto.",
+            "weight": "1"
+        },
+        "-MiYHVJvwoYy5uAD54Ux": {
+            "id": "-MiYHVJvwoYy5uAD54Ux",
+            "name": "Todas as fontes de luz a até 18 metros de você se extinguem.",
+            "weight": "1"
+        },
+        "-MiYHVJwvRBRKmvkhaZ4": {
+            "id": "-MiYHVJwvRBRKmvkhaZ4",
+            "name": "Você e todas as criaturas a até 9 metros de distância ficam vulneráveis a dano perfurante por um minuto.",
+            "weight": "1"
+        },
+        "-MiYHVJx5h7BxKdiuEEf": {
+            "id": "-MiYHVJx5h7BxKdiuEEf",
+            "name": "Você fica amedrontado por uma cor durante uma hora.",
+            "weight": "1"
+        },
+        "-MiYHVJyZVnd-ncCldD2": {
+            "id": "-MiYHVJyZVnd-ncCldD2",
+            "name": "Você é envolto por uma tênue música etérea por um minuto.",
+            "weight": "1"
+        },
+        "-MiYHVJzm_ZO08P8yDmX": {
+            "id": "-MiYHVJzm_ZO08P8yDmX",
+            "name": "Pelas próximas 24 horas, você fica com dor de cabeça como se tivesse bebido algo muito gelado.",
+            "weight": "1"
+        },
+        "-MiYHVK-ubeZ5STbIceI": {
+            "id": "-MiYHVK-ubeZ5STbIceI",
+            "name": "Você recupera todos os seus pontos de feitiçaria gastos.",
+            "weight": "1"
+        },
+        "-MiYHVK0GwtSu12hUtmB": {
+            "id": "-MiYHVK0GwtSu12hUtmB",
+            "name": "A próxima frase dita por você se torna verdade, ao menos por um tempo. O DM decide de que maneira isso acontece.",
+            "weight": "1"
+        }
+    }
+}

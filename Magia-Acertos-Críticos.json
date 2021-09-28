@@ -1,0 +1,90 @@
+{
+    "name": "Magia-Acertos-Críticos",
+    "showplayers": true,
+    "id": "-Mi77uyF19-bE3fXgaN9",
+    "items": {
+        "-Mi77uyHA9sTWYKh-kvT": {
+            "id": "-Mi77uyHA9sTWYKh-kvT",
+            "name": "Seu golpe foi incrível, mas nada de extraordinário acontece.\tUm acerto crítico normal."
+        },
+        "-Mi77uyI7KG-RgGyUWPc": {
+            "id": "-Mi77uyI7KG-RgGyUWPc",
+            "name": "Você sente que é crucial manter sua vantagem contra o inimigo, não importa o preço.\tVocê pode escolher ganhar vantagem em todos os ataques contra seu alvo até o fim do seu próximo turno, mas se você fizer isso todos os outros inimigos terão vantagem nas rolagens de ataque contra você até o fim do seu próximo turno.",
+            "weight": 4
+        },
+        "-Mi77uyJUxY_QTvJKt8t": {
+            "id": "-Mi77uyJUxY_QTvJKt8t",
+            "name": "Você sente que é crucial mantar sua vantagem, mas também se manter consciente do seus arredores.\tVocê pode escolher ganhar vantagem em todas as rolagens de ataque contra seu alvo no seu próximo turno, se o fizer seu alvo tem vantagem contra você até o fim do seu próximo turno.",
+            "weight": 4
+        },
+        "-Mi77uyKzdQuMjkZTnAi": {
+            "id": "-Mi77uyKzdQuMjkZTnAi",
+            "name": "Enquanto você luta, você percebe uma rota de fuga efetiva para escapar do perigo.\tVocê pode usar a ação Desengajar depois desse ataque.",
+            "weight": 5
+        },
+        "-Mi77uyLoA8ptCWiz5zC": {
+            "id": "-Mi77uyLoA8ptCWiz5zC",
+            "name": "Você sente o fluxo da batalha, e sabe exatamente pra onde se mover.\tDepois do seu turno você vai pro início da ordem de iniciativas.",
+            "weight": 5
+        },
+        "-Mi77uyLoA8ptCWiz5zD": {
+            "id": "-Mi77uyLoA8ptCWiz5zD",
+            "name": "Sua magia deixa seu oponente manco.\tO descolamento do seu alvo cai para metade durante os dois próximos turnos dele.",
+            "weight": 10
+        },
+        "-Mi77uyMUe0SNzSgc40N": {
+            "id": "-Mi77uyMUe0SNzSgc40N",
+            "name": "Sua magia derruba seu oponente do chão.\tSeu alvo cai deitado no chão.",
+            "weight": 10
+        },
+        "-Mi77uyNn2SB9zALky6c": {
+            "id": "-Mi77uyNn2SB9zALky6c",
+            "name": "A luz da sua magia produz um clarão perto dos olhos do seu alvo.\tSeu alvo está cego até o fim do próximo turno dele.",
+            "weight": 10
+        },
+        "-Mi77uyNn2SB9zALky6d": {
+            "id": "-Mi77uyNn2SB9zALky6d",
+            "name": "Você arranca a arma do seu alvo para fora das mãos dele.\tA arma do seu alvo é arremessada a 1d4*2 metros de distância em uma direção aleatória.",
+            "weight": 10
+        },
+        "-Mi77uyOqBOVJcpv_oro": {
+            "id": "-Mi77uyOqBOVJcpv_oro",
+            "name": "A visão da sua magia enche o coração do alvo de medo.\tSeu alvo está amedrontado em relação a você até que você pare de conjurar magias. Você consegue discernir a fonte do medo do seu alvo.",
+            "weight": 10
+        },
+        "-Mi77uyQs8mZYAeLYTY9": {
+            "id": "-Mi77uyQs8mZYAeLYTY9",
+            "name": "A força da sua magia atordoa seu oponente.\tSeu alvo está incapacitado até o fim do próximo turno dele.",
+            "weight": 5
+        },
+        "-Mi77uyRKuSQeJztq3CW": {
+            "id": "-Mi77uyRKuSQeJztq3CW",
+            "name": "Sua magia irradia incidentalmente uma energia feérica.\tRole 10d8. Se os pontos de vida atuais do seu alvo são menores que o número rolado, ele cai adormecido por 1 minuto.",
+            "weight": 5
+        },
+        "-Mi77uyS87MlXIClGl67": {
+            "id": "-Mi77uyS87MlXIClGl67",
+            "name": "Seu ataque com magia surpreende seu oponente.\tSeu alvo está surpreso até o fim do próximo turno dele.",
+            "weight": 5
+        },
+        "-Mi77uyS87MlXIClGl68": {
+            "id": "-Mi77uyS87MlXIClGl68",
+            "name": "Sua magia acerta com uma grande força.\tRole um conjunto de dados uma categoria acima dos dados normais da sua magia, além dos dados de dano normais (D4 vira D6. D6 vira D8, D8 vira D10...etc.).",
+            "weight": 5
+        },
+        "-Mi77uyTiiJx1Bka9ft6": {
+            "id": "-Mi77uyTiiJx1Bka9ft6",
+            "name": "Sua magia acerta com uma forma extrema.\tRole um conjunto de dados uma categoria acima dos dados normais da sua magia, além dos dados de dano normais (D4 vira D6. D6 vira D8, D8 vira D10...etc.). O alvo também sofre um nível de exaustão.",
+            "weight": 5
+        },
+        "-Mi77uyUxqcXalZs0UlU": {
+            "id": "-Mi77uyUxqcXalZs0UlU",
+            "name": "Sua magia acerta com uma força debilitante.\tRole um conjunto de dados uma categoria acima dos dados normais da sua magia, além dos dados de dano normais (D4 vira D6. D6 vira D8, D8 vira D10...etc.). Além disso o alvo sofre um severo ferimento permanente escolhido pelo mestre. O ferimento permanente pode ser curado Recuperando-se (p.187) com um descanso estendido, mas o ataque deixa uma cicatriz.",
+            "weight": 5
+        },
+        "-Mi77uyUxqcXalZs0UlV": {
+            "id": "-Mi77uyUxqcXalZs0UlV",
+            "name": "Sua magia acerta com uma força devastadora.\tRole um conjunto de dados uma categoria acima dos dados normais da sua magia, além dos dados de dano normais (D4 vira D6. D6 vira D8, D8 vira D10...etc.). O alvo também sofre um nível de exaustão. Além disso o alvo sofre um severo ferimento permanente escolhido pelo mestre. O ferimento permanente pode ser curado Recuperando-se (p.187) com um descanso estendido, mas o ataque deixa uma cicatriz."
+        }
+    }
+}

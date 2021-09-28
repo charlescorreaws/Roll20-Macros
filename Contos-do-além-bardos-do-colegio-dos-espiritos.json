@@ -1,0 +1,55 @@
+{
+    "name": "Contos-do-além-bardos-do-colegio-dos-espiritos",
+    "showplayers": true,
+    "id": "-Mk2zjsJJItSSDbdUZ1A",
+    "items": {
+        "-Mk2zjsNlB541-XF7UuD": {
+            "id": "-Mk2zjsNlB541-XF7UuD",
+            "name": "Fera. Você recita o conto de um animal inteligente. Por 1 minuto, o alvo possui vantagem em testes de Sabedoria (Percepção) e vantagem nas jogadas de ataque contra uma criatura caso haja outro inimigo da criatura a 1,5 metro dela, e este inimigo não está incapacitado"
+        },
+        "-Mk2zjsOb0wLZFkRht_W": {
+            "id": "-Mk2zjsOb0wLZFkRht_W",
+            "name": "Guerreiro. Você reconta a história de um duelista renomado. Realize um ataque mágico corpo-a-corpo contra o alvo, conforme um guerreiro espectral surge brevemente em um espaço a 1,5 metro do alvo e o ataca, desaparecendo em seguida. Em um acerto, o alvo recebe dano energético igual a duas rolagens de seu dado de Inspiração de Bardo + seu modificador de Carisma"
+        },
+        "-Mk2zjsPm5Yg1w9PzcA5": {
+            "id": "-Mk2zjsPm5Yg1w9PzcA5",
+            "name": "Amigos. Você recita o conto de amigos que se encontraram na pós-vida. O alvo e outra criatura de sua escolha a até 1,5 metro dele recuperam pontos de vida igual à rolagem de seu dado de Inspiração de Bardo + seu modificador de Carisma."
+        },
+        "-Mk2zjsQcajQmVVkcifH": {
+            "id": "-Mk2zjsQcajQmVVkcifH",
+            "name": "Fugitivo. Você reconta a fábula de um aventureiro que podia escapar de qualquer confinamento. O alvo pode imediatamente usar sua reação para teleportar-se para um espaço desocupado a até 9 metros dele e que ele possa ver. Quando a criatura teleportar, ela pode escolher um número de criaturas igual ao seu modificador de Carisma (mínimo de 1) que estejam a até 9 metros dela e que ela possa ver para imediatamente usar a mesma reação."
+        },
+        "-Mk2zjsRoF6TQ50k5Bfm": {
+            "id": "-Mk2zjsRoF6TQ50k5Bfm",
+            "name": "Vingador. Você reconta a história de um cavaleiro vingativo. Por 1 minuto, sempre que uma criatura que o alvo possa ver a até 9 metros dele receber dano causado por outra criatura, o alvo pode usar sua reação para causar dano radiante no atacante. O dano causado é igual à rolagem do dado da Inspiração de Bardo."
+        },
+        "-Mk2zjsSWQR5iJm9LXAy": {
+            "id": "-Mk2zjsSWQR5iJm9LXAy",
+            "name": "Herói. Você conta a fábula de um herói épico. Escolha uma criatura a sua vista e a até 9 metros de você. O alvo recebe pontos de vida temporários igual a rolagem de seu dado de Inspiração de Bardo + seu nível de bardo. Enquanto estiver com estes pontos de vida temporários, o deslocamento de caminhada da criatura aumenta em 3 metros."
+        },
+        "-Mk2zjsUKkvvSBmRoBFP": {
+            "id": "-Mk2zjsUKkvvSBmRoBFP",
+            "name": "Feérico. Você conta a narrativa de um feérico malicioso. O alvo deve ser bem-sucedido em uma salvaguarda de Sabedoria ou ficará enfeitiçado por você até o final do próximo turno dele. A criatura enfeitiçada deve usar sua ação para realizar um ataque corpo-a-corpo contra uma criatura escolhida mentalmente por você (e que não seja você). O alvo pode agir normalmente no turno dela se você não designar nenhuma criatura para ser atacada."
+        },
+        "-Mk2zjsVO4JavBIpqPJv": {
+            "id": "-Mk2zjsVO4JavBIpqPJv",
+            "name": "Espírito Sombrio. Você pronuncia um terrível conto de um matador que age nas sombras. O alvo se torna invisível até o final do próximo turno dele ou até ele atingir uma criatura com um ataque. Se ele atingir uma criatura com um ataque durante a invisibilidade, a criatura atingida recebe dano necrótico adicional igual à rolagem de seu dado de Inspiração de Bardo e está amedrontada pelo alvo até o final do próximo turno dela."
+        },
+        "-Mk2zjsWAvCN7IEiHzA9": {
+            "id": "-Mk2zjsWAvCN7IEiHzA9",
+            "name": "Gigante. Você conta os atos de um poderoso gigante. Cada criatura a escolha do alvo que ele possa ver a até 9 metros dele deverá realizar uma salvaguarda de Força, recebendo dano energético igual a duas rolagens de seu dado de Inspiração de Bardo em uma falha e ficando caída. Uma criatura bem-sucedida na salvaguarda recebe metade do dano e não fica caída."
+        },
+        "-Mk2zjsXSWarqUe6Hlz4": {
+            "id": "-Mk2zjsXSWarqUe6Hlz4",
+            "name": "Dragão. Você pronuncia um poema de um dragão colérico. O alvo magicamente sopra fogo de sua boca em um cone de 9 metros. Cada criatura na área deverá realizar uma salvaguarda de Destreza, recebendo dano ígneo igual a três rolagens de seu dado de Inspiração de Bardo, ou metade do dano se bem-sucedida."
+        },
+        "-Mk2zjsZjZeczG_zWhtL": {
+            "id": "-Mk2zjsZjZeczG_zWhtL",
+            "name": "Celestial. Você faz o discurso exaltado de um celestial. O alvo recupera pontos de vida igual a duas rolagens de seu dado de Inspiração de Bardo + seu nível de Bardo, e você encerra uma doença ou condição da lista a seguir que estiver afetando o alvo: cego, envenenado, paralisado, petrificado ou surdo."
+        },
+        "-Mk2zjs_7tUpx0WNhx4G": {
+            "id": "-Mk2zjs_7tUpx0WNhx4G",
+            "name": "Desconhecido. Você profere uma fábula incompreensível de um ser além das estrelas. Escolha uma criatura que você possa ver a até 9 metros de você. O alvo deve ser bem-sucedido em uma salvaguarda de Inteligência ou receberá dano psíquico igual a três rolagens de seu dado de Inspiração de Bardo, e o alvo é incapaz de falar qualquer idioma por 1 minuto."
+        }
+    }
+}

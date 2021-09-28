@@ -1,0 +1,67 @@
+{
+    "name": "Insanidade-de-Longa-Duracao",
+    "showplayers": true,
+    "id": "-MiX0HM9GU9NZl-iK-0G",
+    "items": {
+        "-MiX0HMCQqVVossR2200": {
+            "id": "-MiX0HMCQqVVossR2200",
+            "name": "01–10 - Efeito (dura 1d10 x 10 horas) - O personagem se sente compelido a repetir uma atividade específica de novo e de novo, como lavar as mãos, tocar nas coisas, orar ou contar moedas.",
+            "weight": "1"
+        },
+        "-MiX0HMD6lq-J7rQQ47j": {
+            "id": "-MiX0HMD6lq-J7rQQ47j",
+            "name": "11–20 - Efeito (dura 1d10 x 10 horas) - O personagem experimenta alucinações vívidas e tem desvantagem nos testes de atributo.",
+            "weight": "1"
+        },
+        "-MiX0HMFimclHvJ3NyT-": {
+            "id": "-MiX0HMFimclHvJ3NyT-",
+            "name": "21–30 - Efeito (dura 1d10 x 10 horas) - O personagem sofre de paranoia extrema. O personagem tem desvantagem nos testes de Sabedoria e Carisma.",
+            "weight": "1"
+        },
+        "-MiX0HMGklHTG5OKmrNt": {
+            "id": "-MiX0HMGklHTG5OKmrNt",
+            "name": "31–40 - Efeito (dura 1d10 x 10 horas) - O personagem trata algo (geralmente a origem da insanidade) com intensa repulsa, como se estivesse afetado pelo efeito da magia antipatia/simpatia.",
+            "weight": "1"
+        },
+        "-MiX0HMHu830oM3zFY0V": {
+            "id": "-MiX0HMHu830oM3zFY0V",
+            "name": "41–45 - Efeito (dura 1d10 x 10 horas) - O personagem experimenta um forte delírio. Escolha uma poção. O personagem imagina que está sob os efeitos desta poção.",
+            "weight": "1"
+        },
+        "-MiX0HMIRdE_i7BLcpFO": {
+            "id": "-MiX0HMIRdE_i7BLcpFO",
+            "name": "46–55 - Efeito (dura 1d10 x 10 horas) - O personagem torna-se dependente de um “amuleto da sorte,” como uma pessoa ou um objeto, e tem desvantagem nas jogadas de ataque, testes de atributo e salvaguardas quando estiver a mais de 9 metros dele.",
+            "weight": "1"
+        },
+        "-MiX0HMKMlkVehMagFc2": {
+            "id": "-MiX0HMKMlkVehMagFc2",
+            "name": "55-66 - Efeito (dura 1d10 x 10 horas) - O personagem fica cego (25%) ou surdo (75%).",
+            "weight": "1"
+        },
+        "-MiX0HMLsCE6K--USt4K": {
+            "id": "-MiX0HMLsCE6K--USt4K",
+            "name": "66–75 - Efeito (dura 1d10 x 10 horas) - O personagem experimenta tremores incontroláveis ou tiques nervosos, que impõem desvantagem nas jogadas de ataque, testes de atributo e salvaguardas que envolvem Força ou Destreza.",
+            "weight": "1"
+        },
+        "-MiX0HMMaINL086barba": {
+            "id": "-MiX0HMMaINL086barba",
+            "name": "76–85 - Efeito (dura 1d10 x 10 horas) - O personagem sofre amnésia parcial. Ele conhece a própria identidade e mantém traços raciais e características de classe, mas não reconhece outras pessoas ou se lembra de nada que tenha acontecido antes da loucura surtir efeito.",
+            "weight": "1"
+        },
+        "-MiX0HMOXcAX_itqCrs8": {
+            "id": "-MiX0HMOXcAX_itqCrs8",
+            "name": "86–90 - Efeito (dura 1d10 x 10 horas) - Sempre que sofrer dano, o personagem deve ser bem-sucedido em uma salvaguarda de Sabedoria CD 15 ou é afetado como se tivesse falhado em uma salvaguarda contra a magia confusão. Este efeito dura 1 minuto,",
+            "weight": "1"
+        },
+        "-MiX0HMPGjBFbJAKftpK": {
+            "id": "-MiX0HMPGjBFbJAKftpK",
+            "name": "91–95 - Efeito (dura 1d10 x 10 horas) - O personagem perde a capacidade de falar.",
+            "weight": "1"
+        },
+        "-MiX0HMQ71kP87Rvw3yw": {
+            "id": "-MiX0HMQ71kP87Rvw3yw",
+            "name": "96–100 - Efeito (dura 1d10 x 10 horas) - A personagem fica inconsciente. Nenhuma quantidade de sacudidas ou dano pode acordar o personagem.",
+            "weight": "1"
+        }
+    }
+}

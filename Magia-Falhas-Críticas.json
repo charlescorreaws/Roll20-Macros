@@ -1,0 +1,85 @@
+{
+    "name": "Magia-Falhas-Críticas",
+    "showplayers": true,
+    "id": "-Mi77vmphOCi5RxuAdsl",
+    "items": {
+        "-Mi77vmqvhVrC3W72t0n": {
+            "id": "-Mi77vmqvhVrC3W72t0n",
+            "name": "Você sente vergonha pelo ataque horrível, mas nada extraordinário acontece.\tVocê erra seu ataque."
+        },
+        "-Mi77vmr_ZVNGg9h2jHa": {
+            "id": "-Mi77vmr_ZVNGg9h2jHa",
+            "name": "Você se concentra demais no seu ataque mágico e esquece de olhar pro seu alvo.\tSeu alvo tem vantagem na sua próxima rolagem de ataque contra você no próximo turno.",
+            "weight": 4
+        },
+        "-Mi77vmsip1B0nmhSzCY": {
+            "id": "-Mi77vmsip1B0nmhSzCY",
+            "name": "Você se concentra demais no seu ataque mágico e esquece de olhar seus arredores.\tTodos os inimigos tem vantagem na primeira rolagem de ataque contra você no próximo turno.",
+            "weight": 4
+        },
+        "-Mi77vmtTzxPiw5x4rIw": {
+            "id": "-Mi77vmtTzxPiw5x4rIw",
+            "name": "Você se concentrou tanto ao conjurar sua magia que se esqueceu que estava em uma batalha.\tTodos os inimigos tem vantagem em rolagens de ataque contra você no até o fim do seu próximo turno.",
+            "weight": 5
+        },
+        "-Mi77vmuLLU0OnzMvvqx": {
+            "id": "-Mi77vmuLLU0OnzMvvqx",
+            "name": "Sua magia cria uma grande nuvem de fumaça, escondendo sua localização.\tUma densa fumaça toma conta de um raio 1,5m ao redor da sua localização, deixando tudo muito escuro. Uma vento forte pode acabar com a fumaça no tempo de 1 rodada.",
+            "weight": 5
+        },
+        "-Mi77vmvkU3ztmCYEU1u": {
+            "id": "-Mi77vmvkU3ztmCYEU1u",
+            "name": "Sua magia falha, jogando você no chão.\tVocê cai deitado no chão.",
+            "weight": 10
+        },
+        "-Mi77vmwu_d6QdM-mbJo": {
+            "id": "-Mi77vmwu_d6QdM-mbJo",
+            "name": "A magia é lançada de uma maneira inesperada, fazendo que sua confiança em suas habilidades falhe.\tVocê tem desvantagem em qualquer ataque com magias, e seus inimigos tem vantagem contra os testes de resistência das suas magias até o fim do seu próximo turno.",
+            "weight": 10
+        },
+        "-Mi77vmwu_d6QdM-mbJp": {
+            "id": "-Mi77vmwu_d6QdM-mbJp",
+            "name": "Sua magia assusta o seus aliados perto do seu alvo, fazendo com que eles baixem a guarda.\tO alvo pode realizar um ataque de oportunidade contra qualquer aliado dentro de um alcance corpo-a-corpo.",
+            "weight": 10
+        },
+        "-Mi77vmxcCstF_RVxbpJ": {
+            "id": "-Mi77vmxcCstF_RVxbpJ",
+            "name": "Você mistura os ingredientes da sua bolsa de componentes, ou seu foco arcano fica temporariamente sobrecarregado e para de funcionar.\tVocê não pode conjurar magias que necessitem de componentes materiais (M) até o fim do seu próximo turno.",
+            "weight": 10
+        },
+        "-Mi77vmzzTY0VNjZWBNg": {
+            "id": "-Mi77vmzzTY0VNjZWBNg",
+            "name": "Você sente cãibras nos braços enquanto está conjurando a magia.\tVocê não pode conjurar magias que necessitem de componentes somáticos (S) até o fim do seu próximo turno.",
+            "weight": 10
+        },
+        "-Mi77vn-Sq8qAVtaR6ol": {
+            "id": "-Mi77vn-Sq8qAVtaR6ol",
+            "name": "Você morde sua língua enquanto conjurava a magia.\tVocê não pode conjurar magias que necessitem de componentes verbais (V) até o fim do seu próximo turno.",
+            "weight": 10
+        },
+        "-Mi77vn-Sq8qAVtaR6om": {
+            "id": "-Mi77vn-Sq8qAVtaR6om",
+            "name": "Sua magia falha e te espanta, fazendo que você perca a noção da batalha ao seu redor.\tSeu turno se encerra e você vai para o final da ordem de iniciativa no início da próxima rodada.",
+            "weight": 5
+        },
+        "-Mi77vn0BynRvEyBLnMU": {
+            "id": "-Mi77vn0BynRvEyBLnMU",
+            "name": "Sua magia falha, te causando pânico.\tSeu turno atual acaba e você está surpreso até o fim do seu próximo turno.",
+            "weight": 5
+        },
+        "-Mi77vn1yP_aifVEhK30": {
+            "id": "-Mi77vn1yP_aifVEhK30",
+            "name": "Sua magia sai pela culatra, criando uma pequena explosão que faz com que você caia e bata com a cabeça.\tVocê cai deitado no chão. Role um teste de resistência em Constituição CD10. Se falhar você leva 1d6 de dano de concussão e fica inconsciente por 1 minuto ou até receber dado de qualquer fonte. Se passar no teste você toma metade do dano e permanece consciente",
+            "weight": 5
+        },
+        "-Mi77vn2x5pgsfFcDvI2": {
+            "id": "-Mi77vn2x5pgsfFcDvI2",
+            "name": "Sua magia sai pela culatra, criando uma grande explosão que faz com que você caia e bata com a cabeça.\tVocê cai deitado no chão. Role um teste de resistência em Constituição CD15. Se falhar você leva 1d6 de dano de concussão, 1d6 de dano trovejante, e fica inconsciente por 1 minuto ou até receber dado de qualquer fonte. Se passar no teste você toma metade do dano e permanece consciente.",
+            "weight": 5
+        },
+        "-Mi77vn3D-e0DS1JtXQT": {
+            "id": "-Mi77vn3D-e0DS1JtXQT",
+            "name": "Sua magia falha completamente e sai pela culatra criando uma grande explosão, fazendo com que você caída e bata com a cabeça.\tVocê acerta você mesmo com sua magia. Se o efeito da magia é instantâneo, você recebe o efeito completamente. Se a magia requer concentração, o efeito dura até o fim do seu próximo turno. Você também cai deitado, levando 1d6 de dano de concussão e 1d6 de dano trovejante. Você fica inconsciente por 1 minuto ou até receber dano de qualquer fonte."
+        }
+    }
+}
