@@ -1,0 +1,1 @@
+@{selected|wtype} &{template:default} {{name=Dados do Personagem - @{selected|character_name}}} {{CA= @{selected|ac}}} {{Dado de Vida= 1D@{selected|hitdieroll}}}  {{Total HP= @{selected|hp}}} {{Deslocamento em FT= @{selected|speed}}} {{Percepção Passiva= @{selected|passive_wisdom}}} 
