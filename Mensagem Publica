@@ -1,0 +1,1 @@
+&{template:default} {{name=Mensagem enviada para ?{Digite no nome do personagem que deseja enviar a mensagem?}}} {{?{Digite a mensagem}}}
