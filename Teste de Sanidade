@@ -1,0 +1,1 @@
+@{selected|wtype}&{template:simple} {{rname=^{sanity-u}}} {{mod=@{selected|sanity_mod}@{selected|jack_bonus}}} {{r1=[[@{selected|d20}+@{selected|sanity_mod}@{selected|jack_attr}[CHA]]]}} @{selected|rtype}+@{selected|sanity_mod}@{selected|jack_attr}[CHA]]]}} @{selected|charname_output}
