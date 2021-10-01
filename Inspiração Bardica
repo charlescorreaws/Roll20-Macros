@@ -1,0 +1,1 @@
+&{template:default} {{name=Inspiração Bardica}} Você deu para {{@{target|character_name} ganha um valor de inspiração Bardica de  =[[?{Qual dado de inspiração bardica deseja dar ao jogador?|1d6,1d6|1d8,1d8|1d10,1d0|1d12,1d12}]]}}]] de Pontos de Vida (HP) }}
