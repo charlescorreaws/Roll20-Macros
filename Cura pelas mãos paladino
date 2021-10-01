@@ -1,0 +1,1 @@
+&{template:default} {{name=CURA PELAS MÃOS (Lay on Hands)}} Curou {{@{target|character_name} Curou =[[?{Quantos pontos deseja curar de HP de uma criatura?|1}]] de Pontos de Vida (HP) }}
