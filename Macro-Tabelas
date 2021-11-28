@@ -1,0 +1,1 @@
+&{template:traits} {{name=nome da tabela}} {{source=Personagem: @{selected|character_name}}} {{description=[[1t[nome da tabela gravada no roll20]]]}}
