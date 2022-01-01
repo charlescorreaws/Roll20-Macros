@@ -1,0 +1,1 @@
+&{template:traits} {{name=Percepção Passiva}} {{source=Personagem: @{selected|character_name}}} {{description=[[@{selected|passive_wisdom}]]}}
