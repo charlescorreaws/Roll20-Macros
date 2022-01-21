@@ -1,1 +1,1 @@
-&{template:traits} {{name=Poção de Cura Maior}} {{source=Item}} {{description=**@{selected|character_name}** curou **[[4 + 4d4]]** Pontos de Vida}}
+&{template:traits} {{name=Poção de Cura Superior}} {{source=Item}} {{description=[Cura](https://i.pinimg.com/originals/3c/f6/5c/3cf65c5af0940dd9a5dda703f24adeaf.png) **@{selected|character_name}** curou **[[8 + 8d4]]** Pontos de Vida}}
