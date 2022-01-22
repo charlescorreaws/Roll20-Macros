@@ -5,3 +5,5 @@
 &{template:traits} {{name=Poção de Cura Superior}} {{source=Item de @{selected|character_name}}} {{description=[Cura](https://i.pinimg.com/originals/3c/f6/5c/3cf65c5af0940dd9a5dda703f24adeaf.png) **@{selected|character_name}** curou **``[[8 + 8d4]]``** Pontos de Vida}}
 
 &{template:traits} {{name=Poção de Cura Suprema}} {{source=Item de @{selected|character_name}}} {{description=[Cura](https://i.pinimg.com/originals/3c/f6/5c/3cf65c5af0940dd9a5dda703f24adeaf.png) **@{selected|character_name}** curou **``[[20 + 10d4]]``** Pontos de Vida}}
+
+&{template:npcaction} {{rname=Poção de Cura Especial}} {{description=[Cura](https://i.pinimg.com/originals/3c/f6/5c/3cf65c5af0940dd9a5dda703f24adeaf.png) ``@{selected|character_name}`` tomou uma poção de cura e recupera [[3d4+ @{selected|level} [Level do Personagem] + @{selected|constitution_mod} [Modificador de Constituição]]] de vida!}}
