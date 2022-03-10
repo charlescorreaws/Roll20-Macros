@@ -1,0 +1,2 @@
+/desc ?{Descrição da Imagem| }
+/desc [Image](?{Image URL|})
