@@ -1,0 +1,3 @@
+&{template:traits} {{name=ACERTO CRITICO - ARMAS}} {{source=Personagem: @{selected|character_name}}} {{description=[IMG](https://i.imgur.com/HcayalV.png)[[1t[Arma-Acertos-Críticos]]]}}
+
+&{template:traits} {{name=Falha Critíca - ARMAS}} {{source=Personagem: @{selected|character_name}}} {{description=[IMG](https://i.imgur.com/F334C8X.png)[[1t[Arma-Falhas-Críticas]]]}}
