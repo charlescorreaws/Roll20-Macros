@@ -1,0 +1,1 @@
+&{template:traits} {{name=Percepção Passiva}} {{source=Personagem: @{selected|character_name}}} {{description=[IMG](https://i.imgur.com/fXXEy1N.png)O Valor de Percepção Passiva do PERSONAGEM **@{selected|character_name}** é **``[[@{selected|passive_wisdom}]]**`` }}
