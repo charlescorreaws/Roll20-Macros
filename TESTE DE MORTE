@@ -1,0 +1,1 @@
+@{selected|wtype}&{template:simple} {{rname=^{death-save-u}}} {{mod=@{selected|death_save_bonus}}} {{r1=[[@{selected|d20}+@{selected|death_save_bonus}[MOD]@{selected|globalsavingthrowbonus}]]}} {{normal=1}} {{global=@{selected|global_save_mod}}} @{selected|charname_output}
