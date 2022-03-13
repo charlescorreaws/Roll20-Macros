@@ -1,0 +1,3 @@
+&{template:traits} {{name=ACERTO CRITICO - MAGIAS}} {{source=Personagem: @{selected|character_name}}} {{description=[FALHA](https://i.imgur.com/OjYlJJO.png) [[1t[Magia-Acertos-Críticos]]]}}
+
+&{template:traits} {{name=Falha Critíca - MAGIAS}} {{source=Personagem: @{selected|character_name}}} {{description=[IMG](https://i.imgur.com/BxWNvt8.png)[[1t[Magia-Falhas-Críticas]]]}}
