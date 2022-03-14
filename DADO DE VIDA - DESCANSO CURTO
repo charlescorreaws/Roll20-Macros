@@ -1,3 +1,5 @@
-/emas @{selected|character_name} Iniciou a rolagem de Dados de Vida!
-&{template:default} {{name=Descanso Curto - @{selected|character_name}}} {{Resultado do Descanso Curto=  @{selected|character_name} você cura [[ [[?{Quantos dados de vida você gasta?|1}]]?{Qual é o seu dado de vida?|d4 + @{selected|constitution_save_bonus} [Modificador de Constituição do Personagem]|d6 + @{selected|constitution_save_bonus} [Modificador de Constituição do Personagem]|d8 + @{selected|constitution_save_bonus} [Modificador de Constituição do Personagem]|d10 + @{selected|constitution_save_bonus} [Modificador de Constituição do Personagem]|d12 + @{selected|constitution_save_bonus} [Modificador de Constituição do Personagem]} ]] pontos de vida, tendo gasto $[[0]] de seus dados de vida.}}
-/emas Rolagem de Dados de Vida finalizada!
+/emas @{selected|character_name} Iniciou a rolagem de dados de vida para um descanso curto
+
+@{selected|wtype}&{template:simple} {{rname=^{hit-dice-u}}} {{mod=?{Quantos dados de vida você gostaria de gastar? Seu Limite Atual é @{selected|hit_dice}|1}D@{selected|hitdie_final}+[[@{selected|constitution_mod}*?{Quantos dados de vida você gostaria de gastar? Seu Limite Atual é @{selected|hit_dice}}[CON]]]}} {{r1=[[ ?{Quantos dados de vida você gostaria de gastar? Seu Limite Atual é @{selected|hit_dice}}d@{selected|hitdie_final}+[[@{selected|constitution_mod}* ?{Quantos dados de vida você gostaria de gastar? Seu Limite Atual é @{selected|hit_dice}}]][CON]]]}} {{normal=1}} @{selected|charname_output} {{charname=@{selected|token_name}}}
+
+/emas @{selected|character_name} finalizou a rolagem de dados de vida para um descanso curto e recuperou o valor acima de pontos de vida
