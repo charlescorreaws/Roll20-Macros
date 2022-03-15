@@ -1,2 +1,2 @@
-/desc ?{Descrição da Imagem| }
-/desc [Image](?{Image URL|})
+/ooc ?{Descrição da Imagem| }
+/em [Image](?{Image URL|})
