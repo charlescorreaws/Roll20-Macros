@@ -1,42 +1,44 @@
+/em ⚠️ Personagem **@{selected|character_name}** Iniciou uma rolagem de testes
+
 @{selected|wtype} &{template:simple} {{always=1}} ?{O QUE DESEJA ROLAR?|
 
 -🧬HABILIDADES-|
 
-[@{selected|strength_mod}] 💪FORÇA, {{rname= 💪FORÇA&#125;&#125; {{mod=[[ [[@{selected|strength_mod}]] [STR] ]]&#125;&#125; {{r1=[[ @{selected|d20} + [[@{selected|strength_mod}]] [STR] ]]&#125;&#125; {{r2=[[ @{selected|d20} + [[@{selected|strength_mod}]] [STR] ]]&#125;&#125; |
+[@{selected|strength_mod}] 💪 FORÇA, {{rname= 💪FORÇA&#125;&#125; {{mod=[[ [[@{selected|strength_mod}]] [FORÇA] ]]&#125;&#125; {{r1=[[ @{selected|d20} + [[@{selected|strength_mod}]] [FORÇA] ]]&#125;&#125; {{r2=[[ @{selected|d20} + [[@{selected|strength_mod}]] [FORÇA] ]]&#125;&#125; |
 
-[@{selected|dexterity_mod}] 🎯DESTREZA, {{rname= 🎯 DESTREZA&#125;&#125; {{mod=[[ [[@{selected|dexterity_mod}]] [DEX] ]]&#125;&#125; {{r1=[[ @{selected|d20} + [[@{selected|dexterity_mod}]] [DEX] ]]&#125;&#125; {{r2=[[ @{selected|d20} + [[@{selected|dexterity_mod}]] [DEX] ]]&#125;&#125; |
+[@{selected|dexterity_mod}] 🎯 DESTREZA, {{rname= 🎯 DESTREZA&#125;&#125; {{mod=[[ [[@{selected|dexterity_mod}]] [DESTREZA] ]]&#125;&#125; {{r1=[[ @{selected|d20} + [[@{selected|dexterity_mod}]] [DESTREZA] ]]&#125;&#125; {{r2=[[ @{selected|d20} + [[@{selected|dexterity_mod}]] [DESTREZA] ]]&#125;&#125; |
 
-[@{selected|constitution_mod}] 🧬CONSTITUIÇÃO, {{rname= 🧬 CONSTITUIÇÃO&#125;&#125; {{mod=[[ [[@{selected|constitution_mod}]] [CON] ]]&#125;&#125; {{r1=[[ @{selected|d20} + [[@{selected|constitution_mod}]] [CON] ]]&#125;&#125; {{r2=[[ @{selected|d20} + [[@{selected|constitution_mod}]] [CON] ]]&#125;&#125; |
+[@{selected|constitution_mod}] 🧬 CONSTITUIÇÃO, {{rname= 🧬 CONSTITUIÇÃO&#125;&#125; {{mod=[[ [[@{selected|constitution_mod}]] [CONSTITUIÇÃO] ]]&#125;&#125; {{r1=[[ @{selected|d20} + [[@{selected|constitution_mod}]] [CONSTITUIÇÃO] ]]&#125;&#125; {{r2=[[ @{selected|d20} + [[@{selected|constitution_mod}]] [CONSTITUIÇÃO] ]]&#125;&#125; |
 
-[@{selected|intelligence_mod}] 🧠INTELIGÊNCIA, {{rname= 🧠 INTELIGÊNCIA&#125;&#125; {{mod=[[ [[@{selected|intelligence_mod}]] [INT] ]]&#125;&#125; {{r1=[[ @{selected|d20} + [[@{selected|intelligence_mod}]] [INT] ]]&#125;&#125; {{r2=[[ @{selected|d20} + [[@{selected|intelligence_mod}]] [INT] ]]&#125;&#125; |
+[@{selected|intelligence_mod}] 🧠 INTELIGÊNCIA, {{rname= 🧠 INTELIGÊNCIA&#125;&#125; {{mod=[[ [[@{selected|intelligence_mod}]] [INTELIGÊNCIA] ]]&#125;&#125; {{r1=[[ @{selected|d20} + [[@{selected|intelligence_mod}]] [INTELIGÊNCIA] ]]&#125;&#125; {{r2=[[ @{selected|d20} + [[@{selected|intelligence_mod}]] [INTELIGÊNCIA] ]]&#125;&#125; |
 
-[@{selected|wisdom_mod}] 🌌SABEDORIA, {{rname= 🌌 SABEDORIA&#125;&#125; {{mod=[[ [[@{selected|wisdom_mod}]] [WIS] ]]&#125;&#125; {{r1=[[ @{selected|d20} + [[@{selected|wisdom_mod}]] [WIS] ]]&#125;&#125; {{r2=[[ @{selected|d20} + [[@{selected|wisdom_mod}]] [WIS] ]]&#125;&#125; |
+[@{selected|wisdom_mod}] 🌌 SABEDORIA, {{rname= 🌌 SABEDORIA&#125;&#125; {{mod=[[ [[@{selected|wisdom_mod}]] [SABEDORIA] ]]&#125;&#125; {{r1=[[ @{selected|d20} + [[@{selected|wisdom_mod}]] [SABEDORIA] ]]&#125;&#125; {{r2=[[ @{selected|d20} + [[@{selected|wisdom_mod}]] [SABEDORIA] ]]&#125;&#125; |
 
-[@{selected|charisma_mod}] 🎭CARISMA, {{rname=🎭 CARISMA&#125;&#125; {{mod=[[ [[@{selected|charisma_mod}]] [CHA] ]]&#125;&#125; {{r1=[[ @{selected|d20} + [[@{selected|charisma_mod}]] [CHA] ]]&#125;&#125; {{r2=[[ @{selected|d20} + [[@{selected|charisma_mod}]] [CHA] ]]&#125;&#125; |
+[@{selected|charisma_mod}] 🎭 CARISMA, {{rname=🎭 CARISMA&#125;&#125; {{mod=[[ [[@{selected|charisma_mod}]] [CARISMA] ]]&#125;&#125; {{r1=[[ @{selected|d20} + [[@{selected|charisma_mod}]] [CARISMA] ]]&#125;&#125; {{r2=[[ @{selected|d20} + [[@{selected|charisma_mod}]] [CARISMA] ]]&#125;&#125; |
 
-[@{selected|charisma_mod}] 😱SANIDADE, {{rname=😱 SANIDADE&#125;&#125; {{mod=[[ [[@{selected|sanity_mod}]] [CHA] ]]&#125;&#125; {{r1=[[ @{selected|d20} + [[@{selected|sanity_mod}]] [CHA] ]]&#125;&#125; {{r2=[[ @{selected|d20} + [[@{selected|sanity_mod}]] [CHA] ]]&#125;&#125; |
+[@{selected|sanity_mod}] 😱 SANIDADE, {{rname=😱 SANIDADE&#125;&#125; {{mod=[[ [[@{selected|sanity_mod}]] [SANIDADE] ]]&#125;&#125; {{r1=[[ @{selected|d20} + [[@{selected|sanity_mod}]] [SANIDADE] ]]&#125;&#125; {{r2=[[ @{selected|d20} + [[@{selected|sanity_mod}]] [SANIDADE] ]]&#125;&#125; |
 
-[@{selected|charisma_mod}] 🎖HONRA, {{rname=🎖 HONRA&#125;&#125; {{mod=[[ [[@{selected|honor_mod}]] [CHA] ]]&#125;&#125; {{r1=[[ @{selected|d20} + [[@{selected|honor_mod}]] [CHA] ]]&#125;&#125; {{r2=[[ @{selected|d20} + [[@{selected|honor_mod}]] [CHA] ]]&#125;&#125; |
+[@{selected|honor_mod}] 🎖️ HONRA, {{rname=🎖️ HONRA&#125;&#125; {{mod=[[ [[@{selected|honor_mod}]] [HONRA] ]]&#125;&#125; {{r1=[[ @{selected|d20} + [[@{selected|honor_mod}]] [HONRA] ]]&#125;&#125; {{r2=[[ @{selected|d20} + [[@{selected|honor_mod}]] [HONRA] ]]&#125;&#125; |
 
 -----------------------------------|
 
 -😨❗ TESTES-|
 
-[@{selected|strength_save_bonus}] 😤FORÇA, {{rname=😤TESTE DE FORÇA&#125;&#125; {{mod=[[ @{selected|strength_save_bonus} ]]&#125;&#125; {{r1=[[ @{selected|d20} + [[@{selected|strength_save_prof}]][Proficiency] + @{selected|strength_mod}[Strength] ]]&#125;&#125; {{r2=[[ @{selected|d20} + [[@{selected|strength_save_prof}]][Proficiency] + @{selected|strength_mod}[Strength] ]]&#125;&#125; {{global=@{selected|global_save_mod}&#125;&#125; |
+[@{selected|strength_save_bonus}] 😤 FORÇA, {{rname=😤 TESTE DE FORÇA&#125;&#125; {{mod=[[ @{selected|strength_save_bonus} ]]&#125;&#125; {{r1=[[ @{selected|d20} + [[@{selected|strength_save_prof}]][Proficiency] + @{selected|strength_mod}[FORÇA] ]]&#125;&#125; {{r2=[[ @{selected|d20} + [[@{selected|strength_save_prof}]][Proficiency] + @{selected|strength_mod}[FORÇA] ]]&#125;&#125; {{global=@{selected|global_save_mod}&#125;&#125; |
 
-[@{selected|dexterity_save_bonus}] 💨DESTREZA, {{rname=💨TESTE DE DESTREZA&#125;&#125; {{mod=[[ @{selected|dexterity_save_bonus} ]]&#125;&#125; {{r1=[[ @{selected|d20} + [[@{selected|dexterity_save_prof}]][Proficiency] + @{selected|dexterity_mod}[Dexterity] ]]&#125;&#125; {{r2=[[ @{selected|d20} + [[@{selected|dexterity_save_prof}]][Proficiency] + @{selected|dexterity_mod}[Dexterity] ]]&#125;&#125; {{global=@{selected|global_save_mod}&#125;&#125; |
+[@{selected|dexterity_save_bonus}] 💨 DESTREZA, {{rname=💨 TESTE DE DESTREZA&#125;&#125; {{mod=[[ @{selected|dexterity_save_bonus} ]]&#125;&#125; {{r1=[[ @{selected|d20} + [[@{selected|dexterity_save_prof}]][Proficiency] + @{selected|dexterity_mod}[DESTREZA] ]]&#125;&#125; {{r2=[[ @{selected|d20} + [[@{selected|dexterity_save_prof}]][Proficiency] + @{selected|dexterity_mod}[DESTREZA] ]]&#125;&#125; {{global=@{selected|global_save_mod}&#125;&#125; |
 
-[@{selected|constitution_save_bonus}] 🤒CONSTITUIÇÃO, {{rname=🤒TESTE DE CONSTITUIÇÃO&#125;&#125; {{mod=[[ @{selected|constitution_save_bonus} ]]&#125;&#125; {{r1=[[ @{selected|d20} + [[@{selected|constitution_save_prof}]][Proficiency] + @{selected|constitution_mod}[Constitution] ]]&#125;&#125; {{r2=[[ @{selected|d20} + [[@{selected|constitution_save_prof}]][Proficiency] + @{selected|constitution_mod}[Constitution] ]]&#125;&#125; {{global=@{selected|global_save_mod}&#125;&#125; |
+[@{selected|constitution_save_bonus}] 🤒 CONSTITUIÇÃO, {{rname=🤒 TESTE DE CONSTITUIÇÃO&#125;&#125; {{mod=[[ @{selected|constitution_save_bonus} ]]&#125;&#125; {{r1=[[ @{selected|d20} + [[@{selected|constitution_save_prof}]][Proficiency] + @{selected|constitution_mod}[CONSTITUIÇÃO] ]]&#125;&#125; {{r2=[[ @{selected|d20} + [[@{selected|constitution_save_prof}]][Proficiency] + @{selected|constitution_mod}[CONSTITUIÇÃO] ]]&#125;&#125; {{global=@{selected|global_save_mod}&#125;&#125; |
 
-[@{selected|intelligence_save_bonus}] 🧐INTELIGÊNCIA, {{rname=🧐TESTE DE INTELIGÊNCIA&#125;&#125; {{mod=[[ @{selected|intelligence_save_bonus} ]]&#125;&#125; {{r1=[[ @{selected|d20} + [[@{selected|intelligence_save_prof}]][Proficiency] + @{selected|intelligence_mod}[Intelligence] ]]&#125;&#125; {{r2=[[ @{selected|d20} + [[@{selected|intelligence_save_prof}]][Proficiency] + @{selected|intelligence_mod}[Intelligence] ]]&#125;&#125; {{global=@{selected|global_save_mod}&#125;&#125; |
+[@{selected|intelligence_save_bonus}] 🧐 INTELIGÊNCIA, {{rname=🧐 TESTE DE INTELIGÊNCIA&#125;&#125; {{mod=[[ @{selected|intelligence_save_bonus} ]]&#125;&#125; {{r1=[[ @{selected|d20} + [[@{selected|intelligence_save_prof}]][Proficiency] + @{selected|intelligence_mod}[INTELIGÊNCIA] ]]&#125;&#125; {{r2=[[ @{selected|d20} + [[@{selected|intelligence_save_prof}]][Proficiency] + @{selected|intelligence_mod}[INTELIGÊNCIA] ]]&#125;&#125; {{global=@{selected|global_save_mod}&#125;&#125; |
 
-[@{selected|wisdom_save_bonus}] 😵SABEDORIA, {{rname=😵TESTE DE SABEDORIA&#125;&#125; {{mod=[[ @{selected|wisdom_save_bonus} ]]&#125;&#125; {{r1=[[ @{selected|d20} + [[@{selected|wisdom_save_prof}]][Proficiency] + @{selected|wisdom_mod}[Wisdom] ]]&#125;&#125; {{r2=[[ @{selected|d20} + [[@{selected|wisdom_save_prof}]][Proficiency] + @{selected|wisdom_mod}[Wisdom] ]]&#125;&#125; {{global=@{selected|global_save_mod}&#125;&#125; |
+[@{selected|wisdom_save_bonus}] 😵 SABEDORIA, {{rname=😵 TESTE DE SABEDORIA&#125;&#125; {{mod=[[ @{selected|wisdom_save_bonus} ]]&#125;&#125; {{r1=[[ @{selected|d20} + [[@{selected|wisdom_save_prof}]][Proficiency] + @{selected|wisdom_mod}[SABEDORIA] ]]&#125;&#125; {{r2=[[ @{selected|d20} + [[@{selected|wisdom_save_prof}]][Proficiency] + @{selected|wisdom_mod}[SABEDORIA] ]]&#125;&#125; {{global=@{selected|global_save_mod}&#125;&#125; |
 
-[@{selected|charisma_save_bonus}] 😎CARISMA, {{rname=😎TESTE DE CARISMA&#125;&#125; {{mod=[[ @{selected|charisma_save_bonus} ]]&#125;&#125; {{r1=[[ @{selected|d20} + [[@{selected|charisma_save_prof}]][Proficiency] + @{selected|charisma_mod}[Charisma] ]]&#125;&#125; {{r2=[[ @{selected|d20} + [[@{selected|charisma_save_prof}]][Proficiency] + @{selected|charisma_mod}[Charisma] ]]&#125;&#125; {{global=@{selected|global_save_mod}&#125;&#125; |
+[@{selected|charisma_save_bonus}] 😎 CARISMA, {{rname=😎 TESTE DE CARISMA&#125;&#125; {{mod=[[ @{selected|charisma_save_bonus} ]]&#125;&#125; {{r1=[[ @{selected|d20} + [[@{selected|charisma_save_prof}]][Proficiency] + @{selected|charisma_mod}[CARISMA] ]]&#125;&#125; {{r2=[[ @{selected|d20} + [[@{selected|charisma_save_prof}]][Proficiency] + @{selected|charisma_mod}[CARISMA] ]]&#125;&#125; {{global=@{selected|global_save_mod}&#125;&#125; |
 
-[@{selected|charisma_save_bonus}] 😱SANIDADE, {{rname=😱TESTE DE SANIDADE&#125;&#125; {{mod=[[ @{selected|sanity_save_bonus} ]]&#125;&#125; {{r1=[[ @{selected|d20} + [[@{selected|sanity_save_prof}]][Proficiency] + @{selected|sanity_mod}[Charisma] ]]&#125;&#125; {{r2=[[ @{selected|d20} + [[@{selected|sanity_save_prof}]][Proficiency] + @{selected|sanity_mod}[Charisma] ]]&#125;&#125; {{global=@{selected|global_save_mod}&#125;&#125; |
+[@{selected|sanity_save_bonus}] 😱 SANIDADE, {{rname=😱 TESTE DE SANIDADE&#125;&#125; {{mod=[[ @{selected|sanity_save_bonus} ]]&#125;&#125; {{r1=[[ @{selected|d20} + [[@{selected|sanity_save_prof}]][Proficiency] + @{selected|sanity_mod}[SANIDADE] ]]&#125;&#125; {{r2=[[ @{selected|d20} + [[@{selected|sanity_save_prof}]][Proficiency] + @{selected|sanity_mod}[SANIDADE] ]]&#125;&#125; {{global=@{selected|global_save_mod}&#125;&#125; |
 
-[@{selected|charisma_save_bonus}] 🎖HONRA, {{rname=🎖TESTE DE HONRA&#125;&#125; {{mod=[[ @{selected|honor_save_bonus} ]]&#125;&#125; {{r1=[[ @{selected|d20} + [[@{selected|honor_save_prof}]][Proficiency] + @{selected|honor_mod}[Charisma] ]]&#125;&#125; {{r2=[[ @{selected|d20} + [[@{selected|honor_save_prof}]][Proficiency] + @{selected|honor_mod}[Charisma] ]]&#125;&#125; {{global=@{selected|global_save_mod}&#125;&#125; |
+[@{selected|honor_save_bonus}] 🎖️ HONRA, {{rname=🎖️ TESTE DE HONRA&#125;&#125; {{mod=[[ @{selected|honor_save_bonus} ]]&#125;&#125; {{r1=[[ @{selected|d20} + [[@{selected|honor_save_prof}]][Proficiency] + @{selected|honor_mod}[HONRA] ]]&#125;&#125; {{r2=[[ @{selected|d20} + [[@{selected|honor_save_prof}]][Proficiency] + @{selected|honor_mod}[HONRA] ]]&#125;&#125; {{global=@{selected|global_save_mod}&#125;&#125; |
 
 -----------------------------------|
 
@@ -79,3 +81,9 @@
 [@{selected|persuasion_bonus}] (CHA)🤝PERSUASÃO, {{rname=🤝PERSUASÃO&#125;&#125; {{mod=[[ [[@{selected|persuasion_bonus}]] [PERS] ]]&#125;&#125; {{r1=[[ @{selected|d20} + [[@{selected|persuasion_prof}]][Proficiency] + @{selected|charisma_mod}[Charisma]]]&#125;&#125; {{r2=[[ @{selected|d20} + [[@{selected|persuasion_prof}]][Proficiency] + @{selected|charisma_mod}[Charisma]]]&#125;&#125; {{global=@{selected|global_skill_mod}&#125;&#125;
 
 } @{selected|charname_output}&{noerror}
+
+
+/w gm ⚠️ **@{selected|character_name}** Fala: Segue minha rolagem do teste GM, o primeiro resultado é o que vale em casos de **ROLAGENS NORMAIS**, se for com **VANTAGEM** considere o mais alto, se for com **DESVANTAGEM** considere o mais baixo.
+
+
+/em ⚠️ Personagem **@{selected|character_name}** Finalizou a rolagem de testes
