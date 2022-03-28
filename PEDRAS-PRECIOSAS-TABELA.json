@@ -155,7 +155,7 @@
         },
         "-MzDXJMl0SQ7dV8QOMfc": {
             "id": "-MzDXJMl0SQ7dV8QOMfc",
-            "name": "Jato (preto profundo opaco)8Pérola (branco, amarelo ou rosa opaco e lustroso) [VALE 100GP]",
+            "name": "Jato (preto profundo opaco) [VALE 100GP]",
             "weight": 4
         },
         "-MzDXJMnfEing8lcCxhc": {
@@ -254,6 +254,11 @@
             "id": "-MzDXJNJ_k6c9qHIGPlE",
             "name": "Rubi (de vermelho claro a carmesim escuro transparente) [VALE 5000GP]",
             "weight": 0
+        },
+        "-MzDeXdO9nznkMD3ZJFb": {
+            "id": "-MzDeXdO9nznkMD3ZJFb",
+            "name": "Pérola (branco, amarelo ou rosa opaco e lustroso) [VALE 100GP]",
+            "weight": 4
         }
     }
 }
