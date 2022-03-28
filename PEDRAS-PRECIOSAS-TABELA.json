@@ -1,0 +1,259 @@
+{
+    "name": "PEDRAS-PRECIOSAS-TABELA",
+    "showplayers": true,
+    "id": "-MzDXJLmDuGoyF0fYFw_",
+    "items": {
+        "-MzDXJLovyl-Firlrr5w": {
+            "id": "-MzDXJLovyl-Firlrr5w",
+            "name": "Azurita (azul escuro mosqueado opaco) [VALE 10GP]",
+            "weight": "10"
+        },
+        "-MzDXJLpmX57-hn9wSxl": {
+            "id": "-MzDXJLpmX57-hn9wSxl",
+            "name": "Ágata malhada (marrom, azul, branca ou vermelho translúcido e listrado) [VALE 10GP]",
+            "weight": "10"
+        },
+        "-MzDXJLrA5jyLQuC6wEX": {
+            "id": "-MzDXJLrA5jyLQuC6wEX",
+            "name": "Quartzo azul (azul claro transparente) [VALE 10GP]",
+            "weight": "10"
+        },
+        "-MzDXJLtRRiIy60UOKEF": {
+            "id": "-MzDXJLtRRiIy60UOKEF",
+            "name": "Ágata ocular (círculos translúcidos de cinza, branco, marro, azul ou verde) [VALE 10GP]",
+            "weight": "10"
+        },
+        "-MzDXJLu4BE8SZ-FNh5j": {
+            "id": "-MzDXJLu4BE8SZ-FNh5j",
+            "name": "Hematita (cinza escuro opaco) [VALE 10GP]",
+            "weight": "10"
+        },
+        "-MzDXJLv1tCHqv1SISZ-": {
+            "id": "-MzDXJLv1tCHqv1SISZ-",
+            "name": "Lápis lazúli (azul claro e escuro opaco com manchas amarelas) [VALE 10GP]",
+            "weight": "10"
+        },
+        "-MzDXJLxUFJsUr4-eK7r": {
+            "id": "-MzDXJLxUFJsUr4-eK7r",
+            "name": "Malaquita (opaco estriado com verde claro e escuro) [VALE 10GP]",
+            "weight": "10"
+        },
+        "-MzDXJLyyyxfaNtWuosD": {
+            "id": "-MzDXJLyyyxfaNtWuosD",
+            "name": "Ágata musgo (rosa translúcido ou amarelo claro com cinza musgo ou marcas verdes) [VALE 10GP]",
+            "weight": "10"
+        },
+        "-MzDXJM-u_Mt6a16kIYG": {
+            "id": "-MzDXJM-u_Mt6a16kIYG",
+            "name": "Obsidiana (preto opaco) [VALE 10GP]",
+            "weight": "10"
+        },
+        "-MzDXJM1CLPICDLcYoib": {
+            "id": "-MzDXJM1CLPICDLcYoib",
+            "name": "Rodocrosita (azul claro opaco) [VALE 10GP]",
+            "weight": "10"
+        },
+        "-MzDXJM3d4Bsl_-Hz5TL": {
+            "id": "-MzDXJM3d4Bsl_-Hz5TL",
+            "name": "Olho de tigre (marrom translúcido com centro dourado) [VALE 10GP]",
+            "weight": "10"
+        },
+        "-MzDXJM5TEJNxEbMVcoV": {
+            "id": "-MzDXJM5TEJNxEbMVcoV",
+            "name": "Turquesa (azul esverdeado claro opaco) [VALE 10GP]",
+            "weight": "5"
+        },
+        "-MzDXJM7-7ziIA1LIA_F": {
+            "id": "-MzDXJM7-7ziIA1LIA_F",
+            "name": "Pedra de sangue (cinza escuro opaco com manchas vermelhas) [VALE 50GP]",
+            "weight": "5"
+        },
+        "-MzDXJM9NX9DmdEt-ceZ": {
+            "id": "-MzDXJM9NX9DmdEt-ceZ",
+            "name": "Cornalina (de laranja a vermelho amarronzado opaco) [VALE 50GP]",
+            "weight": "5"
+        },
+        "-MzDXJMB2vMvvDwa1WN7": {
+            "id": "-MzDXJMB2vMvvDwa1WN7",
+            "name": "Calcedônia (branco opaco) [VALE 50GP]",
+            "weight": "5"
+        },
+        "-MzDXJMD0as2u0nDYZn1": {
+            "id": "-MzDXJMD0as2u0nDYZn1",
+            "name": "Crisoprásio (verde translúcido) [VALE 50GP]",
+            "weight": "5"
+        },
+        "-MzDXJMFuVKbHlnrvoHZ": {
+            "id": "-MzDXJMFuVKbHlnrvoHZ",
+            "name": "Citrina (amarelo claro amarronzado transparente) [VALE 50GP]",
+            "weight": "5"
+        },
+        "-MzDXJMHrCOfZ8H21cwn": {
+            "id": "-MzDXJMHrCOfZ8H21cwn",
+            "name": "Jaspe (azul, preto ou marrom opaco) [VALE 50GP]",
+            "weight": "5"
+        },
+        "-MzDXJMJNduO-mlK4MAb": {
+            "id": "-MzDXJMJNduO-mlK4MAb",
+            "name": "Pedra lunar (branco translúcido com azul claro brilhante) [VALE 50GP]",
+            "weight": "5"
+        },
+        "-MzDXJMLSRfTA7ptkJ6B": {
+            "id": "-MzDXJMLSRfTA7ptkJ6B",
+            "name": "Ônix (faixas opacas de preto e branco, ou preto ou branco puro) [VALE 50GP]",
+            "weight": "5"
+        },
+        "-MzDXJMO3ZrZ-A0WJ5CJ": {
+            "id": "-MzDXJMO3ZrZ-A0WJ5CJ",
+            "name": "Quartzo (branco transparente, cinza ou amarelo esfumaçado) [VALE 50GP]",
+            "weight": "5"
+        },
+        "-MzDXJMU4-9Fn9m3z6OX": {
+            "id": "-MzDXJMU4-9Fn9m3z6OX",
+            "name": "Sardônica (faixas opacas de vermelho e branco) [VALE 50GP]",
+            "weight": "5"
+        },
+        "-MzDXJMWCbq1qpy5-Op-": {
+            "id": "-MzDXJMWCbq1qpy5-Op-",
+            "name": "Quartzo rosa estrela (pedra rosa translúcida com centro branco em forma de estrela) [VALE 50GP]",
+            "weight": "5"
+        },
+        "-MzDXJMYmHLtwEEdvuXZ": {
+            "id": "-MzDXJMYmHLtwEEdvuXZ",
+            "name": "Zircônio (azul esverdeado claro transparente) [VALE 50GP]",
+            "weight": "4"
+        },
+        "-MzDXJMZtMCgWyB_I5F5": {
+            "id": "-MzDXJMZtMCgWyB_I5F5",
+            "name": "Âmbar (transparente entre ouro aquoso e ouro vívido)  [VALE 100GP]",
+            "weight": 4
+        },
+        "-MzDXJMadi5RPHvvGlv8": {
+            "id": "-MzDXJMadi5RPHvvGlv8",
+            "name": "Ametista (púrpura profundo transparente) [VALE 100GP]",
+            "weight": 4
+        },
+        "-MzDXJMcYE2zevXyGfJa": {
+            "id": "-MzDXJMcYE2zevXyGfJa",
+            "name": "Crisoberilo (transparente entre amarelo esverdeado e verde claro) [VALE 100GP]",
+            "weight": 4
+        },
+        "-MzDXJMeTC0qJGMD7NlI": {
+            "id": "-MzDXJMeTC0qJGMD7NlI",
+            "name": "Coral (carmesim opaco) [VALE 100GP]",
+            "weight": 4
+        },
+        "-MzDXJMiCUXRj7hVVA3r": {
+            "id": "-MzDXJMiCUXRj7hVVA3r",
+            "name": "Granada (vermelho, marrom esverdeado ou branco transparente) [VALE 100GP]",
+            "weight": 4
+        },
+        "-MzDXJMjfMeEE5vEr5Md": {
+            "id": "-MzDXJMjfMeEE5vEr5Md",
+            "name": "Jade (verde claro, verde escuro ou branco translúcido) [VALE 100GP]",
+            "weight": 4
+        },
+        "-MzDXJMl0SQ7dV8QOMfc": {
+            "id": "-MzDXJMl0SQ7dV8QOMfc",
+            "name": "Jato (preto profundo opaco)8Pérola (branco, amarelo ou rosa opaco e lustroso) [VALE 100GP]",
+            "weight": 4
+        },
+        "-MzDXJMnfEing8lcCxhc": {
+            "id": "-MzDXJMnfEing8lcCxhc",
+            "name": "Espinela (vermelho, vermelho amarronzado ou verde escuro transparente) [VALE 100GP]",
+            "weight": 4
+        },
+        "-MzDXJMoHsbBXxOEIM0l": {
+            "id": "-MzDXJMoHsbBXxOEIM0l",
+            "name": "Turmalina (verde, azul, marrom ou vermelho claro transparente) [VALE 100GP]",
+            "weight": 3
+        },
+        "-MzDXJMq-u1q6ciVzE6-": {
+            "id": "-MzDXJMq-u1q6ciVzE6-",
+            "name": "Alexandrita (verde escuro transparente) [VALE 500GP]",
+            "weight": 3
+        },
+        "-MzDXJMrnyvxb7gM9MAr": {
+            "id": "-MzDXJMrnyvxb7gM9MAr",
+            "name": "Água-marinha (azul esverdeado claro transparente) [VALE 500GP]",
+            "weight": 3
+        },
+        "-MzDXJMtcpampPGf9h3N": {
+            "id": "-MzDXJMtcpampPGf9h3N",
+            "name": "Pérola negra (preto puro opaco) [VALE 500GP]",
+            "weight": 3
+        },
+        "-MzDXJMvg1WtJ-zmcE4J": {
+            "id": "-MzDXJMvg1WtJ-zmcE4J",
+            "name": "Espinela azul (azul escuro transparente) [VALE 500GP]",
+            "weight": 3
+        },
+        "-MzDXJMxn845C25LiLex": {
+            "id": "-MzDXJMxn845C25LiLex",
+            "name": "Peridoto (verde oliva vívido transparente) [VALE 500GP]",
+            "weight": 3
+        },
+        "-MzDXJMyqFQ9cV90iIKT": {
+            "id": "-MzDXJMyqFQ9cV90iIKT",
+            "name": "Topázio (amarelo-ouro transparente) [VALE 500GP]",
+            "weight": 2
+        },
+        "-MzDXJN-avUDnEJePSBA": {
+            "id": "-MzDXJN-avUDnEJePSBA",
+            "name": "Opala negra (verde escuro translúcido com preto mosqueado e manchas douradas) [VALE 1000GP]",
+            "weight": 2
+        },
+        "-MzDXJN1zUMbUEPZD3bn": {
+            "id": "-MzDXJN1zUMbUEPZD3bn",
+            "name": "Safira azul (de azul claro a azul médio transparente) [VALE 1000GP]",
+            "weight": 2
+        },
+        "-MzDXJN407pPKLkSCAsx": {
+            "id": "-MzDXJN407pPKLkSCAsx",
+            "name": "Esmeralda (verde escuro brilhante transparente) [VALE 1000GP]",
+            "weight": 2
+        },
+        "-MzDXJN5y8mXd-evQdBT": {
+            "id": "-MzDXJN5y8mXd-evQdBT",
+            "name": "Opala de fogo (vermelho fogo translúcido) [VALE 1000GP]",
+            "weight": 2
+        },
+        "-MzDXJN7_tqVIi-AsUD_": {
+            "id": "-MzDXJN7_tqVIi-AsUD_",
+            "name": "Opala (azul claro translúcido mosqueado de verde e dourado) [VALE 1000GP]",
+            "weight": 2
+        },
+        "-MzDXJN9jeVjUsyITH9H": {
+            "id": "-MzDXJN9jeVjUsyITH9H",
+            "name": "Rubi estrela (rubi translucido com centro branco em forma de estrela) [VALE 1000GP]",
+            "weight": 2
+        },
+        "-MzDXJNBP24kVGrdHbun": {
+            "id": "-MzDXJNBP24kVGrdHbun",
+            "name": "Safira estrela (safira azul translúcida com centro branco em forma de estrela) [VALE 1000GP]",
+            "weight": 2
+        },
+        "-MzDXJNDU0QqyYZIfiaR": {
+            "id": "-MzDXJNDU0QqyYZIfiaR",
+            "name": "Safira amarela (amarelo fogo ou amarelo esverdeado transparente) [VALE 1000GP]",
+            "weight": 2
+        },
+        "-MzDXJNFLxiOR2QO_88v": {
+            "id": "-MzDXJNFLxiOR2QO_88v",
+            "name": "Safira negra (preto lustroso transparente com destaques brilhantes) [VALE 5000GP]"
+        },
+        "-MzDXJNG9ST_sxIm2lAp": {
+            "id": "-MzDXJNG9ST_sxIm2lAp",
+            "name": "Diamante (azul claro, canário, rosa, marrom ou azul transparente) [VALE 5000GP]"
+        },
+        "-MzDXJNI_H0HUTU9kFkn": {
+            "id": "-MzDXJNI_H0HUTU9kFkn",
+            "name": "Jacinto (laranja fogo transparente) [VALE 5000GP]"
+        },
+        "-MzDXJNJ_k6c9qHIGPlE": {
+            "id": "-MzDXJNJ_k6c9qHIGPlE",
+            "name": "Rubi (de vermelho claro a carmesim escuro transparente) [VALE 5000GP]",
+            "weight": 0
+        }
+    }
+}
