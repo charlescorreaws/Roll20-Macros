@@ -1,0 +1,193 @@
+{
+    "name": "Maldicoes",
+    "showplayers": true,
+    "id": "-MzDQkna2xXfGk79SvaJ",
+    "items": {
+        "-MzDQkncM7FFOTOh2i3O": {
+            "id": "-MzDQkncM7FFOTOh2i3O",
+            "name": "Maldição do Ódio do Sexo Oposto - Você é repulsivo para alguém do sexo oposto. É como ser Monstruoso e ter Má Fama ao mesmo tempo, mas apenas para membros do sexo oposto. Sua atitude com relação a você será sempre de nojo, medo, asco e até violência, se você não se afastar o máximo possível.",
+            "weight": "1"
+        },
+        "-MzDQknfDvO76KQyvSpM": {
+            "id": "-MzDQknfDvO76KQyvSpM",
+            "name": "Maldição do Medo do Silêncio - Por algum motivo você se sente incomodado com o silêncio. Sempre que estiver em um ambiente onde estejam mais pessoas além de você, você dará um grito incontrolável! Hooooo!",
+            "weight": "1"
+        },
+        "-MzDQknhPDmyqHklwcBc": {
+            "id": "-MzDQknhPDmyqHklwcBc",
+            "name": "Maldição Demoníaca - Seus olhos e sua boca exibem chamas escarlates quando se abrem, e criaturas de Tendência Bondosa e/ou Leal enxergam você como alvo preferencial, tendo + 4 contra você em combate ou testes resistidos.",
+            "weight": "1"
+        },
+        "-MzDQknlHkigHABGvBGO": {
+            "id": "-MzDQknlHkigHABGvBGO",
+            "name": "Maldição do Podia ser Pior - Você é um otimista e sempre vê o lado bom das coisas, infelizmente o universo conspira contra seu ponto de vista e tudo acontece ao contrário do que você diz. Quando você menciona \"veja o lado bom, podia estar chovendo\", uma chuva torrencial cai no mesmo instante. Então tenha cuidado sempre que diz \"podia ser pior\".",
+            "weight": "1"
+        },
+        "-MzDQknoCJMWLYKqGGIA": {
+            "id": "-MzDQknoCJMWLYKqGGIA",
+            "name": "Maldição do Soluço Descontrolado - Você soluça o tempo todo. Caso seja um mago, deve ser bem-sucedido em um teste de Habilidade de sabedoria antes de conseguir lançar uma magia. Qualquer teste de Perícia envolvendo pessoas sofre um redutor de –1.",
+            "weight": "1"
+        },
+        "-MzDQknqCZQBweLoVagr": {
+            "id": "-MzDQknqCZQBweLoVagr",
+            "name": "Maldição da Verdade - Você só consegue dizer a verdade. Não consegue mentir em nenhuma hipótese, mesmo quando isso coloca sua vida em risco.",
+            "weight": "1"
+        },
+        "-MzDQknsHT9ZK_KP0UTv": {
+            "id": "-MzDQknsHT9ZK_KP0UTv",
+            "name": "Maldição do Onomatopaico - Você não consegue falar sem imitar efeitos sonoros das coisas que está dizendo de uma forma que fica muito difícil entender.(\"Então aquele KRAASH veio e SHAFHUM pra cima do NHOOM e depois FANHOM tudo!\")",
+            "weight": "1"
+        },
+        "-MzDQknv8y0JOLBxFA-P": {
+            "id": "-MzDQknv8y0JOLBxFA-P",
+            "name": "Maldição das Mil Caras - Sempre que você vai dormir, desperta com uma aparência totalmente diferente. Muda a cor da pele, olhos, cabelos, altura, peso, sexo, mas nunca a raça ou espécie (se você é humano, sua aparência sempre será humana).",
+            "weight": "1"
+        },
+        "-MzDQkny9yJb3-DbZzRb": {
+            "id": "-MzDQkny9yJb3-DbZzRb",
+            "name": "Maldição da Permissão de Entrada - Você não pode entrar voluntariamente em nenhum lugar sem permissão do dono e isso será um grande problema no dia de invadir a torre do mago maligno...",
+            "weight": "1"
+        },
+        "-MzDQko0a05qXMQhUXkC": {
+            "id": "-MzDQko0a05qXMQhUXkC",
+            "name": "Maldição da voz alta - Por algum motivo, sempre que você fala, a sua voz sai em tom alto como se estivesse brigando ou chamando a atenção de alguém. É quase impossível você conseguir ter uma conversa amigável com pessoas desconhecidas.",
+            "weight": "1"
+        },
+        "-MzDQko2mxrb6emSRlfL": {
+            "id": "-MzDQko2mxrb6emSRlfL",
+            "name": "Maldição do Reflexo Distorcido - Em espelhos e outras superfícies refletoras você terá uma aparência monstruosa, diabólica. Pessoas que percebam sua condição podem acreditar que você é um vampiro, fantasma, demônio ou algo assim.",
+            "weight": "1"
+        },
+        "-MzDQko46o0Mhr7iDgkp": {
+            "id": "-MzDQko46o0Mhr7iDgkp",
+            "name": "Maldição do Comando Irresistível - Existe uma ordem, um comando simples, que você nunca pode deixar de cumprir quando alguém diz. Por exemplo, ao ouvir a palavra \"senta\", você interrompe o que estiver fazendo e senta imediatamente, sem direito a testes para resistir. Comandos típicos podem ser \"corra\", \"pare\", \"lute\". No turno seguinte você pode voltar a agir normalmente, desde que não ouça de novo o comando."
+        },
+        "-MzDQko7k9S9QwK4_x5F": {
+            "id": "-MzDQko7k9S9QwK4_x5F",
+            "name": "Maldição da Transformação em Animal - Quando molhado com água fria você se torna um animal ou criatura qualquer, à escolha do Mestre. Você acaba se transformando em um gato, pato, porquinho ou coisa assim, todas as suas Características (exceto uma) caem para 0. A transformação é revertida com água quente.",
+            "weight": "1"
+        },
+        "-MzDQko9yP6MUrxoSpUq": {
+            "id": "-MzDQko9yP6MUrxoSpUq",
+            "name": "Maldição do Medo dos animais - A floresta é o seu pior caminho. Sempre que um animal selvagem o vê, ele se sente amedrontado e como forma de tentar se livrar, ele vai fugir você.",
+            "weight": "1"
+        },
+        "-MzDQkoBiqitW1g-qhQA": {
+            "id": "-MzDQkoBiqitW1g-qhQA",
+            "name": "Maldição do Ódio dos animais - A floresta é o seu pior caminho. Sempre que um animal selvagem o vê, ele se sente ameaçado e como forma de tentar se defender, ele vai atacar você.",
+            "weight": "1"
+        },
+        "-MzDQkoDJ7FyaZoMCGO7": {
+            "id": "-MzDQkoDJ7FyaZoMCGO7",
+            "name": "Maldição do Ódio dos insetos - A floresta é o seu pior caminho. Sempre que um inseto o vê, ele se sente ameaçado e como forma de tentar se defender, ele vai atacar você.",
+            "weight": "1"
+        },
+        "-MzDQkoFFFoQ33-WQ1TX": {
+            "id": "-MzDQkoFFFoQ33-WQ1TX",
+            "name": "Maldição Ofídica - Seus olhos tornam-se dourados, com íris em forma de fenda, Qualquer pessoa com quem você conversar a até 3 metros ou menos vai sendo lentamente envenenada, perdendo 1 PV por turno (ou sentença) sem ter qualquer sensação disso até desfalecer a 0 PV.",
+            "weight": "1"
+        },
+        "-MzDQkoH0P9ZfKhEAG1L": {
+            "id": "-MzDQkoH0P9ZfKhEAG1L",
+            "name": "Maldição da Voz de menina - Essa maldição de texa com uma voz de menininha caso você seja do sexo masculino, Do contrário sua voz será de um menininho.",
+            "weight": "1"
+        },
+        "-MzDQkoK1x1rpzfcp4Ox": {
+            "id": "-MzDQkoK1x1rpzfcp4Ox",
+            "name": "Maldição da Água Corrente - Por algum motivo sobrenatural, você não consegue atravessar rios, mesmo havendo uma ponte. A água corrente cria uma parede invisível e intransponível. Mesmo sedo carregado, seu corpo \"trava\" em pleno ar, e não atravessa o rio.",
+            "weight": "1"
+        },
+        "-MzDQkoM132P8WLDS8l-": {
+            "id": "-MzDQkoM132P8WLDS8l-",
+            "name": "Maldição do Bêbado - Você não aguenta beber mais do que uma caneca de bebida alcoólica sem que fique bêbado. Uma caneca para você é o equivalente a dez canecas.",
+            "weight": "1"
+        },
+        "-MzDQkoORXufkDMRJZk_": {
+            "id": "-MzDQkoORXufkDMRJZk_",
+            "name": "Maldição do Luar - Sempre ao cair em noites de lua cheia, você sente uma vontade incontrolável de se deslocar para o ponto mais alto como montanhas e outros lugares que encontrar e começar a uivar para a lua como um lobo.",
+            "weight": "1"
+        },
+        "-MzDQkoQOHwDIBmcAC1Z": {
+            "id": "-MzDQkoQOHwDIBmcAC1Z",
+            "name": "Maldição da Recuperação Parcial - Você leva duas vezes mais tempo para recuperar Pontos de Vida, Pontos de Fadiga e Pontos de Magia. Além disso, magias, itens e poderes restauram apenas metade dos PVs, PFs e PMs que deveriam.",
+            "weight": "1"
+        },
+        "-MzDQkoSZLcpttQ9AB6U": {
+            "id": "-MzDQkoSZLcpttQ9AB6U",
+            "name": "Maldição da Mentira - Você nunca consegue dizer a verdade e até mesmo acredita nas próprias mentiras. Pessoas conhecidas acabam se acostumando e reagindo ao contrário do que você diz. Caso você tenha o Código de Honra da Honestidade e receba esta Maldição, nunca mais poderá dizer coisa alguma até livrar-se de um dos dois problemas.",
+            "weight": "1"
+        },
+        "-MzDQkoYEjHntpMnzD2r": {
+            "id": "-MzDQkoYEjHntpMnzD2r",
+            "name": "Maldição da Dislexia - Você não consegue ler e escrever, mesmo que soubesse fazer isso antes da Maldição. Será um problema muito mais sério para magos que não poderão mais ler seus grimórios.",
+            "weight": "1"
+        },
+        "-MzDQko_3XHcNCTA192a": {
+            "id": "-MzDQko_3XHcNCTA192a",
+            "name": "Maldição dos pés calientes - Essa maldição faz com que seus pés comecem a esquentar muito. É similar a pisar na areia da praia quando quente. Porém a temperatura que você sente nos pés é ainda maior. Somente quando você pula ou corre, o incômodo se alivia um pouco."
+        },
+        "-MzDQkoczGAHT8ByDEsl": {
+            "id": "-MzDQkoczGAHT8ByDEsl",
+            "name": "Maldição do Vigor - Sua saúde parece sempre precária. Seja febre, resfriado, dores de cabeça, dores no corpo ou etc. Essa condição te faz sofrer uma penalidade de -3 em qualquer teste que faça."
+        },
+        "-MzDQkoeIZ_siRzdLOav": {
+            "id": "-MzDQkoeIZ_siRzdLOav",
+            "name": "Maldição do Fedor - De alguma forma você fede como se nunca tivesse tomado banho na vida. As pessoas pensam que você é um mendigo descuidado ou um cadaver em decomposição.",
+            "weight": "1"
+        },
+        "-MzDQkogDssCfdChY7C5": {
+            "id": "-MzDQkogDssCfdChY7C5",
+            "name": "Maldição do Preto e Branco - O personagem enxerga só em tons Preto e Branco.",
+            "weight": "1"
+        },
+        "-MzDQkojbQB2RgWxB15B": {
+            "id": "-MzDQkojbQB2RgWxB15B",
+            "name": "Maldição do Nenhum Senso de Direção - Você nunca consegue chegar aonde deseja, exceto por puro acaso (Jogue 1d6 se cair 1 você consegue chegar onde deseja), mesmo que esteja a dez metros do lugar e COM ALGUÉM INDICANDO O CAMINHO, você só consegue se orientar quando anda em grupo (e é melhor não se afastar dos colegas...)"
+        },
+        "-MzDQkomeeHaYbJIuwm8": {
+            "id": "-MzDQkomeeHaYbJIuwm8",
+            "name": "Maldição da Atração - Sempre que um ataque à distância com arma for feito contra um alvo a até 3 metros de você, a maldição faz com que você se torne o alvo do ataque ao invés do alvo original.",
+            "weight": "1"
+        },
+        "-MzDQkopJ4vlXctyGKn8": {
+            "id": "-MzDQkopJ4vlXctyGKn8",
+            "name": "Maldição da Fragilidade - Esta Maldição deixou seu corpo frágil. Você sempre sofre 2PVs de dano extras sempre que recebe algum ferimento.",
+            "weight": "1"
+        },
+        "-MzDQkoslSjMlQefDCR3": {
+            "id": "-MzDQkoslSjMlQefDCR3",
+            "name": "Maldição Celestial - Surge uma auréola ao redor de sua cabeça, e criaturas de Tendência Maligna enxergam você como alvo preferencial, tendo + 4 contra você em combate ou testes resistidos.",
+            "weight": "1"
+        },
+        "-MzDQkovR5IX05RpMZq3": {
+            "id": "-MzDQkovR5IX05RpMZq3",
+            "name": "Maldição da Troca de Sexo - Quando molhado com água fria você muda de sexo, voltando ao normal apenas quando molhado com água quente.",
+            "weight": "1"
+        },
+        "-MzDQkoy5zOB35SOmZ6B": {
+            "id": "-MzDQkoy5zOB35SOmZ6B",
+            "name": "Maldição do Ódio dos Animais - Por algum motivo, qualquer tipo de animal irracional simplesmente NÃO gosta de você. Vale desde insetos até bichos grandes, incluindo monstros, impondo uma penalização de –3 em testes com a Perícia Animais.",
+            "weight": "1"
+        },
+        "-MzDQkp-a3SMiPqTR-Px": {
+            "id": "-MzDQkp-a3SMiPqTR-Px",
+            "name": "Maldição da Careca - Você perdeu todo o seu cabelo e nunca poderá recuperá-lo (por exemplo, se você tem a forma de um urso peludo e com isso perde todo o pelo) causando um efeito parecido a monstruoso.",
+            "weight": "1"
+        },
+        "-MzDQkp2GHRj5VZlSuL-": {
+            "id": "-MzDQkp2GHRj5VZlSuL-",
+            "name": "Maldição do Crescimento de Pelos - Seu cabelo e barba crescem rápido demais, chegando a crescer 1m a cada 12 horas. Se você não apará-los, vai se atrapalhar um bocado.",
+            "weight": "1"
+        },
+        "-MzDQkp5Y1SlgCe0L9cb": {
+            "id": "-MzDQkp5Y1SlgCe0L9cb",
+            "name": "Maldição do trono - Essa maldição foi criada a muitos anos atrás para punir aqueles que cometem o pecado da gula. Sempre que o personagem se alimentar de uma refeição, ele terá nesse dia 50% de chances de ter uma fortíssima vontade de cagar. Após a refeição jogue um d100 se cair acima de 50 o efeito é ativado.",
+            "weight": "1"
+        },
+        "-MzDQkp8teOsbzxroYQ1": {
+            "id": "-MzDQkp8teOsbzxroYQ1",
+            "name": "Maldição da Marca do Mentiroso - Quando você mente, algum efeito óbvio denuncia o fato. Um trovão soa ao longe, um pássaro morto cai do céu ao seu lado, você gagueja, seu nariz cresce, seus olhos aumentam de tamanho, um corvo para na sua cabeça e não sai...",
+            "weight": 0
+        }
+    }
+}

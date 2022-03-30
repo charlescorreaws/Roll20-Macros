@@ -1,0 +1,13 @@
+{
+    "schema_version": 2,
+    "macros": [
+        {
+            "attributes": {
+                "action": "&{template:traits} {{name=Maldições}} {{source=Personagem: @{selected|character_name}}} {{description=\n[img](https://i.imgur.com/krT5S0b.jpg)\n\nDuração da Maldição: \n``[[1d6]] horas`` \n\n*[Salvo se a maldição fala em dias ou turnos, sendo assim não se é aplicado esse tempo]*\n\nDescrição da Maldição:\n[[1t[Maldicoes]]]}}",
+                "istokenaction": true,
+                "name": "Maldicoes",
+                "visibleto": "all"
+            }
+        }
+    ]
+}
