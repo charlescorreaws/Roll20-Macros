@@ -1,0 +1,13 @@
+{
+    "schema_version": 2,
+    "macros": [
+        {
+            "attributes": {
+                "action": "&{template:traits} {{name=Riqueza Inicial}} {{source=Personagem: @{selected|character_name}}} {{description=[img](https://i.imgur.com/yOgvaID.jpg)\n\nSeu Valor de Riqueza Inicial é ``[[?{Escolha sua classe de personagem?|Bárbaro,2d4*10|Bardo,5d4*10|Bruxo,4d4*10|Clérigo,5d4*10|Druida,2d4*10|Feiticeiro,3d4*10|Ranger/Guardião,5d4*10|Guerreiro,5d4*10|Ladino,4d4*10|Mago,4d4*10|Monge,5d4|Paladino,5d4*10}]]`` PO (Peças de Ouro)\n\n*Regras e dados conforme livro do mestre *\n}}",
+                "istokenaction": true,
+                "name": "RIQUEZA-INICIAL",
+                "visibleto": "all"
+            }
+        }
+    ]
+}
