@@ -1,0 +1,17 @@
+{
+    "schema_version": 2,
+    "macros": [
+        {
+            "attributes": {
+                "action": "&{template:traits} {{name=Gerador de Nomes de Taverna}} {{description=[img](https://i.imgur.com/WY7boDe.jpg)\n\nO Nome da sua Taverna é: \n[[1t[Nomes-Tavernas]]]}}",
+                "istokenaction": false,
+                "name": "Gerar-Nomes-Tavernas",
+                "visibleto": ""
+            },
+            "macrobar": {
+                "color": null,
+                "name": null
+            }
+        }
+    ]
+}

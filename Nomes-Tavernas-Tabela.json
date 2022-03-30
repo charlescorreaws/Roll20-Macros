@@ -1,0 +1,432 @@
+{
+    "name": "Nomes-Tavernas",
+    "showplayers": true,
+    "id": "-MzRRib4gmsUhVdoRlXL",
+    "items": {
+        "-MzRRic4pXhV2zr-4hOY": {
+            "id": "-MzRRic4pXhV2zr-4hOY",
+            "name": "A boa harpa",
+            "weight": "1"
+        },
+        "-MzRRic8dPKvE8w14y3g": {
+            "id": "-MzRRic8dPKvE8w14y3g",
+            "name": "Pousada Juicy Mercearia",
+            "weight": "1"
+        },
+        "-MzRRicE3fQYj1ZbFjoW": {
+            "id": "-MzRRicE3fQYj1ZbFjoW",
+            "name": "Pousada Ogro Magro",
+            "weight": "1"
+        },
+        "-MzRRicGOkbneZwDY8kh": {
+            "id": "-MzRRicGOkbneZwDY8kh",
+            "name": "O Druida",
+            "weight": "1"
+        },
+        "-MzRRicITQkTeZmTD66z": {
+            "id": "-MzRRicITQkTeZmTD66z",
+            "name": "O Mercer Podre",
+            "weight": "1"
+        },
+        "-MzRRicKhLGH0M0OdWJ9": {
+            "id": "-MzRRicKhLGH0M0OdWJ9",
+            "name": "O Bar Arqueiro Bonito",
+            "weight": "1"
+        },
+        "-MzRRicPtNyJOQhh5VVq": {
+            "id": "-MzRRicPtNyJOQhh5VVq",
+            "name": "A Pousada Fletcher",
+            "weight": "1"
+        },
+        "-MzRRicRJn7R4Qfdxx7I": {
+            "id": "-MzRRicRJn7R4Qfdxx7I",
+            "name": "A víbora",
+            "weight": "1"
+        },
+        "-MzRRicVvlzQ3mFPbgnH": {
+            "id": "-MzRRicVvlzQ3mFPbgnH",
+            "name": "Taberna do Sprite Selvagem",
+            "weight": "1"
+        },
+        "-MzRRicW8wOdf7iuvC3k": {
+            "id": "-MzRRicW8wOdf7iuvC3k",
+            "name": "Bar da Lua",
+            "weight": "1"
+        },
+        "-MzRRicYGTYw6_TvKOOT": {
+            "id": "-MzRRicYGTYw6_TvKOOT",
+            "name": "Pousada Bom Jardineiro",
+            "weight": "1"
+        },
+        "-MzRRicaHM6bWXu08jor": {
+            "id": "-MzRRicaHM6bWXu08jor",
+            "name": "A fada larga",
+            "weight": "1"
+        },
+        "-MzRRiceXgaSQ9DIuJ5R": {
+            "id": "-MzRRiceXgaSQ9DIuJ5R",
+            "name": "Brownie Salgado Pub",
+            "weight": "1"
+        },
+        "-MzRRici_35PXVAek-GO": {
+            "id": "-MzRRici_35PXVAek-GO",
+            "name": "As armas do arauto",
+            "weight": "1"
+        },
+        "-MzRRick7iOfWRQ159NS": {
+            "id": "-MzRRick7iOfWRQ159NS",
+            "name": "Pousada Telhado de Cerâmica",
+            "weight": "1"
+        },
+        "-MzRRicmMQUusKNihhBx": {
+            "id": "-MzRRicmMQUusKNihhBx",
+            "name": "A Taberna do Comerciante",
+            "weight": "1"
+        },
+        "-MzRRicoFbvKN-M5nPUO": {
+            "id": "-MzRRicoFbvKN-M5nPUO",
+            "name": "Pub do Buck",
+            "weight": "1"
+        },
+        "-MzRRicqg9UCNJ6cJNRO": {
+            "id": "-MzRRicqg9UCNJ6cJNRO",
+            "name": "Lindas armas de ourives",
+            "weight": "1"
+        },
+        "-MzRRicwwWaLQZTlZL--": {
+            "id": "-MzRRicwwWaLQZTlZL--",
+            "name": "O espírito ganancioso",
+            "weight": "1"
+        },
+        "-MzRRidBpffOmmQT7FTu": {
+            "id": "-MzRRidBpffOmmQT7FTu",
+            "name": "O Arcebispo",
+            "weight": "1"
+        },
+        "-MzRRidEMfoWF7254obb": {
+            "id": "-MzRRidEMfoWF7254obb",
+            "name": "Taberna de Camelos Bêbados",
+            "weight": "1"
+        },
+        "-MzRRidK3wIhsxJT8kQJ": {
+            "id": "-MzRRidK3wIhsxJT8kQJ",
+            "name": "O Daimyo de madeira",
+            "weight": "1"
+        },
+        "-MzRRidM9WZrk2FZQJY2": {
+            "id": "-MzRRidM9WZrk2FZQJY2",
+            "name": "O ministro",
+            "weight": "1"
+        },
+        "-MzRRidQ50OMmcTUHdxl": {
+            "id": "-MzRRidQ50OMmcTUHdxl",
+            "name": "Banhista feio e marquês barulhento",
+            "weight": "1"
+        },
+        "-MzRRidS7Cjr9-k-fpUd": {
+            "id": "-MzRRidS7Cjr9-k-fpUd",
+            "name": "A Taverna Pixie",
+            "weight": "1"
+        },
+        "-MzRRidUTYqW-DjJoPA-": {
+            "id": "-MzRRidUTYqW-DjJoPA-",
+            "name": "Estalagem Inclinada Shrieker",
+            "weight": "1"
+        },
+        "-MzRRidW0oAT0HjF3LZJ": {
+            "id": "-MzRRidW0oAT0HjF3LZJ",
+            "name": "A conta",
+            "weight": "1"
+        },
+        "-MzRRidYBZw4BJBN6Sat": {
+            "id": "-MzRRidYBZw4BJBN6Sat",
+            "name": "Pub do Inventor Alto",
+            "weight": "1"
+        },
+        "-MzRRid_ir3Rb0lKbyUG": {
+            "id": "-MzRRid_ir3Rb0lKbyUG",
+            "name": "A Pousada do Escudeiro",
+            "weight": "1"
+        },
+        "-MzRRidba8YgV0fbK8lQ": {
+            "id": "-MzRRidba8YgV0fbK8lQ",
+            "name": "A Esfinge Redonda",
+            "weight": "1"
+        },
+        "-MzRRidd-kz1y5R3rrLu": {
+            "id": "-MzRRidd-kz1y5R3rrLu",
+            "name": "A Taberna do Príncipe",
+            "weight": "1"
+        },
+        "-MzRRidhAmF4KdtdG6jK": {
+            "id": "-MzRRidhAmF4KdtdG6jK",
+            "name": "Os grandes braços da esfinge",
+            "weight": "1"
+        },
+        "-MzRRidj5b-YJGHaj-Bu": {
+            "id": "-MzRRidj5b-YJGHaj-Bu",
+            "name": "O Marquês",
+            "weight": "1"
+        },
+        "-MzRRidzkJLoXGuPW3gR": {
+            "id": "-MzRRidzkJLoXGuPW3gR",
+            "name": "Taberna do Sacerdote de Bronze",
+            "weight": "1"
+        },
+        "-MzRRie0mAZEdkWoFTqF": {
+            "id": "-MzRRie0mAZEdkWoFTqF",
+            "name": "As armas da serva",
+            "weight": "1"
+        },
+        "-MzRRie4VWs03dP9VPe0": {
+            "id": "-MzRRie4VWs03dP9VPe0",
+            "name": "A Taberna do Corvo",
+            "weight": "1"
+        },
+        "-MzRRie7F8yQaMfQhykc": {
+            "id": "-MzRRie7F8yQaMfQhykc",
+            "name": "A Taberna do Rigger",
+            "weight": "1"
+        },
+        "-MzRRie9G50pvV0hL1es": {
+            "id": "-MzRRie9G50pvV0hL1es",
+            "name": "Bar Moinho de Vento Sussurrante",
+            "weight": "1"
+        },
+        "-MzRRieF01dP01tFWMWF": {
+            "id": "-MzRRieF01dP01tFWMWF",
+            "name": "As armas antigas da concubina",
+            "weight": "1"
+        },
+        "-MzRRieISPILw37nxPVh": {
+            "id": "-MzRRieISPILw37nxPVh",
+            "name": "A Taberna dos Escravos",
+            "weight": "1"
+        },
+        "-MzRRieK4KSKOt_DxxKX": {
+            "id": "-MzRRieK4KSKOt_DxxKX",
+            "name": "Taberna dos chifres gananciosos",
+            "weight": "1"
+        },
+        "-MzRRieMF1rH5dJLW2S-": {
+            "id": "-MzRRieMF1rH5dJLW2S-",
+            "name": "Pousada Alto Carpinteiro",
+            "weight": "1"
+        },
+        "-MzRRiePs4f8cC-cyMYD": {
+            "id": "-MzRRiePs4f8cC-cyMYD",
+            "name": "As armas do pregador",
+            "weight": "1"
+        },
+        "-MzRRieROtMljbak7mXm": {
+            "id": "-MzRRieROtMljbak7mXm",
+            "name": "Taberna do ministro gritando",
+            "weight": "1"
+        },
+        "-MzRRieVOju25KHk3TtL": {
+            "id": "-MzRRieVOju25KHk3TtL",
+            "name": "Taberna do Patrulheiro Direto",
+            "weight": "1"
+        },
+        "-MzRRieXnYVAFfYBPlhr": {
+            "id": "-MzRRieXnYVAFfYBPlhr",
+            "name": "As armas do cavalo",
+            "weight": "1"
+        },
+        "-MzRRies8VLhDCEFk_0j": {
+            "id": "-MzRRies8VLhDCEFk_0j",
+            "name": "A Taverna dos Gafanhotos Mortos",
+            "weight": "1"
+        },
+        "-MzRRiex3NcskXmxpVvF": {
+            "id": "-MzRRiex3NcskXmxpVvF",
+            "name": "A Taberna da Torre",
+            "weight": "1"
+        },
+        "-MzRRif0NYPn8jJk0FJh": {
+            "id": "-MzRRif0NYPn8jJk0FJh",
+            "name": "A Pousada Pária",
+            "weight": "1"
+        },
+        "-MzRRif2Yu_R8kXlKhMt": {
+            "id": "-MzRRif2Yu_R8kXlKhMt",
+            "name": "O Gladiador Pub",
+            "weight": "1"
+        },
+        "-MzRRif5oFKlAmYVZDZB": {
+            "id": "-MzRRif5oFKlAmYVZDZB",
+            "name": "O peleiro",
+            "weight": "1"
+        },
+        "-MzRRifCVCefOCOzfxgT": {
+            "id": "-MzRRifCVCefOCOzfxgT",
+            "name": "A Taberna Dríade",
+            "weight": "1"
+        },
+        "-MzRRifFCqSCfUoHaHm6": {
+            "id": "-MzRRifFCqSCfUoHaHm6",
+            "name": "A Pousada Aranha de Ébano",
+            "weight": "1"
+        },
+        "-MzRRifIZ1y2SrOonHuq": {
+            "id": "-MzRRifIZ1y2SrOonHuq",
+            "name": "O gravador",
+            "weight": "1"
+        },
+        "-MzRRifKPHmzv4pS4nG1": {
+            "id": "-MzRRifKPHmzv4pS4nG1",
+            "name": "O Prelado Pub",
+            "weight": "1"
+        },
+        "-MzRRifMj8CPyqGxLyXa": {
+            "id": "-MzRRifMj8CPyqGxLyXa",
+            "name": "A Taberna do Bom Ninho",
+            "weight": "1"
+        },
+        "-MzRRifPd99sd0twehQ-": {
+            "id": "-MzRRifPd99sd0twehQ-",
+            "name": "Pousada Locathah Lenta",
+            "weight": "1"
+        },
+        "-MzRRifby2CbvuXEwTjM": {
+            "id": "-MzRRifby2CbvuXEwTjM",
+            "name": "A ampla taberna da centopéia",
+            "weight": "1"
+        },
+        "-MzRRife8RfR2gTBQnBJ": {
+            "id": "-MzRRife8RfR2gTBQnBJ",
+            "name": "A adaga e o macaco",
+            "weight": "1"
+        },
+        "-MzRRig7FHrfVu8DQSd-": {
+            "id": "-MzRRig7FHrfVu8DQSd-",
+            "name": "O gafanhoto raso",
+            "weight": "1"
+        },
+        "-MzRRigTznJ00S-uhpW5": {
+            "id": "-MzRRigTznJ00S-uhpW5",
+            "name": "O lodo mesquinho",
+            "weight": "1"
+        },
+        "-MzRRigVC0qbDy4Z1GP7": {
+            "id": "-MzRRigVC0qbDy4Z1GP7",
+            "name": "A Pousada Exploradora",
+            "weight": "1"
+        },
+        "-MzRRigbeVrvpv-rnlRZ": {
+            "id": "-MzRRigbeVrvpv-rnlRZ",
+            "name": "Bar do Arco",
+            "weight": "1"
+        },
+        "-MzRRigdecd7pBl0u5R4": {
+            "id": "-MzRRigdecd7pBl0u5R4",
+            "name": "Estalagem Mastodonte Torto",
+            "weight": "1"
+        },
+        "-MzRRigg1KN1pejAZfgC": {
+            "id": "-MzRRigg1KN1pejAZfgC",
+            "name": "O Artesão e Agricultor",
+            "weight": "1"
+        },
+        "-MzRRigpP5cYZIIVLjDl": {
+            "id": "-MzRRigpP5cYZIIVLjDl",
+            "name": "O Roebuck",
+            "weight": "1"
+        },
+        "-MzRRihAwWKyQCB267EI": {
+            "id": "-MzRRihAwWKyQCB267EI",
+            "name": "A Taberna de Pégaso",
+            "weight": "1"
+        },
+        "-MzRRihCuNwajOZZBzSs": {
+            "id": "-MzRRihCuNwajOZZBzSs",
+            "name": "A Taberna da Enguia",
+            "weight": "1"
+        },
+        "-MzRRihEIh-wplrJ7ENd": {
+            "id": "-MzRRihEIh-wplrJ7ENd",
+            "name": "A Taverna do Construtor Gorduroso",
+            "weight": "1"
+        },
+        "-MzRRihHbeVrN9-P1fi4": {
+            "id": "-MzRRihHbeVrN9-P1fi4",
+            "name": "Taberna do Iluminador Cinza",
+            "weight": "1"
+        },
+        "-MzRRihLJSOp7bzkvKtT": {
+            "id": "-MzRRihLJSOp7bzkvKtT",
+            "name": "A Taberna do Livreiro",
+            "weight": "1"
+        },
+        "-MzRRii3UIAGcnyvExkH": {
+            "id": "-MzRRii3UIAGcnyvExkH",
+            "name": "A mosca gordurosa",
+            "weight": "1"
+        },
+        "-MzRRii7bZqBItqjXXkU": {
+            "id": "-MzRRii7bZqBItqjXXkU",
+            "name": "O Bar do Cortesão",
+            "weight": "1"
+        },
+        "-MzRRiiAyZH77yqotrWE": {
+            "id": "-MzRRiiAyZH77yqotrWE",
+            "name": "A Pousada Nômade",
+            "weight": "1"
+        },
+        "-MzRRiiCcXQrTgEprxu6": {
+            "id": "-MzRRiiCcXQrTgEprxu6",
+            "name": "A Pousada Dardo",
+            "weight": "1"
+        },
+        "-MzRRiiGdZwbZElpNGmj": {
+            "id": "-MzRRiiGdZwbZElpNGmj",
+            "name": "A Pousada Girdler",
+            "weight": "1"
+        },
+        "-MzRRiiIxO8NzFG94PXX": {
+            "id": "-MzRRiiIxO8NzFG94PXX",
+            "name": "O modesto titã",
+            "weight": "1"
+        },
+        "-MzRRiiK5QJEDhBxjB1w": {
+            "id": "-MzRRiiK5QJEDhBxjB1w",
+            "name": "O bar do lobisomem",
+            "weight": "1"
+        },
+        "-MzRRiiPYQ-6FUZLYKLZ": {
+            "id": "-MzRRiiPYQ-6FUZLYKLZ",
+            "name": "A Pousada Barca Raspy",
+            "weight": "1"
+        },
+        "-MzRRiiSaXAEgaRcQXWw": {
+            "id": "-MzRRiiSaXAEgaRcQXWw",
+            "name": "Pousada Tiny Piercer",
+            "weight": "1"
+        },
+        "-MzRRiiWyYPxhBLQDKfL": {
+            "id": "-MzRRiiWyYPxhBLQDKfL",
+            "name": "Taverna do Cometa Feio",
+            "weight": "1"
+        },
+        "-MzRRiiZPjP36rliqitm": {
+            "id": "-MzRRiiZPjP36rliqitm",
+            "name": "As armas do diplomata",
+            "weight": "1"
+        },
+        "-MzRRiigUisgWexYby9x": {
+            "id": "-MzRRiigUisgWexYby9x",
+            "name": "A Caverna Vulgar",
+            "weight": "1"
+        },
+        "-MzRRiiivvZMH_0dvB9D": {
+            "id": "-MzRRiiivvZMH_0dvB9D",
+            "name": "Taverna Esfinge Gananciosa",
+            "weight": "1"
+        },
+        "-MzRRiil-qpxz-PJ0b1x": {
+            "id": "-MzRRiil-qpxz-PJ0b1x",
+            "name": "Taberna do Menestrel de Prata",
+            "weight": ""
+        }
+    }
+}
