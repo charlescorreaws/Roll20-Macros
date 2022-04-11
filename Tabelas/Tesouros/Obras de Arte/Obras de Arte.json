@@ -1,0 +1,13 @@
+{
+    "schema_version": 2,
+    "macros": [
+        {
+            "attributes": {
+                "action": "&{template:traits} {{name=TESOUROS}} {{source=Personagem: @{selected|character_name}}} {{description=[img](https://i.imgur.com/lMGvv5A.gif)\nVocê achou ``[[?{Qual dado de quantidade de itens deseja dar ao jogador?|1d4,1d4|1d6,1d6|1d8,1d8|1d10,1d10|1d12,1d12|1d20,1d20|1d100,1d100}]]`` [[1t[OBJETOS-DE-ARTE]]]\n----------------------------------------------\n[Macro By Charles Corrêa http://rpg.charlescorrea.com.br](https://i.imgur.com/kQM1O9d.gif)\n----------------------------------------------\n``**[Macro By Charles Corrêa](http://rpg.charlescorrea.com.br)**``\n----------------------------------------------\n}}",
+                "istokenaction": true,
+                "name": "TESOUROS",
+                "visibleto": "all"
+            }
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "schema_version": 2,
+    "macros": [
+        {
+            "attributes": {
+                "action": "&{template:traits} {{name=Nomes Africanos}} {{source=Criação de Personagem}} {{description= [img](https://i.imgur.com/oj8xKhA.jpg) \nO Nome gerado é:\n\n?{Selecione uma das opções|MASCULINO,[[1t[NOMES-AFRICANOS-MASCULINOS]]] |FEMININO,[[1t[NOMES-AFRICANOS-FEMININOS]]]}\n\n\n----------------------------------------------\n[Macro By Charles Corrêa http://rpg.charlescorrea.com.br](https://i.imgur.com/kQM1O9d.gif)\n----------------------------------------------\n``**[Macro By Charles Corrêa](http://rpg.charlescorrea.com.br)**``\n----------------------------------------------\n }}",
+                "istokenaction": true,
+                "name": "Gerar-Nomes-Africanos",
+                "visibleto": "all"
+            }
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+----------------------------------------------
+[Macro By Charles Corrêa http://rpg.charlescorrea.com.br](https://i.imgur.com/kQM1O9d.gif)
+----------------------------------------------
+``**[Macro By Charles Corrêa](http://rpg.charlescorrea.com.br)**``
+----------------------------------------------
+
+
+
+&{template:traits} {{name=Desenvolvedor}} {{source=Charles Corrêa - http://rpg.charlescorrea.com.br}} {{description=
+----------------------------------------------
+[Macro By Charles Corrêa http://rpg.charlescorrea.com.br](https://i.imgur.com/BUtW2B7.gif)
+----------------------------------------------
+Clique no link abaixo:
+
+``**[Macro By Charles Corrêa](http://rpg.charlescorrea.com.br)**``
+----------------------------------------------
+}}

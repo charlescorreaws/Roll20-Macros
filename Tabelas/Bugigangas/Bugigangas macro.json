@@ -1,0 +1,13 @@
+{
+    "schema_version": 2,
+    "macros": [
+        {
+            "attributes": {
+                "action": "&{template:traits} {{name=BUGIGANGAS}} {{source=Personagem: @{selected|character_name}}} {{description=[img](https://i.imgur.com/GCcxVpZ.png)\nVocê achou  [[1t[BUGIGANGAS-DND]]]\n----------------------------------------------\n[Macro By Charles Corrêa http://rpg.charlescorrea.com.br](https://i.imgur.com/kQM1O9d.gif)\n----------------------------------------------\n``**[Macro By Charles Corrêa](http://rpg.charlescorrea.com.br)**``\n----------------------------------------------\n\n}}\n",
+                "istokenaction": true,
+                "name": "BUGIGANGAS",
+                "visibleto": "all"
+            }
+        }
+    ]
+}

@@ -1,0 +1,507 @@
+{
+    "name": "BUGIGANGAS-DND",
+    "showplayers": true,
+    "id": "-MzRI8cVQeGfh5wVJPTa",
+    "items": {
+        "-MzRI8cqEW4rDyxjV9G8": {
+            "id": "-MzRI8cqEW4rDyxjV9G8",
+            "name": "Uma bússola que aponta sempre para Mulmaster.",
+            "weight": "1"
+        },
+        "-MzRI8cutr4UbQEQtUzv": {
+            "id": "-MzRI8cutr4UbQEQtUzv",
+            "name": "Um leque de papel que não irá produzir uma brisa não importa o quão forte balance.",
+            "weight": "1"
+        },
+        "-MzRI8cyU-wQLvMM_MFl": {
+            "id": "-MzRI8cyU-wQLvMM_MFl",
+            "name": "Uma batata petrificada que se assemelha a alguém importante para você.",
+            "weight": "1"
+        },
+        "-MzRI8d-DA-p3aPuAjbo": {
+            "id": "-MzRI8d-DA-p3aPuAjbo",
+            "name": "Um copo de vidro que só pode ser preenchido até a metade não importa o quanto de líquido é derramado nele.",
+            "weight": "1"
+        },
+        "-MzRI8d2Q-rqka5mjTRu": {
+            "id": "-MzRI8d2Q-rqka5mjTRu",
+            "name": "Um espelho que mostra apenas a parte de trás de sua cabeça.",
+            "weight": "1"
+        },
+        "-MzRI8d4rHytw_5ljxSg": {
+            "id": "-MzRI8d4rHytw_5ljxSg",
+            "name": "Um pequeno pássaro de vidro que, quando colocado perto da água, mergulha a cabeça nela como se fosse tomar um gole.",
+            "weight": "1"
+        },
+        "-MzRI8d7otWXjYNnX1si": {
+            "id": "-MzRI8d7otWXjYNnX1si",
+            "name": "Um porta-moedas de uma senhora que contém duas presas afiadas.",
+            "weight": "1"
+        },
+        "-MzRI8dAMxmGrUin_tYf": {
+            "id": "-MzRI8dAMxmGrUin_tYf",
+            "name": "Uma pequena concha do mar com as palavras “desde o princípio” pintado na aba.",
+            "weight": "1"
+        },
+        "-MzRI8dEWlMnuMcuIH6e": {
+            "id": "-MzRI8dEWlMnuMcuIH6e",
+            "name": "Um medalhão de prata coberto de geada que é fechado e congelado.",
+            "weight": "1"
+        },
+        "-MzRI8dKT6QJzJ_OSXdb": {
+            "id": "-MzRI8dKT6QJzJ_OSXdb",
+            "name": "Um selo que tem gravado um misterioso e desconhecido brasão em pedra dura.",
+            "weight": "1"
+        },
+        "-MzRI8dMJPzPNxVf5uS6": {
+            "id": "-MzRI8dMJPzPNxVf5uS6",
+            "name": "Uma pequena boneca de madeira que, quando segurada, traz de volta boas lembranças.",
+            "weight": "1"
+        },
+        "-MzRI8dOkYowFJaFG4Ud": {
+            "id": "-MzRI8dOkYowFJaFG4Ud",
+            "name": "Um pequeno espelho de mão que só reflete objetos inanimados.",
+            "weight": "1"
+        },
+        "-MzRI8dQyAGAC1G6Mkf1": {
+            "id": "-MzRI8dQyAGAC1G6Mkf1",
+            "name": "Um olho de vidro que se parece com o seu, e pode rolar ao redor.",
+            "weight": "1"
+        },
+        "-MzRI8dWfh3uG5qJrp3B": {
+            "id": "-MzRI8dWfh3uG5qJrp3B",
+            "name": "Uma esfera de vidro que replica o clima de ontem dentro de si.",
+            "weight": "1"
+        },
+        "-MzRI8dZy6dJoMYSqafE": {
+            "id": "-MzRI8dZy6dJoMYSqafE",
+            "name": "Uma xícara que se preenche aleatoriamente com água doce ou salgada. Recarregando-se quando vazia.",
+            "weight": "1"
+        },
+        "-MzRI8dafZ5tNIKO48CG": {
+            "id": "-MzRI8dafZ5tNIKO48CG",
+            "name": "Um pedaço azul escuro de pederneira, que ao ser atingido com aço não produz uma faísca, mas uma gota de água.",
+            "weight": "1"
+        },
+        "-MzRI8dfFDc7QbNbbsgn": {
+            "id": "-MzRI8dfFDc7QbNbbsgn",
+            "name": "Uma concha que está sempre úmida e constantemente pinga água salgada.",
+            "weight": "1"
+        },
+        "-MzRI8e4SpVFGsqaaHOU": {
+            "id": "-MzRI8e4SpVFGsqaaHOU",
+            "name": "Um carbonizado e meio-derretido fecho de estanho que brilha como se ardesse, mas não libera calor.",
+            "weight": "1"
+        },
+        "-MzRI8e6evWGXizezOts": {
+            "id": "-MzRI8e6evWGXizezOts",
+            "name": "Um pássaro mecânico que bate as asas na presença de uma brisa.",
+            "weight": "1"
+        },
+        "-MzRI8e9gjv7YEmYLeHl": {
+            "id": "-MzRI8e9gjv7YEmYLeHl",
+            "name": "Um frasco selado e inquebrável de água brilhante que cantarola quando abalada.",
+            "weight": "1"
+        },
+        "-MzRI8eE9tFQPU0VGPBa": {
+            "id": "-MzRI8eE9tFQPU0VGPBa",
+            "name": "Um pequeno geodo, finamente polido, cujos cristais desvanecem lentamente entre todas as cores do espectro.",
+            "weight": "1"
+        },
+        "-MzRI8eH_PfZ179TJG8_": {
+            "id": "-MzRI8eH_PfZ179TJG8_",
+            "name": "Um olho rugoso de pedra arrancado de uma criatura petrificada.",
+            "weight": "1"
+        },
+        "-MzRI8eKKz3nBCddpjE6": {
+            "id": "-MzRI8eKKz3nBCddpjE6",
+            "name": "Um cachimbo de pedra que nunca precisa ser acesso.",
+            "weight": "1"
+        },
+        "-MzRI8eMsQypTifTspEY": {
+            "id": "-MzRI8eMsQypTifTspEY",
+            "name": "Um pequeno apito que, quando soprado, sussurra um nome de uma pessoa ou lugar desconhecido para você, em vez do som de apito.",
+            "weight": "1"
+        },
+        "-MzRI8eQQqnTG-sdtqUF": {
+            "id": "-MzRI8eQQqnTG-sdtqUF",
+            "name": "Uma rocha do tamanho de um punho que “bate” como um coração.",
+            "weight": "1"
+        },
+        "-MzRI8eSRni1cLB7lQZH": {
+            "id": "-MzRI8eSRni1cLB7lQZH",
+            "name": "Um par de tesouras de bronze em forma de um par de golfinhos pulando.",
+            "weight": "1"
+        },
+        "-MzRI8eXqSyp2XQvHR3D": {
+            "id": "-MzRI8eXqSyp2XQvHR3D",
+            "name": "Uma lâmpada a óleo de bronze sobre a qual há rumores de ter abrigado um gênio.",
+            "weight": "1"
+        },
+        "-MzRI8eZQtTdUNHZm0Zl": {
+            "id": "-MzRI8eZQtTdUNHZm0Zl",
+            "name": "Uma única manopla gravada com um motivo de incêndio e um nome desconhecido em Primordial.",
+            "weight": "1"
+        },
+        "-MzRI8ebe9IUSn_ST6f2": {
+            "id": "-MzRI8ebe9IUSn_ST6f2",
+            "name": "Um peixe pequeno de um olho só dentro de um frasco esférico, muito maior do que o pescoço do frasco. Ele tem um olhar astuto.",
+            "weight": "1"
+        },
+        "-MzRI8eqcTTIFAJclbFh": {
+            "id": "-MzRI8eqcTTIFAJclbFh",
+            "name": "O minúsculo crânio de um coelho que sussurra insultos mordazes quando ninguém está olhando.",
+            "weight": "1"
+        },
+        "-MzRI8eus2773vEQWKj0": {
+            "id": "-MzRI8eus2773vEQWKj0",
+            "name": "Uma boneca de pano na semelhança de um urso-coruja.",
+            "weight": "1"
+        },
+        "-MzRI8exGMPeIi1mxbjI": {
+            "id": "-MzRI8exGMPeIi1mxbjI",
+            "name": "O corpo desidratado de um pequeno lagarto preto de oito patas.",
+            "weight": "1"
+        },
+        "-MzRI8ezlj2IpgLgVpM-": {
+            "id": "-MzRI8ezlj2IpgLgVpM-",
+            "name": "Um pequeno barco de brinquedo feito com uma casca de noz, palito, e um pedaço de pano.",
+            "weight": "1"
+        },
+        "-MzRI8f5_6V8WnyuCCyj": {
+            "id": "-MzRI8f5_6V8WnyuCCyj",
+            "name": "Um espelho de bolso pequeno que embaça lentamente ao longo enquanto segurado",
+            "weight": "1"
+        },
+        "-MzRI8f7-X5Kcu_nAkQP": {
+            "id": "-MzRI8f7-X5Kcu_nAkQP",
+            "name": "Sinos de vento que brilham quando o vento sopra.",
+            "weight": "1"
+        },
+        "-MzRI8fAykdG_nR-Gsj4": {
+            "id": "-MzRI8fAykdG_nR-Gsj4",
+            "name": "Um pequeno quadrado de argila com uma desconhecida runa gravada em um dos lados.",
+            "weight": "1"
+        },
+        "-MzRI8fCCWumXwlWbbL3": {
+            "id": "-MzRI8fCCWumXwlWbbL3",
+            "name": "Uma chaleira de chá que se aquece quando cheia de água.",
+            "weight": "1"
+        },
+        "-MzRI8fEbG8oD50ASLWc": {
+            "id": "-MzRI8fEbG8oD50ASLWc",
+            "name": "Um monóculo riscado velho que mostra uma paisagem subaquática sempre que alguém olha por ele.",
+            "weight": "1"
+        },
+        "-MzRI8fG-CMpyHYYKxlj": {
+            "id": "-MzRI8fG-CMpyHYYKxlj",
+            "name": "Uma rosa esculpida em coral.",
+            "weight": "1"
+        },
+        "-MzRI8fvki8oO2Wwc_A7": {
+            "id": "-MzRI8fvki8oO2Wwc_A7",
+            "name": "Um conjunto de dados com símbolos elementais e runas primordiais em vez de pontos ou números.",
+            "weight": "1"
+        },
+        "-MzRI8fxmGdWOJmtMVlT": {
+            "id": "-MzRI8fxmGdWOJmtMVlT",
+            "name": "Um amuleto cheio de líquido que agita, congela e ferve para coincidir com o humor de seu portador.",
+            "weight": "1"
+        },
+        "-MzRI8g-YDWWEULGz37m": {
+            "id": "-MzRI8g-YDWWEULGz37m",
+            "name": "Um pequeno sino de prata que faz um som como um silencioso trovão distante quando ele é atingido.",
+            "weight": "1"
+        },
+        "-MzRI8g2Q35g-qUFYBCb": {
+            "id": "-MzRI8g2Q35g-qUFYBCb",
+            "name": "Um pequeno frasco de areia preta que brilha ligeiramente ao luar.",
+            "weight": "1"
+        },
+        "-MzRI8g6xGWOC6VeSM01": {
+            "id": "-MzRI8g6xGWOC6VeSM01",
+            "name": "Um pequeno dente de baleia com uma imagem gravada de ondas quebrando em cima de uma praia.",
+            "weight": "1"
+        },
+        "-MzRI8gNf-r6k8XlspYn": {
+            "id": "-MzRI8gNf-r6k8XlspYn",
+            "name": "Uma ampulheta em que as areias derramam para cima em vez de para baixo.",
+            "weight": "1"
+        },
+        "-MzRI8gPQmxphCG7he2B": {
+            "id": "-MzRI8gPQmxphCG7he2B",
+            "name": "Um pingente de vidro com um buraco no centro que uma leve brisa sopra sempre de fora.",
+            "weight": "1"
+        },
+        "-MzRI8gUWcyUU5C9SBnp": {
+            "id": "-MzRI8gUWcyUU5C9SBnp",
+            "name": "Uma pena macia que cai como uma pedra quando derrubada.",
+            "weight": "1"
+        },
+        "-MzRI8gYIUACYQSZrXD1": {
+            "id": "-MzRI8gYIUACYQSZrXD1",
+            "name": "Uma grande joia transparente que, quando agarrada com força, sussurra em Terran.",
+            "weight": "1"
+        },
+        "-MzRI8gbpY8znJxrDAM4": {
+            "id": "-MzRI8gbpY8znJxrDAM4",
+            "name": "Um pequeno globo de neve de cristal que, quando agitado, parece formar silhuetas de formas dançantes.",
+            "weight": "1"
+        },
+        "-MzRI8gfDrrHRi54VU01": {
+            "id": "-MzRI8gfDrrHRi54VU01",
+            "name": "Metade de um geodo do tamanho da palma da mão que pulsa vagamente com uma luz roxa.",
+            "weight": "1"
+        },
+        "-MzRI8giGdg6YscZQeAO": {
+            "id": "-MzRI8giGdg6YscZQeAO",
+            "name": "Um livro repleto de escrita que só aparece quando o livro é mantido debaixo d’água.",
+            "weight": "1"
+        },
+        "-MzRI8gl2Q4ibbGSDOmr": {
+            "id": "-MzRI8gl2Q4ibbGSDOmr",
+            "name": "Um envelope selado feita de couro vermelho que você não foi capaz de abrir. Tem cheiro de fogueira.",
+            "weight": "1"
+        },
+        "-MzRI8gpHbWNR6M1qb-n": {
+            "id": "-MzRI8gpHbWNR6M1qb-n",
+            "name": "Um grampo de cabelo que dizem os boatos ter vindo de um genasi do fogo famoso.",
+            "weight": "1"
+        },
+        "-MzRI8gu-d4fFyVHakjQ": {
+            "id": "-MzRI8gu-d4fFyVHakjQ",
+            "name": "Pederneira e aço que, quando usados para iniciar um fogo, cria uma chama de cor aleatória.",
+            "weight": "1"
+        },
+        "-MzRI8gwKmkO99Y-ZVPY": {
+            "id": "-MzRI8gwKmkO99Y-ZVPY",
+            "name": "Um pedaço de pergaminho em branco molhado que parece nunca secar.",
+            "weight": "1"
+        },
+        "-MzRI8gztqSp9fik443J": {
+            "id": "-MzRI8gztqSp9fik443J",
+            "name": "Uma pequena caixa de quebra-cabeça feita de latão, que é ligeiramente quente ao toque.",
+            "weight": "1"
+        },
+        "-MzRI8h1DMP4XY2VHSqs": {
+            "id": "-MzRI8h1DMP4XY2VHSqs",
+            "name": "Um pedaço de vidro nublado que dizem conter uma fagulha do sopro de um dragão azul.",
+            "weight": "1"
+        },
+        "-MzRI8h4v_fjl6qAWn6G": {
+            "id": "-MzRI8h4v_fjl6qAWn6G",
+            "name": "Um cálice bruto feito de carvão.",
+            "weight": "1"
+        },
+        "-MzRI8h8oGj4ZZysqOZ-": {
+            "id": "-MzRI8h8oGj4ZZysqOZ-",
+            "name": "Um chifre de bronze em miniatura, silencioso quando soprado, mas que enche o ar com o aroma de especiarias quentes e exóticas.",
+            "weight": "1"
+        },
+        "-MzRI8hDNTiFWZSZkYK7": {
+            "id": "-MzRI8hDNTiFWZSZkYK7",
+            "name": "Uma pérola azul do tamanho de um olho que flutua na água salgada.",
+            "weight": "1"
+        },
+        "-MzRI8hF6DALaXbb5X7f": {
+            "id": "-MzRI8hF6DALaXbb5X7f",
+            "name": "Um diapasão feito a partir de um metal escuro que brilha com uma luz pálida branca durante tempestades.",
+            "weight": "1"
+        },
+        "-MzRI8hHjBaIvyyejqyg": {
+            "id": "-MzRI8hHjBaIvyyejqyg",
+            "name": "Um pequeno frasco que está sempre cheio com o cheiro de vento de outono.",
+            "weight": "1"
+        },
+        "-MzRI8hKqJUaQrE8LR4u": {
+            "id": "-MzRI8hKqJUaQrE8LR4u",
+            "name": "Um mármore claro que rola lentamente em direção à fonte de água corrente mais próxima",
+            "weight": "1"
+        },
+        "-MzRI8hOBg7Xhe_poVRm": {
+            "id": "-MzRI8hOBg7Xhe_poVRm",
+            "name": "Uma pequena taça de prata desmontável que transpira constantemente quando aberta.",
+            "weight": "1"
+        },
+        "-MzRI8hR82HueiDluN0e": {
+            "id": "-MzRI8hR82HueiDluN0e",
+            "name": "Uma ampulheta que diz o tempo com a queda da névoa em vez de areia.",
+            "weight": "1"
+        },
+        "-MzRI8hTYcuCAXBUq-9n": {
+            "id": "-MzRI8hTYcuCAXBUq-9n",
+            "name": "Uma navalha ornamentada, que só corta em temperatura fria de congelamento.",
+            "weight": "1"
+        },
+        "-MzRI8hWXEGl-Kq5_PZE": {
+            "id": "-MzRI8hWXEGl-Kq5_PZE",
+            "name": "Um dente de tubarão coberto de pequenas palavras gravadas a partir de uma linguagem perdida.",
+            "weight": "1"
+        },
+        "-MzRI8hZJO2WPe7KlBEY": {
+            "id": "-MzRI8hZJO2WPe7KlBEY",
+            "name": "Uma grande moeda de bronze sem marcações ou imagens sobre ele.",
+            "weight": "1"
+        },
+        "-MzRI8heAlIsyZMp9rvc": {
+            "id": "-MzRI8heAlIsyZMp9rvc",
+            "name": "Uma pequena caixa de madeira cheia uma argila vermelha estranha.",
+            "weight": "1"
+        },
+        "-MzRI8hh98HMzjTXG4Pq": {
+            "id": "-MzRI8hh98HMzjTXG4Pq",
+            "name": "Um colar com uma pequena âncora de ferro enferrujado.",
+            "weight": "1"
+        },
+        "-MzRI8hkPEUjXk2OrauZ": {
+            "id": "-MzRI8hkPEUjXk2OrauZ",
+            "name": "Uma pequena flauta de bronze decorado com fios de prata, que constantemente produz sons fracos.",
+            "weight": "1"
+        },
+        "-MzRI8hmNvYwxY4OD94R": {
+            "id": "-MzRI8hmNvYwxY4OD94R",
+            "name": "Uma pena de Aarakocra vermelha e preta.",
+            "weight": "1"
+        },
+        "-MzRI8iAUcIUNFgoEfhV": {
+            "id": "-MzRI8iAUcIUNFgoEfhV",
+            "name": "Uma pedra do tamanho da palma da mão com um buraco no meio, através do qual pode ser ouvido um vento constantemente sussurrando.",
+            "weight": "1"
+        },
+        "-MzRI8iJyRqJAVwq3_xz": {
+            "id": "-MzRI8iJyRqJAVwq3_xz",
+            "name": "Uma pequena concha coberta de cristal negro.",
+            "weight": "1"
+        },
+        "-MzRI8iRK8JCASEfqL3o": {
+            "id": "-MzRI8iRK8JCASEfqL3o",
+            "name": "Uma caixa de música pequena feita de bronze. Ele apresenta um par de minúsculos autômatos que se assemelham Azer trabalhando em uma forja.",
+            "weight": "1"
+        },
+        "-MzRI8iTyFsk8aqhwA-k": {
+            "id": "-MzRI8iTyFsk8aqhwA-k",
+            "name": "Um frasco de vidro contendo o cadáver preservado de uma criatura aquática desconhecida.",
+            "weight": "1"
+        },
+        "-MzRI8iVacRFxGj0RnKw": {
+            "id": "-MzRI8iVacRFxGj0RnKw",
+            "name": "Um pedaço de madeira petrificada esculpidas em forma de uma concha.",
+            "weight": "1"
+        },
+        "-MzRI8iXMMDDQcw_28Vl": {
+            "id": "-MzRI8iXMMDDQcw_28Vl",
+            "name": "Um cubo magico de madeira coberto de símbolos elementares.",
+            "weight": "1"
+        },
+        "-MzRI8idIDqW04SQh8md": {
+            "id": "-MzRI8idIDqW04SQh8md",
+            "name": "Um pequeno cubo de pedra que age como um ímã quando colocado contra outra pedra.",
+            "weight": "1"
+        },
+        "-MzRI8ihWKXTDHE-39vh": {
+            "id": "-MzRI8ihWKXTDHE-39vh",
+            "name": "Um anel feito de um metal branco. No interior tem um nome gravado em Auran.",
+            "weight": "1"
+        },
+        "-MzRI8ik_HmoWCigrsEq": {
+            "id": "-MzRI8ik_HmoWCigrsEq",
+            "name": "A pulseira feita de anzóis prateados.",
+            "weight": "1"
+        },
+        "-MzRI8imFpP0JEho58o9": {
+            "id": "-MzRI8imFpP0JEho58o9",
+            "name": "Um diário preenchido com poesia escrita à mão em Primordial.",
+            "weight": "1"
+        },
+        "-MzRI8ipvGlsDv6YWHWb": {
+            "id": "-MzRI8ipvGlsDv6YWHWb",
+            "name": "A pedra preciosa amarela que brilha palidamente quando uma tempestade está próxima.",
+            "weight": "1"
+        },
+        "-MzRI8is8Zd_Jqc99c9n": {
+            "id": "-MzRI8is8Zd_Jqc99c9n",
+            "name": "Um cinzel carbonizado com um símbolo estranho estampado em sua base.",
+            "weight": "1"
+        },
+        "-MzRI8iupy69yjg6PgGc": {
+            "id": "-MzRI8iupy69yjg6PgGc",
+            "name": "Um cantil preenchido com uma lama laranja mau cheirosa.",
+            "weight": "1"
+        },
+        "-MzRI8iyxmjL64WN4mmv": {
+            "id": "-MzRI8iyxmjL64WN4mmv",
+            "name": "Uma boneca sem rosto feito de troncos.",
+            "weight": "1"
+        },
+        "-MzRI8j0XGIczwXu74ID": {
+            "id": "-MzRI8j0XGIczwXu74ID",
+            "name": "A chave de ferro pesado que carrega o nome de um navio há muito tempo perdido para o mar.",
+            "weight": "1"
+        },
+        "-MzRI8j6sOjLDFYlaJlO": {
+            "id": "-MzRI8j6sOjLDFYlaJlO",
+            "name": "Uma pequena caixa de joias feitas a partir do casco de uma tartaruga.",
+            "weight": "1"
+        },
+        "-MzRI8jG8FYAuAptYdZk": {
+            "id": "-MzRI8jG8FYAuAptYdZk",
+            "name": "Uma parte de xadrez formado para olhar como mirmidão de fogo.",
+            "weight": "1"
+        },
+        "-MzRI8jJzC5IRbon9dPZ": {
+            "id": "-MzRI8jJzC5IRbon9dPZ",
+            "name": "Um pião com uma imagem de um dos quatro elementos em cada lado.",
+            "weight": "1"
+        },
+        "-MzRI8jMPQ5nH_GBm_zM": {
+            "id": "-MzRI8jMPQ5nH_GBm_zM",
+            "name": "Um único brinco de argola feito de uma pedra vermelha porosa.",
+            "weight": "1"
+        },
+        "-MzRI8jP_lyiw6p49YC8": {
+            "id": "-MzRI8jP_lyiw6p49YC8",
+            "name": "Uma ponta da flecha esculpida em sal.",
+            "weight": "1"
+        },
+        "-MzRI8jUK9afmNiS5aiG": {
+            "id": "-MzRI8jUK9afmNiS5aiG",
+            "name": "Um pequeno pente feito de coral azul.",
+            "weight": "1"
+        },
+        "-MzRI8jYl1re-uqMeFjU": {
+            "id": "-MzRI8jYl1re-uqMeFjU",
+            "name": "Sete pequenas esferas de arenito em uma corda, todas de cores diferentes.",
+            "weight": "1"
+        },
+        "-MzRI8jaYAxqR3wdC2In": {
+            "id": "-MzRI8jaYAxqR3wdC2In",
+            "name": "Um romance de cordel escrita em Subterrâneo intitulado “apenas uma camada de cinza”.",
+            "weight": "1"
+        },
+        "-MzRI8jcmNYCq-4-we2r": {
+            "id": "-MzRI8jcmNYCq-4-we2r",
+            "name": "Um minúsculo relógio quebrado com uma harpia",
+            "weight": "1"
+        },
+        "-MzRI8jfbfCtZ_WtejMk": {
+            "id": "-MzRI8jfbfCtZ_WtejMk",
+            "name": "Uma estatueta de baleia de marfim.",
+            "weight": "1"
+        },
+        "-MzRI8jksVf02LAa0xP1": {
+            "id": "-MzRI8jksVf02LAa0xP1",
+            "name": "Uma roda dentada do tamanho de um punho, coberto de cracas.",
+            "weight": "1"
+        },
+        "-MzRI8joPuiQF8L14HOM": {
+            "id": "-MzRI8joPuiQF8L14HOM",
+            "name": "Um tapa-olho feito de obsidiana e um cordão de couro preto.",
+            "weight": "1"
+        },
+        "-MzRI8jrnumrdzduaV6b": {
+            "id": "-MzRI8jrnumrdzduaV6b",
+            "name": "Um frasco de vidro com um pequeno navio de design estranho",
+            "weight": ""
+        }
+    }
+}

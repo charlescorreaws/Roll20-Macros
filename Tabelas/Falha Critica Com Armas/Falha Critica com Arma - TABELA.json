@@ -1,0 +1,85 @@
+{
+    "name": "Arma-Falhas-Críticas",
+    "showplayers": true,
+    "id": "-Mzr2rW4YkLhRptw-4af",
+    "items": {
+        "-Mzr2rWA77qzpl-f1KHf": {
+            "id": "-Mzr2rWA77qzpl-f1KHf",
+            "name": "Você sente vergonha pelo ataque horrível, mas nada extraordinário acontece.\tVocê erra seu ataque."
+        },
+        "-Mzr2rWCmKpiOrwrwqES": {
+            "id": "-Mzr2rWCmKpiOrwrwqES",
+            "name": "Você perde seu equilíbrio, expondo-se para seu alvo.\tSeu alvo tem vantagem na sua próxima rolagem de ataque contra você no próximo turno.",
+            "weight": 4
+        },
+        "-Mzr2rWDMrhQi6UtCsW0": {
+            "id": "-Mzr2rWDMrhQi6UtCsW0",
+            "name": "Você perde seu equilíbrio, expondo-se para seus inimigos.\tTodos os seus inimigos tem vantagem na próxima rolagem de ataque deles contra você durante o próximo round.",
+            "weight": 4
+        },
+        "-Mzr2rWGhL29LCv3fNLL": {
+            "id": "-Mzr2rWGhL29LCv3fNLL",
+            "name": "Você perde seu equilíbrio, e tem dificuldade em se recuperar.\tTodos os seus inimigos tem vantagem na próxima rolagem de ataque deles contra você até o fim do seu próximo turno.",
+            "weight": 5
+        },
+        "-Mzr2rWKtiZT_HWxMv6X": {
+            "id": "-Mzr2rWKtiZT_HWxMv6X",
+            "name": "Corpo-a-corpo: Você se embola com seu inimigo e cai. Você cai de bruços e seu movimento é reduzido a 0. Seu alvo deve passar em um teste de Destreza CD10 ou ele também cai no chão.        |-------------------------------------| Distância: Você derruba sua aljava.Você deve pegar as flechas individualmente do chão gastando sua ação com uma “interação com o ambiente”, ou usar a ação “Usar um Objeto” (p.193) para carregar o arco com uma flecha.",
+            "weight": 5
+        },
+        "-Mzr2rWNtzrzFqUFK3s-": {
+            "id": "-Mzr2rWNtzrzFqUFK3s-",
+            "name": "Você perde o equilíbrio enquanto estava atacando.\tVocê cai no chão e seu movimento é reduzido a 0.",
+            "weight": 10
+        },
+        "-Mzr2rWPzMR_VOAv4FWe": {
+            "id": "-Mzr2rWPzMR_VOAv4FWe",
+            "name": "A medida que você ataca seu oponente você começa a temer que ele seja um combatente melhor que você.\tDesvantagem na sua próxima rolagem de ataque contra seu alvo.",
+            "weight": 10
+        },
+        "-Mzr2rWS5KB3SShQTzy3": {
+            "id": "-Mzr2rWS5KB3SShQTzy3",
+            "name": "Você erra um ataque e contempla o caos da batalha, fazendo com que sua confiança falhe.\tDesvantagem na sua próxima rolagem de ataque contra qualquer alvo.",
+            "weight": 10
+        },
+        "-Mzr2rWUtXk0RjWGuVMB": {
+            "id": "-Mzr2rWUtXk0RjWGuVMB",
+            "name": "Você perde a pegada da arma quando vai atacar.\tFaça um Teste de Destreza CD10. Se falhar você deixa a arma cair aos seus pés.",
+            "weight": 10
+        },
+        "-Mzr2rWWbGsRWXc8Y3U0": {
+            "id": "-Mzr2rWWbGsRWXc8Y3U0",
+            "name": "Corpo-a-corpo: A arma escorrega da sua mão quando você vai atacar.Role um Teste de Destreza CD10. Se falhar você joga sua arma no espaço do seu inimigo. No caso de criaturas grandes, o Mestre determina onde a arma cairá.|-------------------------------------| Distância: A munição fica presa no seu reservatório.Você deve usar uma ação para organizar sua munição no seu receptáculo antes de fazer outro ataque à distância.",
+            "weight": 10
+        },
+        "-Mzr2rW_4eoh3bQggPE4": {
+            "id": "-Mzr2rW_4eoh3bQggPE4",
+            "name": "Corpo-a-corpo: Você calcula erroneamente o tempo do ataque, se expondo para o ataque do inimigo. O inimigo que você estava atacando pode usar uma reação para fazer um ataque de oportunidade.|-------------------------------------| Distância: Seu projétil assusta o seus aliados perto do seu alvo.O alvo pode realizar um ataque de oportunidade contra qualquer aliado dentro de um alcance corpo-a-corpo.",
+            "weight": 10
+        },
+        "-Mzr2rWm0ikK0QezwABT": {
+            "id": "-Mzr2rWm0ikK0QezwABT",
+            "name": "Errar o que você achava que seria um acerto crítico te causa pânico.\tSeu turno atual acaba e você está surpreso até o fim do seu próximo turno.",
+            "weight": 5
+        },
+        "-Mzr2rWqTdfYxi4pDsyz": {
+            "id": "-Mzr2rWqTdfYxi4pDsyz",
+            "name": "Você ataca descontroladamente e perde a noção da batalha ao seu redor.\tTermine seu turno e vá para o fim da ordem de inciativa no início da próxima rodada.",
+            "weight": 5
+        },
+        "-Mzr2rWuHjMYgO5qS00m": {
+            "id": "-Mzr2rWuHjMYgO5qS00m",
+            "name": "Você perde o equilíbrio enquanto atacava e cai no chão batendo a cabeça.\tVocê cai deitado no chão. Role um teste de resistência em Constituição CD10. Se falhar você leva 1d6 de dano e fica inconsciente por 1 minuto ou até receber dado de qualquer fonte. Se passar no teste você toma metade do dano e permanece consciente.",
+            "weight": 5
+        },
+        "-Mzr2rWwLeecOIxfbK60": {
+            "id": "-Mzr2rWwLeecOIxfbK60",
+            "name": "Você perde o equilíbrio enquanto atacava e cai de cabeça no chão.\tVocê cai deitado no chão. Role um teste de resistência em Constituição CD15. Se falhar você leva 2d6 de dano e fica inconsciente por 1 minuto ou até receber dado de qualquer fonte. Se passar no teste você toma metade do dano e permanece consciente.",
+            "weight": 5
+        },
+        "-Mzr2rWyvLkWn3PWAkC7": {
+            "id": "-Mzr2rWyvLkWn3PWAkC7",
+            "name": "Você perde o equilíbrio enquanto atacava e bate a cabeça com toda força no chão.\tVocê cai deitado no chão e leva 3d6 de dano. Também fica inconsciente por 1 minuto ou até você receber dano de alguma fonte."
+        }
+    }
+}

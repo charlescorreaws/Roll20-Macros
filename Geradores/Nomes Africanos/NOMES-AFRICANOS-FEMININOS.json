@@ -1,0 +1,2112 @@
+{
+    "name": "NOMES-AFRICANOS-FEMININOS",
+    "showplayers": true,
+    "id": "-MzR5Dg8evQzGHhlYvZw",
+    "items": {
+        "-MzR5DgFGPsPOLIXccAj": {
+            "id": "-MzR5DgFGPsPOLIXccAj",
+            "name": "ABBA: Nascida Na Quinta-Feira (Gana)",
+            "weight": "1"
+        },
+        "-MzR5DgHM6v3a-sAgcSf": {
+            "id": "-MzR5DgHM6v3a-sAgcSf",
+            "name": "ABEBA: Flor (Etiópia)",
+            "weight": "1"
+        },
+        "-MzR5DgIreFzT4hpXwdP": {
+            "id": "-MzR5DgIreFzT4hpXwdP",
+            "name": "ABENA: Nascida Na Terça-Feira (Gana)",
+            "weight": "1"
+        },
+        "-MzR5DgQ9_IvG8PD7nO4": {
+            "id": "-MzR5DgQ9_IvG8PD7nO4",
+            "name": "ACAI: Timidez (Sudanese)",
+            "weight": "1"
+        },
+        "-MzR5DgRanXjF7qn9J5x": {
+            "id": "-MzR5DgRanXjF7qn9J5x",
+            "name": "ADA: Nascida Primeiro ( Nigéria)",
+            "weight": "1"
+        },
+        "-MzR5DgU6SJnOCYomFz1": {
+            "id": "-MzR5DgU6SJnOCYomFz1",
+            "name": "ADANNA: Filha Amorosa Do Pai",
+            "weight": "1"
+        },
+        "-MzR5DgWT_PE4OwYNtY6": {
+            "id": "-MzR5DgWT_PE4OwYNtY6",
+            "name": "ADEBANKE: Deus Está Cuidando Dela (Yoruba Da Nigéria)",
+            "weight": "1"
+        },
+        "-MzR5DgYQfatHMnUYlUf": {
+            "id": "-MzR5DgYQfatHMnUYlUf",
+            "name": "ADEBUMI: Riqueza (Realeza) (Nigéria)",
+            "weight": "1"
+        },
+        "-MzR5DgaTq5wQwlZhCgO": {
+            "id": "-MzR5DgaTq5wQwlZhCgO",
+            "name": "ADENIKE: A Coroa É Amorosa, Afetuosa (Yoruba Da Nigéria)",
+            "weight": "1"
+        },
+        "-MzR5Dgc6TGBiLNT_P7S": {
+            "id": "-MzR5Dgc6TGBiLNT_P7S",
+            "name": "ADEOGA: Coroa de Glória (Yoruba Da Nigéria)",
+            "weight": "1"
+        },
+        "-MzR5DgfCL6-9si4wfAw": {
+            "id": "-MzR5DgfCL6-9si4wfAw",
+            "name": "ADEOLA: Coroada De Honras (Nigéria)",
+            "weight": "1"
+        },
+        "-MzR5Dgge1CJ8W4CM1Nd": {
+            "id": "-MzR5Dgge1CJ8W4CM1Nd",
+            "name": "ADETOKUMBO: Honra Que Veio De Além Dos Mares (Yoruba Da Nigéria)",
+            "weight": "1"
+        },
+        "-MzR5Dgi8EF2iVjaLVnA": {
+            "id": "-MzR5Dgi8EF2iVjaLVnA",
+            "name": "ADETOUN: Princesa (Yoruba Da Nigéria)",
+            "weight": "1"
+        },
+        "-MzR5DgkS4QrnIks7oRw": {
+            "id": "-MzR5DgkS4QrnIks7oRw",
+            "name": "ADHIAMBO: Nascida À Noite Depois De Por Do Sol (Luo Do Quênia)",
+            "weight": "1"
+        },
+        "-MzR5Dgm64Bm5bIpLNOZ": {
+            "id": "-MzR5Dgm64Bm5bIpLNOZ",
+            "name": "ADJOA: Nascida Na Segunda-Feira (Gana)",
+            "weight": "1"
+        },
+        "-MzR5DgqlO7d5RX85hbQ": {
+            "id": "-MzR5DgqlO7d5RX85hbQ",
+            "name": "ADOWA: Nobre",
+            "weight": "1"
+        },
+        "-MzR5Dgrtd_MoKo30TZH": {
+            "id": "-MzR5Dgrtd_MoKo30TZH",
+            "name": "ADUOA: Paz (Gana)",
+            "weight": "1"
+        },
+        "-MzR5Dgvad8bidTuDHRR": {
+            "id": "-MzR5Dgvad8bidTuDHRR",
+            "name": "AFUA: Nascida Na Sexta-Feira",
+            "weight": "1"
+        },
+        "-MzR5DgxdwMKBq15w2c8": {
+            "id": "-MzR5DgxdwMKBq15w2c8",
+            "name": "AFYA: Saúde (Kiswahili)",
+            "weight": "1"
+        },
+        "-MzR5DgzUa8TjM4YTz1P": {
+            "id": "-MzR5DgzUa8TjM4YTz1P",
+            "name": "AGUIDI: Bem-Estar (Ovelha Da Gana)",
+            "weight": "1"
+        },
+        "-MzR5Dh0RzHnhrne9ofA": {
+            "id": "-MzR5Dh0RzHnhrne9ofA",
+            "name": "AINA: Nascida Com O Cordão Umbilical Em Volta Do Pescoço (Yoruba Da Nigéria)",
+            "weight": "1"
+        },
+        "-MzR5Dh2DD1Ler-UyJSA": {
+            "id": "-MzR5Dh2DD1Ler-UyJSA",
+            "name": "AINKA: A Estimada (Tonga)",
+            "weight": "1"
+        },
+        "-MzR5Dh5PBemzJxGr-eq": {
+            "id": "-MzR5Dh5PBemzJxGr-eq",
+            "name": "AISHA: Ela É Vida (Swahili)",
+            "weight": "1"
+        },
+        "-MzR5DhDbtIF29n9RDby": {
+            "id": "-MzR5DhDbtIF29n9RDby",
+            "name": "AJA: Alta Sacerdotisa De Mecca",
+            "weight": "1"
+        },
+        "-MzR5DhFhgTGxlNaUaWP": {
+            "id": "-MzR5DhFhgTGxlNaUaWP",
+            "name": "AKILAH: Inteligente, Que Tem Razões",
+            "weight": "1"
+        },
+        "-MzR5DhH6ow8b5gPnKWM": {
+            "id": "-MzR5DhH6ow8b5gPnKWM",
+            "name": "AKOSUA: Nascida No Domingo (Ahsanti Da Gana)",
+            "weight": "1"
+        },
+        "-MzR5DhJAZixT0frnggo": {
+            "id": "-MzR5DhJAZixT0frnggo",
+            "name": "AKYA: Nascida Na Quarta-Feira (Gana)",
+            "weight": "1"
+        },
+        "-MzR5DhLBg1Afs58vNZw": {
+            "id": "-MzR5DhLBg1Afs58vNZw",
+            "name": "AMACHI: Quem Sabe O Que Deus Nos Trouxe Através Desta Criança (Ibo Da Nigéria)",
+            "weight": "1"
+        },
+        "-MzR5DhOgSbITP2E5mzG": {
+            "id": "-MzR5DhOgSbITP2E5mzG",
+            "name": "AMARA: Ibo Da Nigéria Oriental",
+            "weight": "1"
+        },
+        "-MzR5DhSS0_wGbFtnIVD": {
+            "id": "-MzR5DhSS0_wGbFtnIVD",
+            "name": "AMINA: Confiável, Honesta (Oeste da África)",
+            "weight": "1"
+        },
+        "-MzR5DhUyU3SNrxKDInd": {
+            "id": "-MzR5DhUyU3SNrxKDInd",
+            "name": "AMINATA: (Senegal)",
+            "weight": "1"
+        },
+        "-MzR5DhW2oxJdussVcB_": {
+            "id": "-MzR5DhW2oxJdussVcB_",
+            "name": "AMINIA: Acreditar ( Kiswahili)",
+            "weight": "1"
+        },
+        "-MzR5DhYBClNbKEykmNV": {
+            "id": "-MzR5DhYBClNbKEykmNV",
+            "name": "AMMA: Nascida No Sábado (Ashanti Da Gana)",
+            "weight": "1"
+        },
+        "-MzR5Dh_2HJbqNNXO1wS": {
+            "id": "-MzR5Dh_2HJbqNNXO1wS",
+            "name": "ANAYA: Olhar Para Deus (Ibo Nigéria Oriental)",
+            "weight": "1"
+        },
+        "-MzR5DhbID3WRadwx0x-": {
+            "id": "-MzR5DhbID3WRadwx0x-",
+            "name": "ANELE: Bastante, Suficiente {Nome Normalmente Dado À Última Nascida, nunca para A 1° Ou 2° Criança} (Xhosa Da África Do Sul)",
+            "weight": "1"
+        },
+        "-MzR5Dhdy7r8e6ntCGEV": {
+            "id": "-MzR5Dhdy7r8e6ntCGEV",
+            "name": "ANULIKA: Felicidade É A Melhor (Ibo Nigéria Oriental)",
+            "weight": "1"
+        },
+        "-MzR5DhgGCU48veaYobD": {
+            "id": "-MzR5DhgGCU48veaYobD",
+            "name": "ANYANGO: Amiga (Af Do Quênia)",
+            "weight": "1"
+        },
+        "-MzR5DhiAeNFCwGpqjOr": {
+            "id": "-MzR5DhiAeNFCwGpqjOr",
+            "name": "ARMANI: Derivado De Imani Quer Dizer Fé",
+            "weight": "1"
+        },
+        "-MzR5DhkN6rxFRSQnGgl": {
+            "id": "-MzR5DhkN6rxFRSQnGgl",
+            "name": "ASABI: De Nascimento Seleto (Yoruba Da Nigéria)",
+            "weight": "1"
+        },
+        "-MzR5DhmjqtXDPNS3Y1T": {
+            "id": "-MzR5DhmjqtXDPNS3Y1T",
+            "name": "ASHAKI: Bonita (Ocidental)",
+            "weight": "1"
+        },
+        "-MzR5DhoHsmC3WB3_nBb": {
+            "id": "-MzR5DhoHsmC3WB3_nBb",
+            "name": "ASHANTI: Mulher Africana Forte (Gana)",
+            "weight": "1"
+        },
+        "-MzR5DhqkCjRyAmyoYPT": {
+            "id": "-MzR5DhqkCjRyAmyoYPT",
+            "name": "ASSAGGI: Forte (Zimbábue)",
+            "weight": "1"
+        },
+        "-MzR5Di96bNNR8-LN0ea": {
+            "id": "-MzR5Di96bNNR8-LN0ea",
+            "name": "AYAN: Brilhante (Somália)",
+            "weight": "1"
+        },
+        "-MzR5DiCTnRN9ZUncuAj": {
+            "id": "-MzR5DiCTnRN9ZUncuAj",
+            "name": "AYANA: Flor Bonita (Etíope)",
+            "weight": "1"
+        },
+        "-MzR5DiEw6fK8ArOIDTP": {
+            "id": "-MzR5DiEw6fK8ArOIDTP",
+            "name": "AYO: Alegria (Yoruba Da Nigéria)",
+            "weight": "1"
+        },
+        "-MzR5DiHq2aDYfHXhndv": {
+            "id": "-MzR5DiHq2aDYfHXhndv",
+            "name": "AYOMIDE: Minha Alegria Chegou (Yoruba Da Nigéria)",
+            "weight": "1"
+        },
+        "-MzR5DiIwrjbQYynOwnF": {
+            "id": "-MzR5DiIwrjbQYynOwnF",
+            "name": "AZA: Poderosa Swahili",
+            "weight": "1"
+        },
+        "-MzR5DiKj3miSyg83wI_": {
+            "id": "-MzR5DiKj3miSyg83wI_",
+            "name": "AZINZA: Sereia (Togo)",
+            "weight": "1"
+        },
+        "-MzR5DiMGOqwWHk9ewN7": {
+            "id": "-MzR5DiMGOqwWHk9ewN7",
+            "name": "AZIZA: Preciosa, Magnífica Kiswahili, Somali",
+            "weight": "1"
+        },
+        "-MzR5DiOoHfkpJ4oam2H": {
+            "id": "-MzR5DiOoHfkpJ4oam2H",
+            "name": "AZMERA: Colheita (Etiópia)",
+            "weight": "1"
+        },
+        "-MzR5DiQanyBkPiMkcbi": {
+            "id": "-MzR5DiQanyBkPiMkcbi",
+            "name": "BABA: Nascida quinta-feira",
+            "weight": "1"
+        },
+        "-MzR5DicYnonNWqPP-br": {
+            "id": "-MzR5DicYnonNWqPP-br",
+            "name": "BADERINWA: Merecedora de respeito",
+            "weight": "1"
+        },
+        "-MzR5DiexEiwSDMle1cB": {
+            "id": "-MzR5DiexEiwSDMle1cB",
+            "name": "BADU: Poderosa",
+            "weight": "1"
+        },
+        "-MzR5Digr7mo8jwjs9tX": {
+            "id": "-MzR5Digr7mo8jwjs9tX",
+            "name": "BAHATI: Minha sorte é boa",
+            "weight": "1"
+        },
+        "-MzR5DimdfBUDVkezkxt": {
+            "id": "-MzR5DimdfBUDVkezkxt",
+            "name": "BAHIYAH: Bonita (swahili)",
+            "weight": "1"
+        },
+        "-MzR5DioJc_GjB1VhTME": {
+            "id": "-MzR5DioJc_GjB1VhTME",
+            "name": "BAINA: Reluzente",
+            "weight": "1"
+        },
+        "-MzR5DirwqTYwEVSY1Sq": {
+            "id": "-MzR5DirwqTYwEVSY1Sq",
+            "name": "BAYO: Alegria encontrada",
+            "weight": "1"
+        },
+        "-MzR5DiuO_2g37dp73Al": {
+            "id": "-MzR5DiuO_2g37dp73Al",
+            "name": "BECCA: Profetiza",
+            "weight": "1"
+        },
+        "-MzR5DixPoxeoDExHnQ9": {
+            "id": "-MzR5DixPoxeoDExHnQ9",
+            "name": "BEJIDE: Criança nascida no tempo chuvoso",
+            "weight": "1"
+        },
+        "-MzR5Dj2BuCITmNo9wCs": {
+            "id": "-MzR5Dj2BuCITmNo9wCs",
+            "name": "BESEDE: Nascida no domingo",
+            "weight": "1"
+        },
+        "-MzR5Dj9blemTC97-fFj": {
+            "id": "-MzR5Dj9blemTC97-fFj",
+            "name": "BHEKISISA: Cuidadosa (zulu da África do sul)",
+            "weight": "1"
+        },
+        "-MzR5DjBvnnLBFMMkiDj": {
+            "id": "-MzR5DjBvnnLBFMMkiDj",
+            "name": "BIKILU: Crescida ou grande (Etiópia)",
+            "weight": "1"
+        },
+        "-MzR5DjFb_OU4yZDuQyG": {
+            "id": "-MzR5DjFb_OU4yZDuQyG",
+            "name": "BIMKUBWA: Grande dama",
+            "weight": "1"
+        },
+        "-MzR5DjHFJfUktmN4Zvk": {
+            "id": "-MzR5DjHFJfUktmN4Zvk",
+            "name": "BINAH: Uma dançarina",
+            "weight": "1"
+        },
+        "-MzR5DjKwAcPPaXzUv_j": {
+            "id": "-MzR5DjKwAcPPaXzUv_j",
+            "name": "BINTA: Com Deus (africano do oeste)",
+            "weight": "1"
+        },
+        "-MzR5DjMk5Gl6WKM8gRi": {
+            "id": "-MzR5DjMk5Gl6WKM8gRi",
+            "name": "BINTU: Bonita (Costa do marfim/Senegal)",
+            "weight": "1"
+        },
+        "-MzR5DjQ4RsP6nKAII2O": {
+            "id": "-MzR5DjQ4RsP6nKAII2O",
+            "name": "BISA: Muito amada",
+            "weight": "1"
+        },
+        "-MzR5DjUvOpUUV2MKfsa": {
+            "id": "-MzR5DjUvOpUUV2MKfsa",
+            "name": "BOAHINMAA: A que deixou sua comunidade",
+            "weight": "1"
+        },
+        "-MzR5DjYNYM8r6MwAyFH": {
+            "id": "-MzR5DjYNYM8r6MwAyFH",
+            "name": "BUKOLA: Riqueza nascente (yoruba da Nigéria)",
+            "weight": "1"
+        },
+        "-MzR5Dj_lTl5acphOLY7": {
+            "id": "-MzR5Dj_lTl5acphOLY7",
+            "name": "BUNMI: Meu presente",
+            "weight": "1"
+        },
+        "-MzR5DjcJqdG3D-VDrPx": {
+            "id": "-MzR5DjcJqdG3D-VDrPx",
+            "name": "BUSARA: Sabedoria",
+            "weight": "1"
+        },
+        "-MzR5DjfnFm1N7uyN8uK": {
+            "id": "-MzR5DjfnFm1N7uyN8uK",
+            "name": "CHALONDRA: Esperta",
+            "weight": "1"
+        },
+        "-MzR5DjhO_3gxwgXL0_e": {
+            "id": "-MzR5DjhO_3gxwgXL0_e",
+            "name": "CHALTUU: 1° menina nascida (oromo-kush)",
+            "weight": "1"
+        },
+        "-MzR5Djjed0BRSQdyk74": {
+            "id": "-MzR5Djjed0BRSQdyk74",
+            "name": "CHANECIA: Esperta e bonita",
+            "weight": "1"
+        },
+        "-MzR5Djos7mlKeaD82a3": {
+            "id": "-MzR5Djos7mlKeaD82a3",
+            "name": "CHANGA: É prevalecente",
+            "weight": "1"
+        },
+        "-MzR5DjsB2tV2x5UcRb7": {
+            "id": "-MzR5DjsB2tV2x5UcRb7",
+            "name": "CHANYA: Quênia",
+            "weight": "1"
+        },
+        "-MzR5DjvycegH2dMlau8": {
+            "id": "-MzR5DjvycegH2dMlau8",
+            "name": "CHARA: (Etiópia sul ocidental)",
+            "weight": "1"
+        },
+        "-MzR5Dk7jsdin9dtYkUd": {
+            "id": "-MzR5Dk7jsdin9dtYkUd",
+            "name": "CHAUSIKU: Nascida à noite",
+            "weight": "1"
+        },
+        "-MzR5DkB7JiqocZWr8K9": {
+            "id": "-MzR5DkB7JiqocZWr8K9",
+            "name": "CHAUSIKU: Nascida da noite",
+            "weight": "1"
+        },
+        "-MzR5DkDZm_B2MYWN4Ze": {
+            "id": "-MzR5DkDZm_B2MYWN4Ze",
+            "name": "CHIAKA: Deus diz ( ibo da Nigéria)",
+            "weight": "1"
+        },
+        "-MzR5DkF_S6n1KFQaaAU": {
+            "id": "-MzR5DkF_S6n1KFQaaAU",
+            "name": "CHIDERIA: O que Deus escreveu está escrito (Nigéria)",
+            "weight": "1"
+        },
+        "-MzR5DkJO186nNCAgZAA": {
+            "id": "-MzR5DkJO186nNCAgZAA",
+            "name": "CHIDIMA: Deus é bom e maravilhoso (Ibo da Nigéria)",
+            "weight": "1"
+        },
+        "-MzR5DkMOPxtq4kms_Dx": {
+            "id": "-MzR5DkMOPxtq4kms_Dx",
+            "name": "CHIKU: Falante (swahili)",
+            "weight": "1"
+        },
+        "-MzR5DkQb_1zOKlALyA0": {
+            "id": "-MzR5DkQb_1zOKlALyA0",
+            "name": "CHIMWALA: Pedra",
+            "weight": "1"
+        },
+        "-MzR5DkS3CINYWo5gzqh": {
+            "id": "-MzR5DkS3CINYWo5gzqh",
+            "name": "CHINAKA: Deus decide (Nigéria)",
+            "weight": "1"
+        },
+        "-MzR5DkVOTzRLDUYBTMw": {
+            "id": "-MzR5DkVOTzRLDUYBTMw",
+            "name": "CHINARA: Deus pode receber (ibo da Nigéria)",
+            "weight": "1"
+        },
+        "-MzR5DkZ_Cg-ZODpynyG": {
+            "id": "-MzR5DkZ_Cg-ZODpynyG",
+            "name": "CHINELO: Deus está pensando ( ibo da Nigéria)",
+            "weight": "1"
+        },
+        "-MzR5DkaS3yJ8qqnsr0n": {
+            "id": "-MzR5DkaS3yJ8qqnsr0n",
+            "name": "CHINU: A própria bênção de Deus",
+            "weight": "1"
+        },
+        "-MzR5Dkd3Hy-8a5hwa9m": {
+            "id": "-MzR5Dkd3Hy-8a5hwa9m",
+            "name": "CHINUE: Benção de Deus",
+            "weight": "1"
+        },
+        "-MzR5DkgGuWFvj9g3YUi": {
+            "id": "-MzR5DkgGuWFvj9g3YUi",
+            "name": "CHINYERE: Presente de Deus (Ibo de Nigéria)",
+            "weight": "1"
+        },
+        "-MzR5DkjnPOn9f5FfNzn": {
+            "id": "-MzR5DkjnPOn9f5FfNzn",
+            "name": "CHIOMA: Deusa bonita",
+            "weight": "1"
+        },
+        "-MzR5Dkl7NVKmZVox879": {
+            "id": "-MzR5Dkl7NVKmZVox879",
+            "name": "CHIPO: Presente.",
+            "weight": "1"
+        },
+        "-MzR5DkouNv146kQ-vpb": {
+            "id": "-MzR5DkouNv146kQ-vpb",
+            "name": "CLEOPATRA: Rainha negra (Egito antigo)",
+            "weight": "1"
+        },
+        "-MzR5DksOm4cOGyAXDn4": {
+            "id": "-MzR5DksOm4cOGyAXDn4",
+            "name": "DACIA: Flor púrpura",
+            "weight": "1"
+        },
+        "-MzR5DkvfhNZtCIWK2UT": {
+            "id": "-MzR5DkvfhNZtCIWK2UT",
+            "name": "DADA: Criança com cabelos ondulados",
+            "weight": "1"
+        },
+        "-MzR5Dkxmzdak1Jrckpq": {
+            "id": "-MzR5Dkxmzdak1Jrckpq",
+            "name": "DADA: Irmã (kiswahili)",
+            "weight": "1"
+        },
+        "-MzR5Dkz6iiCtqA7C4iv": {
+            "id": "-MzR5Dkz6iiCtqA7C4iv",
+            "name": "DAFINA: Presente (inesperado) / tesouro",
+            "weight": "1"
+        },
+        "-MzR5Dl03uoO5tdheugZ": {
+            "id": "-MzR5Dl03uoO5tdheugZ",
+            "name": "DALILA: Gentileza é sua alma",
+            "weight": "1"
+        },
+        "-MzR5Dl5WKW9CU_b6COR": {
+            "id": "-MzR5Dl5WKW9CU_b6COR",
+            "name": "DALJI: Caminhe graciosamente (swahili)",
+            "weight": "1"
+        },
+        "-MzR5Dl8KEQZgErxm3uN": {
+            "id": "-MzR5Dl8KEQZgErxm3uN",
+            "name": "DAMTIEN: Santificada (moba de Costa de marfim)",
+            "weight": "1"
+        },
+        "-MzR5DlAob2MxvyuudTG": {
+            "id": "-MzR5DlAob2MxvyuudTG",
+            "name": "DANUWA: amiga íntima",
+            "weight": "1"
+        },
+        "-MzR5DlC6dh_vC8NTBee": {
+            "id": "-MzR5DlC6dh_vC8NTBee",
+            "name": "DARA: Bonita (bermudian)",
+            "weight": "1"
+        },
+        "-MzR5DlHgZ9bhwkKkGdX": {
+            "id": "-MzR5DlHgZ9bhwkKkGdX",
+            "name": "DARRATU: Flor desabrochando (etiópia)",
+            "weight": "1"
+        },
+        "-MzR5DlLXgkl_zk3iU0K": {
+            "id": "-MzR5DlLXgkl_zk3iU0K",
+            "name": "DAYO: Alegria alcançada",
+            "weight": "1"
+        },
+        "-MzR5DlOdjwN_bP7ZLSL": {
+            "id": "-MzR5DlOdjwN_bP7ZLSL",
+            "name": "DEKA: A agradável (somali)",
+            "weight": "1"
+        },
+        "-MzR5DlQNoiT5DSyv7jK": {
+            "id": "-MzR5DlQNoiT5DSyv7jK",
+            "name": "DERICIA: Atlética (americano africano)",
+            "weight": "1"
+        },
+        "-MzR5DlTvBAFJccrPyTy": {
+            "id": "-MzR5DlTvBAFJccrPyTy",
+            "name": "DJIDADE: Desejada",
+            "weight": "1"
+        },
+        "-MzR5DlVkYjw5EMKM3Ks": {
+            "id": "-MzR5DlVkYjw5EMKM3Ks",
+            "name": "DO: Primeira criança depois de gêmeos",
+            "weight": "1"
+        },
+        "-MzR5DlYTr2bPf6NNQ4H": {
+            "id": "-MzR5DlYTr2bPf6NNQ4H",
+            "name": "DOFI: Segunda criança depois de gêmeos",
+            "weight": "1"
+        },
+        "-MzR5Dld3171PvGDIFoQ": {
+            "id": "-MzR5Dld3171PvGDIFoQ",
+            "name": "DOLAPO: Benções e felicidade misturadas (yoruba da nigéria)",
+            "weight": "1"
+        },
+        "-MzR5DlfzM91pnEnwlHZ": {
+            "id": "-MzR5DlfzM91pnEnwlHZ",
+            "name": "DOTO: Criança mais jovem do que os gêmeos",
+            "weight": "1"
+        },
+        "-MzR5DljkNnT6zPL33y6": {
+            "id": "-MzR5DljkNnT6zPL33y6",
+            "name": "DUT: Consolação (dinka do sudão)",
+            "weight": "1"
+        },
+        "-MzR5DllWJa4y8UKK0G5": {
+            "id": "-MzR5DllWJa4y8UKK0G5",
+            "name": "DZIKO: O mundo",
+            "weight": "1"
+        },
+        "-MzR5DlnB4gY-fOTTTcl": {
+            "id": "-MzR5DlnB4gY-fOTTTcl",
+            "name": "EBIERE: Onda (níger)",
+            "weight": "1"
+        },
+        "-MzR5DlrUmLb0mPay4Cm": {
+            "id": "-MzR5DlrUmLb0mPay4Cm",
+            "name": "EFFIWAT: Nigéria",
+            "weight": "1"
+        },
+        "-MzR5DluUs1mSDnKr6x-": {
+            "id": "-MzR5DluUs1mSDnKr6x-",
+            "name": "EFIA: Nascida na sexta-feira (Gana)",
+            "weight": "1"
+        },
+        "-MzR5DlwPKaZfloeLuKQ": {
+            "id": "-MzR5DlwPKaZfloeLuKQ",
+            "name": "ELON: Deus me ama",
+            "weight": "1"
+        },
+        "-MzR5Dm-e479XP9STc_y": {
+            "id": "-MzR5Dm-e479XP9STc_y",
+            "name": "EMEFA: Existe a paz (ovelha da Gana)",
+            "weight": "1"
+        },
+        "-MzR5Dm1baJhk-sAEeNr": {
+            "id": "-MzR5Dm1baJhk-sAEeNr",
+            "name": "ENO: Dádiva (efik da Nigéria)",
+            "weight": "1"
+        },
+        "-MzR5Dm4g-6SfKG-3WUq": {
+            "id": "-MzR5Dm4g-6SfKG-3WUq",
+            "name": "ESHE: Vida (swahili)",
+            "weight": "1"
+        },
+        "-MzR5Dm97zcaQlmZ5nxz": {
+            "id": "-MzR5Dm97zcaQlmZ5nxz",
+            "name": "ESI: Nascida no domingo (ovelha e fante da Gana)",
+            "weight": "1"
+        },
+        "-MzR5DmCfuB8Yg5o0IIt": {
+            "id": "-MzR5DmCfuB8Yg5o0IIt",
+            "name": "ESIANKIKI: Jovem solteira (masai do Quênia)",
+            "weight": "1"
+        },
+        "-MzR5DmFzBsbYONjobm0": {
+            "id": "-MzR5DmFzBsbYONjobm0",
+            "name": "ESINAM: Deus me ouviu (ovelha da Gana)",
+            "weight": "1"
+        },
+        "-MzR5DmI-AB15iv03nJL": {
+            "id": "-MzR5DmI-AB15iv03nJL",
+            "name": "ETUHOLE: Deus nos ama. (oshiwambo da Gana)",
+            "weight": "1"
+        },
+        "-MzR5DmKFbrngs3BC4YD": {
+            "id": "-MzR5DmKFbrngs3BC4YD",
+            "name": "FAIZAH: Ela Que É Vitoriosa (Swahili)",
+            "weight": "1"
+        },
+        "-MzR5DmS9nu9QkNYw-vd": {
+            "id": "-MzR5DmS9nu9QkNYw-vd",
+            "name": "FARA: Nível Medido(Kiswahili)",
+            "weight": "1"
+        },
+        "-MzR5DmVvOl7m1lckTTy": {
+            "id": "-MzR5DmVvOl7m1lckTTy",
+            "name": "FARAA: Alegre",
+            "weight": "1"
+        },
+        "-MzR5DmXxN8VmAVyntUy": {
+            "id": "-MzR5DmXxN8VmAVyntUy",
+            "name": "FARAI: Ser Feliz(Shona Da Zimbábue)",
+            "weight": "1"
+        },
+        "-MzR5DmZsNLPeCaZrkVv": {
+            "id": "-MzR5DmZsNLPeCaZrkVv",
+            "name": "FARISA: Fazer Feliz",
+            "weight": "1"
+        },
+        "-MzR5DmdKIBUHon-g9Fh": {
+            "id": "-MzR5DmdKIBUHon-g9Fh",
+            "name": "FAYOLA: Sorte Caminha Com Honra (Yoruba Da Nigéria)",
+            "weight": "1"
+        },
+        "-MzR5DmgRM0lRZaUynG4": {
+            "id": "-MzR5DmgRM0lRZaUynG4",
+            "name": "FEIMATA: Me Ame (Sierra Leoa)",
+            "weight": "1"
+        },
+        "-MzR5DmjfQimx-QBHbfY": {
+            "id": "-MzR5DmjfQimx-QBHbfY",
+            "name": "FEYKEMI: Santificada Com Esta…(Yoruba Da Nigéria)",
+            "weight": "1"
+        },
+        "-MzR5DmlzQFwLO_szrxi": {
+            "id": "-MzR5DmlzQFwLO_szrxi",
+            "name": "FOLAYAN: Andar Com Dignidade",
+            "weight": "1"
+        },
+        "-MzR5DmnO0fyI_oFzOS9": {
+            "id": "-MzR5DmnO0fyI_oFzOS9",
+            "name": "FOLUKE: Colocada Aos CuidadosDe Deus (Yoruba Da Nigéria)",
+            "weight": "1"
+        },
+        "-MzR5DmpwzdqyI2G-vfv": {
+            "id": "-MzR5DmpwzdqyI2G-vfv",
+            "name": "FUJO: Nascida Depois De Disputa",
+            "weight": "1"
+        },
+        "-MzR5DmtDSvbtxB87GNZ": {
+            "id": "-MzR5DmtDSvbtxB87GNZ",
+            "name": "FUNMILAYO: Deu-Me Felicidade (Yoruba Da Nigéria)",
+            "weight": "1"
+        },
+        "-MzR5DmwswlLje1HRT1Z": {
+            "id": "-MzR5DmwswlLje1HRT1Z",
+            "name": "GIMBYA: Princesa",
+            "weight": "1"
+        },
+        "-MzR5DmysTT4fxQqdHGq": {
+            "id": "-MzR5DmysTT4fxQqdHGq",
+            "name": "GINA: Mãe Poderosa do povo negro (Namibia)",
+            "weight": "1"
+        },
+        "-MzR5Dn0QY_sx7kA-pl2": {
+            "id": "-MzR5Dn0QY_sx7kA-pl2",
+            "name": "GOITSEMEDIME: Deus sabe",
+            "weight": "1"
+        },
+        "-MzR5Dn3qMcmAzsBj8b7": {
+            "id": "-MzR5Dn3qMcmAzsBj8b7",
+            "name": "GZIFA: Aquela que está em pedaços (Ovelha De Gana)",
+            "weight": "1"
+        },
+        "-MzR5Dn5cTSkgqWFQoze": {
+            "id": "-MzR5Dn5cTSkgqWFQoze",
+            "name": "HABEN: Coragem(Eritrea)",
+            "weight": "1"
+        },
+        "-MzR5DnC8KeHgfr20Wts": {
+            "id": "-MzR5DnC8KeHgfr20Wts",
+            "name": "HADIYA: Dádiva(Swahili)",
+            "weight": "1"
+        },
+        "-MzR5DnFIEGhMnr_3cJB": {
+            "id": "-MzR5DnFIEGhMnr_3cJB",
+            "name": "HALIMA: Suave(Swahili)",
+            "weight": "1"
+        },
+        "-MzR5DnICOFsELVBwZ6z": {
+            "id": "-MzR5DnICOFsELVBwZ6z",
+            "name": "HANNA: Felicidade(Hausa)",
+            "weight": "1"
+        },
+        "-MzR5DnK_1nm06dqDpno": {
+            "id": "-MzR5DnK_1nm06dqDpno",
+            "name": "HASANA: Primeira nascida dos gêmeos (África Ocidental)",
+            "weight": "1"
+        },
+        "-MzR5DnNREFUpmDPGsSo": {
+            "id": "-MzR5DnNREFUpmDPGsSo",
+            "name": "HASANATI: Felicidade",
+            "weight": "1"
+        },
+        "-MzR5DnRBJqTC4uyKhc7": {
+            "id": "-MzR5DnRBJqTC4uyKhc7",
+            "name": "HASINA: Bondosa(Swahili)",
+            "weight": "1"
+        },
+        "-MzR5DnUdLWF0-KQbWIe": {
+            "id": "-MzR5DnUdLWF0-KQbWIe",
+            "name": "HAWA: Desejada (Kiswahili)",
+            "weight": "1"
+        },
+        "-MzR5DnWvj7jHlsPg0vm": {
+            "id": "-MzR5DnWvj7jHlsPg0vm",
+            "name": "HAZIKA: Inteligente (Hausa)",
+            "weight": "1"
+        },
+        "-MzR5Dna685PFi5QZIvU": {
+            "id": "-MzR5Dna685PFi5QZIvU",
+            "name": "HEMBADOON: Vencedora",
+            "weight": "1"
+        },
+        "-MzR5Dncv-Tw2uTomnST": {
+            "id": "-MzR5Dncv-Tw2uTomnST",
+            "name": "HOLA: Salvadora(Gana)",
+            "weight": "1"
+        },
+        "-MzR5DngNYbPyvZ8wtGO": {
+            "id": "-MzR5DngNYbPyvZ8wtGO",
+            "name": "HOMA: Agitada (Kiswhaili)",
+            "weight": "1"
+        },
+        "-MzR5DnjSkGCbn8tEbYx": {
+            "id": "-MzR5DnjSkGCbn8tEbYx",
+            "name": "HOVA: Classe Média (Betsileo de Madagascar)",
+            "weight": "1"
+        },
+        "-MzR5Dnn9NXNvMlgGpr_": {
+            "id": "-MzR5Dnn9NXNvMlgGpr_",
+            "name": "IDOWU: Primeira criança nascida depois de gêmeos",
+            "weight": "1"
+        },
+        "-MzR5Dnr67cU1ygeQIS0": {
+            "id": "-MzR5Dnr67cU1ygeQIS0",
+            "name": "IFAMA: Tudo está bem",
+            "weight": "1"
+        },
+        "-MzR5DnzXjRu_PzdoZFK": {
+            "id": "-MzR5DnzXjRu_PzdoZFK",
+            "name": "IFE: Amor",
+            "weight": "1"
+        },
+        "-MzR5Do7UTySrer3Xjjv": {
+            "id": "-MzR5Do7UTySrer3Xjjv",
+            "name": "IGE: Nascida primeiro pelos pés",
+            "weight": "1"
+        },
+        "-MzR5DoDGt1mbFl-wwTW": {
+            "id": "-MzR5DoDGt1mbFl-wwTW",
+            "name": "IJABA: Um desejo que cumpriu",
+            "weight": "1"
+        },
+        "-MzR5DoFERzSVz9UZe6i": {
+            "id": "-MzR5DoFERzSVz9UZe6i",
+            "name": "IMA: Amor, caridade (efik da Nigéria)",
+            "weight": "1"
+        },
+        "-MzR5DoIy-yJmSRxNoca": {
+            "id": "-MzR5DoIy-yJmSRxNoca",
+            "name": "IMAN: Fé (Somália)",
+            "weight": "1"
+        },
+        "-MzR5DoMRkXN1YZ-7i7r": {
+            "id": "-MzR5DoMRkXN1YZ-7i7r",
+            "name": "IMANI: Fé (kiswahili)",
+            "weight": "1"
+        },
+        "-MzR5DoPx_ZlfYy55Qpw": {
+            "id": "-MzR5DoPx_ZlfYy55Qpw",
+            "name": "IRUWA: Aquela que viu o mundo (ibo da Nigéria)",
+            "weight": "1"
+        },
+        "-MzR5DoUGM4L-jwu0Wo6": {
+            "id": "-MzR5DoUGM4L-jwu0Wo6",
+            "name": "ISOKE: Um bonito presente de deus (Nigéria)",
+            "weight": "1"
+        },
+        "-MzR5DoXVcFOC0ay0wjO": {
+            "id": "-MzR5DoXVcFOC0ay0wjO",
+            "name": "IZEGBE: Criança muito esperada",
+            "weight": "1"
+        },
+        "-MzR5DoZBXhhvTboxmoB": {
+            "id": "-MzR5DoZBXhhvTboxmoB",
+            "name": "JAHA: Dignidade",
+            "weight": "1"
+        },
+        "-MzR5DobanA5IJlBA4L_": {
+            "id": "-MzR5DobanA5IJlBA4L_",
+            "name": "JAHZARA: Princesa Santificada (Etiópia)",
+            "weight": "1"
+        },
+        "-MzR5Dof4TeS6od7pkcK": {
+            "id": "-MzR5Dof4TeS6od7pkcK",
+            "name": "JAINEBA: (Senegal)",
+            "weight": "1"
+        },
+        "-MzR5DomzlerFxb2GiZ3": {
+            "id": "-MzR5DomzlerFxb2GiZ3",
+            "name": "JALA: Especial (Americano Africano)",
+            "weight": "1"
+        },
+        "-MzR5DopGQ8vEBjS4PuL": {
+            "id": "-MzR5DopGQ8vEBjS4PuL",
+            "name": "JALIA: Privilégio (Kiswhaili)",
+            "weight": "1"
+        },
+        "-MzR5DoteqCAG-0ZY1gj": {
+            "id": "-MzR5DoteqCAG-0ZY1gj",
+            "name": "JAMILA: Bonita, Elegante (Somália, Swahili)",
+            "weight": "1"
+        },
+        "-MzR5Doz-XfG_BkJqZr3": {
+            "id": "-MzR5Doz-XfG_BkJqZr3",
+            "name": "JANI: Uma Folha (Kiswahili)",
+            "weight": "1"
+        },
+        "-MzR5Dp1xQQEjkdM0eFH": {
+            "id": "-MzR5Dp1xQQEjkdM0eFH",
+            "name": "JENDAYI: Agradecida",
+            "weight": "1"
+        },
+        "-MzR5Dp5cQUYUK-A9_wc": {
+            "id": "-MzR5Dp5cQUYUK-A9_wc",
+            "name": "JOHARI: Jóia (Kiswahili)",
+            "weight": "1"
+        },
+        "-MzR5DpdxOtC28FWJF3P": {
+            "id": "-MzR5DpdxOtC28FWJF3P",
+            "name": "JUBA: Nascida Na Segunda-Feira (Ashanti de Gana)",
+            "weight": "1"
+        },
+        "-MzR5Dpgk-od54p74OTl": {
+            "id": "-MzR5Dpgk-od54p74OTl",
+            "name": "JUMAPILI: Nascida No Domingo",
+            "weight": "1"
+        },
+        "-MzR5DpjWaqyWekzslIQ": {
+            "id": "-MzR5DpjWaqyWekzslIQ",
+            "name": "KAGISO: Paz (Tswana – Botsuana )",
+            "weight": "1"
+        },
+        "-MzR5Dpnjc3KDx63eDs7": {
+            "id": "-MzR5Dpnjc3KDx63eDs7",
+            "name": "KAHFI: Quieta(Swahili )",
+            "weight": "1"
+        },
+        "-MzR5DpqK0rDEIJxPbhk": {
+            "id": "-MzR5DpqK0rDEIJxPbhk",
+            "name": "KAIMAH: Muito pequena (Libéria)",
+            "weight": "1"
+        },
+        "-MzR5DptISVd8gvAhi8g": {
+            "id": "-MzR5DptISVd8gvAhi8g",
+            "name": "KAINDA: Filha do caçador (Tharaka Do Quênia )",
+            "weight": "1"
+        },
+        "-MzR5Dpwlq8eN09flaYK": {
+            "id": "-MzR5Dpwlq8eN09flaYK",
+            "name": "KAJUMBA: Bonita (Bantu Uganda)",
+            "weight": "1"
+        },
+        "-MzR5Dqeo125PKDp26hN": {
+            "id": "-MzR5Dqeo125PKDp26hN",
+            "name": "KAKRA: A mais jovem dos gêmeos (Fante de Gana)",
+            "weight": "1"
+        },
+        "-MzR5DqhSJ0cJOM5xvWr": {
+            "id": "-MzR5DqhSJ0cJOM5xvWr",
+            "name": "KALIFA: Brilhante (Swahili)",
+            "weight": "1"
+        },
+        "-MzR5Dqkuxrt0NohPfjH": {
+            "id": "-MzR5Dqkuxrt0NohPfjH",
+            "name": "KAMARIA: Como a lua (Swahili)",
+            "weight": "1"
+        },
+        "-MzR5DqnDeqCK9mGVrQS": {
+            "id": "-MzR5DqnDeqCK9mGVrQS",
+            "name": "KAMBAMI: O filho que fala pelo Pai ( Kimbundo- Angola)*",
+            "weight": "1"
+        },
+        "-MzR5DqtyIbTJKWaFLMJ": {
+            "id": "-MzR5DqtyIbTJKWaFLMJ",
+            "name": "KAMBO: Sem sorte (Shano De Zimbawe)",
+            "weight": "1"
+        },
+        "-MzR5DqvVpCNyyesL-WC": {
+            "id": "-MzR5DqvVpCNyyesL-WC",
+            "name": "KAMILAH: A perfeita",
+            "weight": "1"
+        },
+        "-MzR5Dqz7xadn8zk_hfr": {
+            "id": "-MzR5Dqz7xadn8zk_hfr",
+            "name": "KAMILI: Perfeição",
+            "weight": "1"
+        },
+        "-MzR5Dr3InCMllTZGeE9": {
+            "id": "-MzR5Dr3InCMllTZGeE9",
+            "name": "KAMOHELO: Bem-vinda (Sotho Da África Do Sul)",
+            "weight": "1"
+        },
+        "-MzR5Dr5B8I3OCuxWc5z": {
+            "id": "-MzR5Dr5B8I3OCuxWc5z",
+            "name": "KANIKA: Roupa preta (Mwera Do Quênia)",
+            "weight": "1"
+        },
+        "-MzR5Dr8zA9QTEwSf2IO": {
+            "id": "-MzR5Dr8zA9QTEwSf2IO",
+            "name": "KANONI: Pequeno pássaro",
+            "weight": "1"
+        },
+        "-MzR5DrCdtLgmaQRMLL-": {
+            "id": "-MzR5DrCdtLgmaQRMLL-",
+            "name": "KARASI: Vida e Sabedoria",
+            "weight": "1"
+        },
+        "-MzR5DrFhRrDb4n6Y0Xp": {
+            "id": "-MzR5DrFhRrDb4n6Y0Xp",
+            "name": "KARIMU: Generosa",
+            "weight": "1"
+        },
+        "-MzR5DrH4MGJzeYH9Scq": {
+            "id": "-MzR5DrH4MGJzeYH9Scq",
+            "name": "KAWERIA: Amorosa (Meru Do Quênia)",
+            "weight": "1"
+        },
+        "-MzR5DrNTHo2KrNaG54f": {
+            "id": "-MzR5DrNTHo2KrNaG54f",
+            "name": "KAYLA: Pura",
+            "weight": "1"
+        },
+        "-MzR5DrQrfwP8v8voEFf": {
+            "id": "-MzR5DrQrfwP8v8voEFf",
+            "name": "KEFILWE: Eu Sou determinada",
+            "weight": "1"
+        },
+        "-MzR5DrTpyffj7usEoMc": {
+            "id": "-MzR5DrTpyffj7usEoMc",
+            "name": "KEHINDE: Segundo nascida Dos gêmeos",
+            "weight": "1"
+        },
+        "-MzR5DrVz4B4I59pzf10": {
+            "id": "-MzR5DrVz4B4I59pzf10",
+            "name": "KELI: Enérgica (Senufo da Costa Do Marfim)",
+            "weight": "1"
+        },
+        "-MzR5DrYooheSaHrmH8w": {
+            "id": "-MzR5DrYooheSaHrmH8w",
+            "name": "KENYETTA: Inocente (África Do Sul)",
+            "weight": "1"
+        },
+        "-MzR5DrbIMmzTRqsgxDm": {
+            "id": "-MzR5DrbIMmzTRqsgxDm",
+            "name": "KEREEDITSE: Eu estou escutando (Batswana)",
+            "weight": "1"
+        },
+        "-MzR5DrfbgZ8Mv-qErzt": {
+            "id": "-MzR5DrfbgZ8Mv-qErzt",
+            "name": "KESI: Nascida depois de transtorno do pai",
+            "weight": "1"
+        },
+        "-MzR5Drj4FsBsUTQEM0b": {
+            "id": "-MzR5Drj4FsBsUTQEM0b",
+            "name": "KEYAH: Tem boa saúde (Mande Da África Ocidental)",
+            "weight": "1"
+        },
+        "-MzR5Drm2tCArXi9rO1Z": {
+            "id": "-MzR5Drm2tCArXi9rO1Z",
+            "name": "KHADIJA: Esposa do profeta Mohammed",
+            "weight": "1"
+        },
+        "-MzR5DrqM3Ex976LKXL-": {
+            "id": "-MzR5DrqM3Ex976LKXL-",
+            "name": "KHANYSHA: Criança bonita (Swahili)",
+            "weight": "1"
+        },
+        "-MzR5DrtYGJEHsMy9HPP": {
+            "id": "-MzR5DrtYGJEHsMy9HPP",
+            "name": "KIANGA: Luz do sol",
+            "weight": "1"
+        },
+        "-MzR5Drwkjo52ldzSh4y": {
+            "id": "-MzR5Drwkjo52ldzSh4y",
+            "name": "KIJAKASI: Sua Vida é devida A nós",
+            "weight": "1"
+        },
+        "-MzR5DsFmyWVNz5MfIli": {
+            "id": "-MzR5DsFmyWVNz5MfIli",
+            "name": "KIMANI: Doce E bonita (Americano Africano)",
+            "weight": "1"
+        },
+        "-MzR5DsIwHiqAEPVS_VR": {
+            "id": "-MzR5DsIwHiqAEPVS_VR",
+            "name": "KINAH: Obstinada, empreendedora",
+            "weight": "1"
+        },
+        "-MzR5DsLGG9Zvt9a8TjK": {
+            "id": "-MzR5DsLGG9Zvt9a8TjK",
+            "name": "KISSA (KIXA): Primeira filha da família (Quênia)",
+            "weight": "1"
+        },
+        "-MzR5DsSI-fldKmFVB08": {
+            "id": "-MzR5DsSI-fldKmFVB08",
+            "name": "K’TUSHA: Alegria",
+            "weight": "1"
+        },
+        "-MzR5DsV4F2VPqS4Y0rb": {
+            "id": "-MzR5DsV4F2VPqS4Y0rb",
+            "name": "KUKUA: Nascida na Quarta-Feira (Gana)",
+            "weight": "1"
+        },
+        "-MzR5DsYl9b25r4LUKeu": {
+            "id": "-MzR5DsYl9b25r4LUKeu",
+            "name": "KUMANI: Destino (África Ocidental)",
+            "weight": "1"
+        },
+        "-MzR5Ds_B8wswUtiHiac": {
+            "id": "-MzR5Ds_B8wswUtiHiac",
+            "name": "KUNTO: Terceira criança (Twi de Gana)",
+            "weight": "1"
+        },
+        "-MzR5DsewOoa5R-P2yvW": {
+            "id": "-MzR5DsewOoa5R-P2yvW",
+            "name": "KWAVERA: Alvorecer, amanhecer (Swahili)",
+            "weight": "1"
+        },
+        "-MzR5DsiTVInVHToPmgm": {
+            "id": "-MzR5DsiTVInVHToPmgm",
+            "name": "LATASHA: Surpresa (Congo)",
+            "weight": "1"
+        },
+        "-MzR5Dsl6AwMNeJk4Hrg": {
+            "id": "-MzR5Dsl6AwMNeJk4Hrg",
+            "name": "LAYLA: Nascida de noite",
+            "weight": "1"
+        },
+        "-MzR5DsnMnkVwgQTxtlr": {
+            "id": "-MzR5DsnMnkVwgQTxtlr",
+            "name": "LEKYSHA: Popularidade, beleza (Porto Rico)",
+            "weight": "1"
+        },
+        "-MzR5DssPpHbjhM62hoF": {
+            "id": "-MzR5DssPpHbjhM62hoF",
+            "name": "LERATO: Amor",
+            "weight": "1"
+        },
+        "-MzR5DsvKwMFtPmJ47hn": {
+            "id": "-MzR5DsvKwMFtPmJ47hn",
+            "name": "LEZA: Aquela que enfeita (África Central)",
+            "weight": "1"
+        },
+        "-MzR5Dsy5JEbhCOa3jcX": {
+            "id": "-MzR5Dsy5JEbhCOa3jcX",
+            "name": "LINA: Tenra",
+            "weight": "1"
+        },
+        "-MzR5Dt0VIxsdiD0RUpa": {
+            "id": "-MzR5Dt0VIxsdiD0RUpa",
+            "name": "LINDIWE: Esperada (xhosa da África do sul)",
+            "weight": "1"
+        },
+        "-MzR5Dt2bppHmBnF-Spy": {
+            "id": "-MzR5Dt2bppHmBnF-Spy",
+            "name": "LINGAIRE: Princesa do século 4 (wolof de Gâmbia)",
+            "weight": "1"
+        },
+        "-MzR5Dt5j6Kccgcn8r4a": {
+            "id": "-MzR5Dt5j6Kccgcn8r4a",
+            "name": "LISHA: Misteriosa (hausa – Nigéria)",
+            "weight": "1"
+        },
+        "-MzR5Dt90PGfx84_KDwJ": {
+            "id": "-MzR5Dt90PGfx84_KDwJ",
+            "name": "LULU: Uma pérola",
+            "weight": "1"
+        },
+        "-MzR5DtCLpGNOsPKefcn": {
+            "id": "-MzR5DtCLpGNOsPKefcn",
+            "name": "LUNGILE: Bondosa (zulu da África do sul)",
+            "weight": "1"
+        },
+        "-MzR5DtF0hz-IhqBqz-r": {
+            "id": "-MzR5DtF0hz-IhqBqz-r",
+            "name": "MAFUANE: Tingida (Bachopi, África do Sul)",
+            "weight": "1"
+        },
+        "-MzR5DtIY-fcOvgPdSqA": {
+            "id": "-MzR5DtIY-fcOvgPdSqA",
+            "name": "MAISHA: Vida (Kiswahili)",
+            "weight": "1"
+        },
+        "-MzR5DtMPPYWZ_Ul_VIo": {
+            "id": "-MzR5DtMPPYWZ_Ul_VIo",
+            "name": "MAKENA: A Feliz (Kikuyu do Quênia)",
+            "weight": "1"
+        },
+        "-MzR5DtTdXn2byC8H6Np": {
+            "id": "-MzR5DtTdXn2byC8H6Np",
+            "name": "MAKIDA: A Bonita (Etiópia)",
+            "weight": "1"
+        },
+        "-MzR5DtWfLG9Rj8Rt4eu": {
+            "id": "-MzR5DtWfLG9Rj8Rt4eu",
+            "name": "MALAIKA: Anjo (Kiswahili)",
+            "weight": "1"
+        },
+        "-MzR5DtZavNRmX46ipfa": {
+            "id": "-MzR5DtZavNRmX46ipfa",
+            "name": "MALI: Riqueza (Kiswahili)",
+            "weight": "1"
+        },
+        "-MzR5DtcKdTjn484RXO-": {
+            "id": "-MzR5DtcKdTjn484RXO-",
+            "name": "MALKIA: Rainha (Kiswahili)",
+            "weight": "1"
+        },
+        "-MzR5DtkmiDHzmoK-i1g": {
+            "id": "-MzR5DtkmiDHzmoK-i1g",
+            "name": "MAMELLO: Paciência (Lesoto)",
+            "weight": "1"
+        },
+        "-MzR5DtnapwLhOtd7CR8": {
+            "id": "-MzR5DtnapwLhOtd7CR8",
+            "name": "MANDISA: Doce, meiga (Xhosa da África do Sul)",
+            "weight": "1"
+        },
+        "-MzR5DtqQ6xMvvGWF5ZJ": {
+            "id": "-MzR5DtqQ6xMvvGWF5ZJ",
+            "name": "MARA: Tempo (Kiswhaili)",
+            "weight": "1"
+        },
+        "-MzR5Dtt3yxAiqwBqEtD": {
+            "id": "-MzR5Dtt3yxAiqwBqEtD",
+            "name": "MARAHABA: Obrigado (Kiswahili)",
+            "weight": "1"
+        },
+        "-MzR5DtyS5PifFu64FgE": {
+            "id": "-MzR5DtyS5PifFu64FgE",
+            "name": "MARALI: Essência (Antígua e Barbuda))",
+            "weight": "1"
+        },
+        "-MzR5Du0yf7QbMwJbvug": {
+            "id": "-MzR5Du0yf7QbMwJbvug",
+            "name": "MARDEA: Última (Gana)",
+            "weight": "1"
+        },
+        "-MzR5Du3T3O7zCIn2CeI": {
+            "id": "-MzR5Du3T3O7zCIn2CeI",
+            "name": "MARIAMA: Presente de Deus (África Ocidental)",
+            "weight": "1"
+        },
+        "-MzR5Du78Umaw0otId4-": {
+            "id": "-MzR5Du78Umaw0otId4-",
+            "name": "MARJANI: Coral (Swahili)",
+            "weight": "1"
+        },
+        "-MzR5DuBsd9vTuAWkUQo": {
+            "id": "-MzR5DuBsd9vTuAWkUQo",
+            "name": "MARVENA: Criança de dois planetas (Anguilla)",
+            "weight": "1"
+        },
+        "-MzR5DuF2mA5fOtlNx1o": {
+            "id": "-MzR5DuF2mA5fOtlNx1o",
+            "name": "MBHALI: Rosa (Zulu da África do Sul)",
+            "weight": "1"
+        },
+        "-MzR5DuKntL_uUgi3t-Z": {
+            "id": "-MzR5DuKntL_uUgi3t-Z",
+            "name": "MEECA: Será de ouro, forte, valente",
+            "weight": "1"
+        },
+        "-MzR5DuNt8ZsEdqaIMIJ": {
+            "id": "-MzR5DuNt8ZsEdqaIMIJ",
+            "name": "MENE: A que nunca está só (Yoruba Da Nigéria)",
+            "weight": "1"
+        },
+        "-MzR5DuT-xEM-cSOo5o4": {
+            "id": "-MzR5DuT-xEM-cSOo5o4",
+            "name": "MESI: Água (Asante)",
+            "weight": "1"
+        },
+        "-MzR5DuW5cifdIe2yIXL": {
+            "id": "-MzR5DuW5cifdIe2yIXL",
+            "name": "MILUMBE: Novidades de benções (Tonga)",
+            "weight": "1"
+        },
+        "-MzR5DuY9dXpeZaQkvX3": {
+            "id": "-MzR5DuY9dXpeZaQkvX3",
+            "name": "MINKAH: Justiça (Tanzânia)",
+            "weight": "1"
+        },
+        "-MzR5Dub7vM7CEuD-oFr": {
+            "id": "-MzR5Dub7vM7CEuD-oFr",
+            "name": "MMAABO: Sua mãe (Botsuana)",
+            "weight": "1"
+        },
+        "-MzR5DuegueIZ30dCOpL": {
+            "id": "-MzR5DuegueIZ30dCOpL",
+            "name": "MOLIEHI: A que era aguardada (Basotho do Lesoto)",
+            "weight": "1"
+        },
+        "-MzR5DuiWfeP-ObldNq7": {
+            "id": "-MzR5DuiWfeP-ObldNq7",
+            "name": "MONIFA: Eu tenho sorte (Yoruba da Nigéria)",
+            "weight": "1"
+        },
+        "-MzR5DulVufhUx7Zlc-b": {
+            "id": "-MzR5DulVufhUx7Zlc-b",
+            "name": "MONTSHO: Negra",
+            "weight": "1"
+        },
+        "-MzR5DunE34vQtPgyTTv": {
+            "id": "-MzR5DunE34vQtPgyTTv",
+            "name": "MUDIWA: Pessoa querida (Shona da Zimbábue)",
+            "weight": "1"
+        },
+        "-MzR5DurA-Fm5nSZQsaH": {
+            "id": "-MzR5DurA-Fm5nSZQsaH",
+            "name": "MUMBI: Primeiras das mulheres (Kikuyu Do Quênia)",
+            "weight": "1"
+        },
+        "-MzR5DuvCssuBT8_JRxc": {
+            "id": "-MzR5DuvCssuBT8_JRxc",
+            "name": "MUTINTA: Criança nascida depois de duas ou mais crianças do sexo oposto (Tonga)",
+            "weight": "1"
+        },
+        "-MzR5DuyaibdV1BgKRBm": {
+            "id": "-MzR5DuyaibdV1BgKRBm",
+            "name": "MWANGAZA: Ilumina (Swahili)",
+            "weight": "1"
+        },
+        "-MzR5Dv20-jiTG6fy7jf": {
+            "id": "-MzR5Dv20-jiTG6fy7jf",
+            "name": "MYEISHA: A que é muito amada",
+            "weight": "1"
+        },
+        "-MzR5Dv6OEmVipxq9VEC": {
+            "id": "-MzR5Dv6OEmVipxq9VEC",
+            "name": "NADIFA: Nascida entre estações (Somália)",
+            "weight": "1"
+        },
+        "-MzR5Dv9LKnjzd9RKKTR": {
+            "id": "-MzR5Dv9LKnjzd9RKKTR",
+            "name": "NADIRA: Rara",
+            "weight": "1"
+        },
+        "-MzR5DvDNPWiOcLIIhum": {
+            "id": "-MzR5DvDNPWiOcLIIhum",
+            "name": "NADRA: Incomum Kiswahili",
+            "weight": "1"
+        },
+        "-MzR5DvGHPtzN8iXfMep": {
+            "id": "-MzR5DvGHPtzN8iXfMep",
+            "name": "NAFULA: Nascida durante a estação chuvosa (Abaluhya – Quênia)",
+            "weight": "1"
+        },
+        "-MzR5DvKAPQo85fnO3qJ": {
+            "id": "-MzR5DvKAPQo85fnO3qJ",
+            "name": "NAJA: Quem terá sucesso (Somália)`",
+            "weight": "1"
+        },
+        "-MzR5DvNoUMKUzNKwc8N": {
+            "id": "-MzR5DvNoUMKUzNKwc8N",
+            "name": "NAKI: Primeira menina (Adangbe Da Gana)",
+            "weight": "1"
+        },
+        "-MzR5DvbS-uEYSp4H1HZ": {
+            "id": "-MzR5DvbS-uEYSp4H1HZ",
+            "name": "NAKISAI: Embeleza (Shona do Zimbábue)",
+            "weight": "1"
+        },
+        "-MzR5DvesRaedf5LQ2wC": {
+            "id": "-MzR5DvesRaedf5LQ2wC",
+            "name": "NALA: Rainha (Tanzânia)",
+            "weight": "1"
+        },
+        "-MzR5DviiPO69abCAWiX": {
+            "id": "-MzR5DviiPO69abCAWiX",
+            "name": "NANDE: Mãe (Chaka Zulu)",
+            "weight": "1"
+        },
+        "-MzR5DvmiiKsxXXCeAr2": {
+            "id": "-MzR5DvmiiKsxXXCeAr2",
+            "name": "NANYAMKA: Presente de Deus (Gana)",
+            "weight": "1"
+        },
+        "-MzR5DvpPI8RLQXrM0-t": {
+            "id": "-MzR5DvpPI8RLQXrM0-t",
+            "name": "NA’WEH: Caminhou antes (Libéria)",
+            "weight": "1"
+        },
+        "-MzR5DvubceN0pifJfiM": {
+            "id": "-MzR5DvubceN0pifJfiM",
+            "name": "NA’ZYIA: Amor de uma mãe (Quênia)",
+            "weight": "1"
+        },
+        "-MzR5Dvx-mjEzEuaEQiE": {
+            "id": "-MzR5Dvx-mjEzEuaEQiE",
+            "name": "NBULUNGI: Bonita (Gana)",
+            "weight": "1"
+        },
+        "-MzR5Dw0vvhw_tRS8Lpw": {
+            "id": "-MzR5Dw0vvhw_tRS8Lpw",
+            "name": "NDAHEPULUKA: Me tornei mais rico (Ovambo da Namibia)",
+            "weight": "1"
+        },
+        "-MzR5Dw49JTFosbW1Dwf": {
+            "id": "-MzR5Dw49JTFosbW1Dwf",
+            "name": "NDAPEWA: Ofertada, recebida (Oshiwambo da Namibia)",
+            "weight": "1"
+        },
+        "-MzR5Dw7v-nCPB7lVton": {
+            "id": "-MzR5Dw7v-nCPB7lVton",
+            "name": "NDIDI: Paciência (Nigéria)",
+            "weight": "1"
+        },
+        "-MzR5DwBxbN8b1n7MwVY": {
+            "id": "-MzR5DwBxbN8b1n7MwVY",
+            "name": "NEFERTITI: A bonita chegou (Egípcio)",
+            "weight": "1"
+        },
+        "-MzR5DwEEkoKDooWbUZI": {
+            "id": "-MzR5DwEEkoKDooWbUZI",
+            "name": "NEHANDA: Firmeza, solidez (Zezuru do Zimbábue)",
+            "weight": "1"
+        },
+        "-MzR5DwIEzwECC9gEG6C": {
+            "id": "-MzR5DwIEzwECC9gEG6C",
+            "name": "NGINA: Dedicada à uma rainha (Americano Africano)",
+            "weight": "1"
+        },
+        "-MzR5DwK75KM4OMCnlqC": {
+            "id": "-MzR5DwK75KM4OMCnlqC",
+            "name": "NGONI: Clemência de Deus (Shona do Zimbábue)",
+            "weight": "1"
+        },
+        "-MzR5DwQTkzMhWitfsWT": {
+            "id": "-MzR5DwQTkzMhWitfsWT",
+            "name": "NIA: Desígnio (Kiswahili)",
+            "weight": "1"
+        },
+        "-MzR5DwTMkqYIOXBMVke": {
+            "id": "-MzR5DwTMkqYIOXBMVke",
+            "name": "NILAJA: Que vem com alegria (Yoruba da Nigéria)",
+            "weight": "1"
+        },
+        "-MzR5DwYw0GIqf89GtVS": {
+            "id": "-MzR5DwYw0GIqf89GtVS",
+            "name": "NJEMILE: Em pé (Malauí)",
+            "weight": "1"
+        },
+        "-MzR5DwahrqPmX-KZjWl": {
+            "id": "-MzR5DwahrqPmX-KZjWl",
+            "name": "NJERI: Filha do guerreiro",
+            "weight": "1"
+        },
+        "-MzR5Dwg4f0Gcg7Y40df": {
+            "id": "-MzR5Dwg4f0Gcg7Y40df",
+            "name": "NKECHI: Leal (Ibo da Nigéria)",
+            "weight": "1"
+        },
+        "-MzR5DwjZx-6xiADwxn9": {
+            "id": "-MzR5DwjZx-6xiADwxn9",
+            "name": "NNEKA: Mãe é Suprema (Ibo da Nigéria)",
+            "weight": "1"
+        },
+        "-MzR5DwpFqF20QG_QZxf": {
+            "id": "-MzR5DwpFqF20QG_QZxf",
+            "name": "NOMBUSO: Que tem reino / Celebração jovial (Zulu da África do Sul)",
+            "weight": "1"
+        },
+        "-MzR5DwsVOVmbOLMTVA5": {
+            "id": "-MzR5DwsVOVmbOLMTVA5",
+            "name": "NOSINE: Nascida na Quinta-Feira (Xhosa – África do Sul)",
+            "weight": "1"
+        },
+        "-MzR5Dwvj-cDh9hlO1aJ": {
+            "id": "-MzR5Dwvj-cDh9hlO1aJ",
+            "name": "NOURBESE: Criança maravilhosa (Benin – Nigéria )",
+            "weight": "1"
+        },
+        "-MzR5DwzEmP2qRlRwnwS": {
+            "id": "-MzR5DwzEmP2qRlRwnwS",
+            "name": "NTATU: Nascida na Quarta-Feira (Xhosa da África do Sul)",
+            "weight": "1"
+        },
+        "-MzR5Dx16vDRYNXBaOF1": {
+            "id": "-MzR5Dx16vDRYNXBaOF1",
+            "name": "NÚBIA: Mulher negra, forte, original, mãe de uma nação (Egito)",
+            "weight": "1"
+        },
+        "-MzR5DxE88pHCe56sbt-": {
+            "id": "-MzR5DxE88pHCe56sbt-",
+            "name": "NWEKA: Mãe é suprema (Ibo da Nigéria)",
+            "weight": "1"
+        },
+        "-MzR5DxIss5hVR0_OFOS": {
+            "id": "-MzR5DxIss5hVR0_OFOS",
+            "name": "NYARAI: Ser humilde (Shona da Zimbábue)",
+            "weight": "1"
+        },
+        "-MzR5DxMd1xLTLCKO3gt": {
+            "id": "-MzR5DxMd1xLTLCKO3gt",
+            "name": "NYASHIA: Princesa africana bonita de propósito (Swahili)",
+            "weight": "1"
+        },
+        "-MzR5DxQo1nXt40_N_gT": {
+            "id": "-MzR5DxQo1nXt40_N_gT",
+            "name": "NYELA: Um que tem sucesso ou persevera (Somália)",
+            "weight": "1"
+        },
+        "-MzR5DxTGhid8QP9ZJ3s": {
+            "id": "-MzR5DxTGhid8QP9ZJ3s",
+            "name": "NYOTA: Guerreira",
+            "weight": "1"
+        },
+        "-MzR5DxVc2QTATB6Ev8u": {
+            "id": "-MzR5DxVc2QTATB6Ev8u",
+            "name": "NZINGA: Do rio",
+            "weight": "1"
+        },
+        "-MzR5Dx_4WWz7x0GZ6sB": {
+            "id": "-MzR5Dx_4WWz7x0GZ6sB",
+            "name": "OBAX: Flor (Somália)",
+            "weight": "1"
+        },
+        "-MzR5DxbW8uRHVDUzErR": {
+            "id": "-MzR5DxbW8uRHVDUzErR",
+            "name": "OBIOMA: Bom coração (Ibo Da Nigéria)",
+            "weight": "1"
+        },
+        "-MzR5DxfG5YlYjXFVTri": {
+            "id": "-MzR5DxfG5YlYjXFVTri",
+            "name": "OGECHI: O tempo de Deus é o melhor tempo ( Ibo Nigéria)",
+            "weight": "1"
+        },
+        "-MzR5DxiEpHMExevk4Lp": {
+            "id": "-MzR5DxiEpHMExevk4Lp",
+            "name": "OHENEWAA: Rainha (Guan ou Kyereponi de Gana)",
+            "weight": "1"
+        },
+        "-MzR5DxlhBqbkBuAOtPe": {
+            "id": "-MzR5DxlhBqbkBuAOtPe",
+            "name": "OLABISI: Alegria multiplicada",
+            "weight": "1"
+        },
+        "-MzR5Dxp7D_i9EZCkJKY": {
+            "id": "-MzR5Dxp7D_i9EZCkJKY",
+            "name": "OLABUNMI: Minha honra foi recompensada",
+            "weight": "1"
+        },
+        "-MzR5DxsCadFnMcxJnjf": {
+            "id": "-MzR5DxsCadFnMcxJnjf",
+            "name": "OLANIYI: Existe gloria na riquesa",
+            "weight": "1"
+        },
+        "-MzR5DxvDAdKd3YgaMF4": {
+            "id": "-MzR5DxvDAdKd3YgaMF4",
+            "name": "OLAYINKA: A honra me cerca (Yoruba, Krio de Serra Leoa)",
+            "weight": "1"
+        },
+        "-MzR5Dydb1G_M8UmyVDq": {
+            "id": "-MzR5Dydb1G_M8UmyVDq",
+            "name": "OLUCHI: A arte, obra de Deus",
+            "weight": "1"
+        },
+        "-MzR5DygNSmCxsh7puOm": {
+            "id": "-MzR5DygNSmCxsh7puOm",
+            "name": "OLUFUNMILAVO: Deus me dá a alegria",
+            "weight": "1"
+        },
+        "-MzR5Dyy6caRMhAVUIqt": {
+            "id": "-MzR5Dyy6caRMhAVUIqt",
+            "name": "OLUREMI: Deus me consola (Yoruba da Nigéria)",
+            "weight": "1"
+        },
+        "-MzR5Dz04AYvQG7VA8-J": {
+            "id": "-MzR5Dz04AYvQG7VA8-J",
+            "name": "OLWA-SEYI: Deus a fez (Yoruba da Nigéria)",
+            "weight": "1"
+        },
+        "-MzR5DzHyIYWLgtfQdx7": {
+            "id": "-MzR5DzHyIYWLgtfQdx7",
+            "name": "OMOSUME: Uma criança é a coisa mais preciosa",
+            "weight": "1"
+        },
+        "-MzR5DzLFRJ5-olWpUW8": {
+            "id": "-MzR5DzLFRJ5-olWpUW8",
+            "name": "ONA: Fogo (África Ocidental)",
+            "weight": "1"
+        },
+        "-MzR5DzSFBHI-lLCJYvv": {
+            "id": "-MzR5DzSFBHI-lLCJYvv",
+            "name": "ONAEDO: Ouro (Ibo)",
+            "weight": "1"
+        },
+        "-MzR5DzVGcE40I2NqUJM": {
+            "id": "-MzR5DzVGcE40I2NqUJM",
+            "name": "ONI: Nascida em domicílio sagrado",
+            "weight": "1"
+        },
+        "-MzR5DzY4Kv5NkIC43Iv": {
+            "id": "-MzR5DzY4Kv5NkIC43Iv",
+            "name": "ONTIBILE: Deus está me vigiando (Botsuana)",
+            "weight": "1"
+        },
+        "-MzR5DzawqJ4VO1Ex9FR": {
+            "id": "-MzR5DzawqJ4VO1Ex9FR",
+            "name": "ONYINYECHI: Presente de Deus (Igbo da Nigéria)",
+            "weight": "1"
+        },
+        "-MzR5Dzf3wf15T6ipTzy": {
+            "id": "-MzR5Dzf3wf15T6ipTzy",
+            "name": "OZIGBODI: Paciência",
+            "weight": "1"
+        },
+        "-MzR5Dzib1c7QNLk83nv": {
+            "id": "-MzR5Dzib1c7QNLk83nv",
+            "name": "PAMOJA: Unida Swahili",
+            "weight": "1"
+        },
+        "-MzR5DznH5eV8nMkLb_h": {
+            "id": "-MzR5DznH5eV8nMkLb_h",
+            "name": "PANYIN: Mais Velha Dos Gêmeos (Fante – Gana)",
+            "weight": "1"
+        },
+        "-MzR5DzqrLz5SuDSsVYa": {
+            "id": "-MzR5DzqrLz5SuDSsVYa",
+            "name": "PENDA: Amada (Fula – Senegal)",
+            "weight": "1"
+        },
+        "-MzR5Dzv3lMYkbLgWkbU": {
+            "id": "-MzR5Dzv3lMYkbLgWkbU",
+            "name": "PHENYO: Vitória (Batswana)",
+            "weight": "1"
+        },
+        "-MzR5DzzRnUq2r0O-1co": {
+            "id": "-MzR5DzzRnUq2r0O-1co",
+            "name": "PONI: Segunda Filha (Bari De Sudão Do Norte)",
+            "weight": "1"
+        },
+        "-MzR5E-4MjfxtSlhe60Z": {
+            "id": "-MzR5E-4MjfxtSlhe60Z",
+            "name": "QWALHATA: Rainha núbia que governou o Egito na xxv dinastia.",
+            "weight": "1"
+        },
+        "-MzR5E-8WVhpD2HBihhH": {
+            "id": "-MzR5E-8WVhpD2HBihhH",
+            "name": "QWARA: Pessoa que fala o idioma cushitic na Etiópia",
+            "weight": "1"
+        },
+        "-MzR5E-CkXcjltr1Zn4I": {
+            "id": "-MzR5E-CkXcjltr1Zn4I",
+            "name": "RACHIDA: Íntegra, Honesta (Swahili)",
+            "weight": "1"
+        },
+        "-MzR5E-F9oQcF0-e6ZuK": {
+            "id": "-MzR5E-F9oQcF0-e6ZuK",
+            "name": "RADHIYA: Agradável (Swahili)",
+            "weight": "1"
+        },
+        "-MzR5E-IOwG3Riu82XVK": {
+            "id": "-MzR5E-IOwG3Riu82XVK",
+            "name": "RAHA: Felicidade (Kiswahili)",
+            "weight": "1"
+        },
+        "-MzR5E-L5GP4j-w6DbtE": {
+            "id": "-MzR5E-L5GP4j-w6DbtE",
+            "name": "RAMAKEELE: Veio para nós de surpresa (Sotho da África do Sul)",
+            "weight": "1"
+        },
+        "-MzR5E-PRgPq-XzGKq0h": {
+            "id": "-MzR5E-PRgPq-XzGKq0h",
+            "name": "RAMLA: Profetiza (Swahili)",
+            "weight": "1"
+        },
+        "-MzR5E-UuM5kxeQSLmtD": {
+            "id": "-MzR5E-UuM5kxeQSLmtD",
+            "name": "RANDA: Dançar (Kiswahili)",
+            "weight": "1"
+        },
+        "-MzR5E-XGDnuW7BA500I": {
+            "id": "-MzR5E-XGDnuW7BA500I",
+            "name": "RASHIDA: Íntegra, honesta (Ilhas Virgem)",
+            "weight": "1"
+        },
+        "-MzR5E-_3nVcVneiHtmS": {
+            "id": "-MzR5E-_3nVcVneiHtmS",
+            "name": "RATIBA: (Marrocos)",
+            "weight": "1"
+        },
+        "-MzR5E-cAUxUto10LPC5": {
+            "id": "-MzR5E-cAUxUto10LPC5",
+            "name": "RAZIYA: Doçura, agradável (Swahili)",
+            "weight": "1"
+        },
+        "-MzR5E-gZdQuSrVohwli": {
+            "id": "-MzR5E-gZdQuSrVohwli",
+            "name": "REHEMA: Compaixão (Kiswahili)",
+            "weight": "1"
+        },
+        "-MzR5E-n2g908sKFeGsY": {
+            "id": "-MzR5E-n2g908sKFeGsY",
+            "name": "RHAXMA: Doce (Somali)",
+            "weight": "1"
+        },
+        "-MzR5E-rngI5OUKvN_3g": {
+            "id": "-MzR5E-rngI5OUKvN_3g",
+            "name": "RUKIVA: A Que sobe alto (Swahili)",
+            "weight": "1"
+        },
+        "-MzR5E-vPdJDXAm0jESE": {
+            "id": "-MzR5E-vPdJDXAm0jESE",
+            "name": "RUSHA: Libertar-se (Kiswahili)",
+            "weight": "1"
+        },
+        "-MzR5E0-gdepvaOp3LYR": {
+            "id": "-MzR5E0-gdepvaOp3LYR",
+            "name": "SAADA: Útil, que ajuda, auxilia",
+            "weight": "1"
+        },
+        "-MzR5E02FGNrdPV7JOWZ": {
+            "id": "-MzR5E02FGNrdPV7JOWZ",
+            "name": "SAFIYA: Pura",
+            "weight": "1"
+        },
+        "-MzR5E052qdbJ8HM7NgY": {
+            "id": "-MzR5E052qdbJ8HM7NgY",
+            "name": "SAIDA: Prestativa (Swahili)",
+            "weight": "1"
+        },
+        "-MzR5E08DRa_jg5bEG3S": {
+            "id": "-MzR5E08DRa_jg5bEG3S",
+            "name": "SALAMA: Paz",
+            "weight": "1"
+        },
+        "-MzR5E0CjLGcUGv7-vkK": {
+            "id": "-MzR5E0CjLGcUGv7-vkK",
+            "name": "SAMIA: Pessoas de Uganda",
+            "weight": "1"
+        },
+        "-MzR5E0Fq6GBZgjALOv7": {
+            "id": "-MzR5E0Fq6GBZgjALOv7",
+            "name": "SANJO: A que aprecia seu passado (Yoruba)",
+            "weight": "1"
+        },
+        "-MzR5E0I7LCrx4klvds3": {
+            "id": "-MzR5E0I7LCrx4klvds3",
+            "name": "SANKOFA: A que deve voltar ao passado para seguir adiante. (Akan de Gana)",
+            "weight": "1"
+        },
+        "-MzR5E0L4YwguyyZ9iFO": {
+            "id": "-MzR5E0L4YwguyyZ9iFO",
+            "name": "SANYO: Alegria ou felicidade (Baganda de Uganda)",
+            "weight": "1"
+        },
+        "-MzR5E0PXF6c7UYwHIr-": {
+            "id": "-MzR5E0PXF6c7UYwHIr-",
+            "name": "SARAN: Alegria (guiné e Costa do Marfim)",
+            "weight": "1"
+        },
+        "-MzR5E0Ul7XNtOx2BlU9": {
+            "id": "-MzR5E0Ul7XNtOx2BlU9",
+            "name": "SAÚDA: Beleza escura (Swahili)",
+            "weight": "1"
+        },
+        "-MzR5E0XJaSnHcpBVCl6": {
+            "id": "-MzR5E0XJaSnHcpBVCl6",
+            "name": "SAYBLEE: Fique em casa (Libéria)",
+            "weight": "1"
+        },
+        "-MzR5E0a0X7yOTw-67yA": {
+            "id": "-MzR5E0a0X7yOTw-67yA",
+            "name": "SEBLE: Colheita (Amhara da Etiópia)",
+            "weight": "1"
+        },
+        "-MzR5E0dEFQ0FT5dBVbD": {
+            "id": "-MzR5E0dEFQ0FT5dBVbD",
+            "name": "SEKAI: Sorriso (Zimbábue)",
+            "weight": "1"
+        },
+        "-MzR5E0g-C-KiRKR9WsU": {
+            "id": "-MzR5E0g-C-KiRKR9WsU",
+            "name": "SELA: Salvadora (África Ocidental)",
+            "weight": "1"
+        },
+        "-MzR5E0lvhtp2wf3VGZs": {
+            "id": "-MzR5E0lvhtp2wf3VGZs",
+            "name": "SELAM: Paz (Eritrea)",
+            "weight": "1"
+        },
+        "-MzR5E0ofju8p-gVHLEh": {
+            "id": "-MzR5E0ofju8p-gVHLEh",
+            "name": "SEMA: Falar (Kiswahili)",
+            "weight": "1"
+        },
+        "-MzR5E0rHePqmYcUY4UL": {
+            "id": "-MzR5E0rHePqmYcUY4UL",
+            "name": "SERWA: A nobre (Gana)",
+            "weight": "1"
+        },
+        "-MzR5E0vInK0e-zsqSUs": {
+            "id": "-MzR5E0vInK0e-zsqSUs",
+            "name": "SESEN: Desejar mais (Eritrea)",
+            "weight": "1"
+        },
+        "-MzR5E0y2fYZ_OpdmGUd": {
+            "id": "-MzR5E0y2fYZ_OpdmGUd",
+            "name": "SHAKARRI: Grande caçadora (afro-americano)",
+            "weight": "1"
+        },
+        "-MzR5E11biRVDAJff2eF": {
+            "id": "-MzR5E11biRVDAJff2eF",
+            "name": "SHAKIA: Semelhante à sua mãe (Afro-americano)",
+            "weight": "1"
+        },
+        "-MzR5E142XNxtPLSjIWW": {
+            "id": "-MzR5E142XNxtPLSjIWW",
+            "name": "SHAKINA: Bonita",
+            "weight": "1"
+        },
+        "-MzR5E18U4xjvhwBu3o7": {
+            "id": "-MzR5E18U4xjvhwBu3o7",
+            "name": "SHAKIR: Nascida na graça de deus (Nigéria)",
+            "weight": "1"
+        },
+        "-MzR5E1CJgRLs01u5tk2": {
+            "id": "-MzR5E1CJgRLs01u5tk2",
+            "name": "SHANI: Maravilhosa (Swahili – África Oriental)",
+            "weight": "1"
+        },
+        "-MzR5E1GQRbEztOxd9z3": {
+            "id": "-MzR5E1GQRbEztOxd9z3",
+            "name": "SHAQUANA: Verdade da vida (Afro-americano)",
+            "weight": "1"
+        },
+        "-MzR5E1JKDoQQS82j2bC": {
+            "id": "-MzR5E1JKDoQQS82j2bC",
+            "name": "SHARIFA: Distinta (Swahili – África Oriental)",
+            "weight": "1"
+        },
+        "-MzR5E1MpWTBFr0UmQXe": {
+            "id": "-MzR5E1MpWTBFr0UmQXe",
+            "name": "SHARTATI: Montanha mais bonita (Etiópia)",
+            "weight": "1"
+        },
+        "-MzR5E1POlKjHSBK-FMK": {
+            "id": "-MzR5E1POlKjHSBK-FMK",
+            "name": "SHATEQUE: Seguidora (Afro-americano)",
+            "weight": "1"
+        },
+        "-MzR5E1TAyYl0IU6bDj_": {
+            "id": "-MzR5E1TAyYl0IU6bDj_",
+            "name": "SHEBA: Rainha de Sheba (Makeda)",
+            "weight": "1"
+        },
+        "-MzR5E1YKErtCCcSMl4v": {
+            "id": "-MzR5E1YKErtCCcSMl4v",
+            "name": "SHENA: Quieta,calma, reservada (Tutsi de Ruanda)",
+            "weight": "1"
+        },
+        "-MzR5E1anXn8heAdINil": {
+            "id": "-MzR5E1anXn8heAdINil",
+            "name": "SHOORAI: Vassoura que varre (Shona – Zimbábue)",
+            "weight": "1"
+        },
+        "-MzR5E1d48NEw3VG6Li5": {
+            "id": "-MzR5E1d48NEw3VG6Li5",
+            "name": "SHUKURA: Eu sou grata",
+            "weight": "1"
+        },
+        "-MzR5E1hlD4_safN9fHo": {
+            "id": "-MzR5E1hlD4_safN9fHo",
+            "name": "SIKUDHANI: Agradável surpresa",
+            "weight": "1"
+        },
+        "-MzR5E1nlC9I-D0Lcyt9": {
+            "id": "-MzR5E1nlC9I-D0Lcyt9",
+            "name": "SISI: Nascida no domingo (Twi da Nigéria)",
+            "weight": "1"
+        },
+        "-MzR5E1rmAPzUZ-E8WhU": {
+            "id": "-MzR5E1rmAPzUZ-E8WhU",
+            "name": "SIYANDA: Nós estamos crescendo (Zulu da África do Sul)",
+            "weight": "1"
+        },
+        "-MzR5E1vPPnSNDSBquKM": {
+            "id": "-MzR5E1vPPnSNDSBquKM",
+            "name": "SUSHAUNNA: Princesa / deusa dos homens (Etiópia)",
+            "weight": "1"
+        },
+        "-MzR5E23ivhz8eu_X2Pk": {
+            "id": "-MzR5E23ivhz8eu_X2Pk",
+            "name": "TAARIQ: Estrela matutina (Swahilli)",
+            "weight": "1"
+        },
+        "-MzR5E27fAieY9ytsZrw": {
+            "id": "-MzR5E27fAieY9ytsZrw",
+            "name": "TAFUI: Glória a Deus (Mina do Togo)",
+            "weight": "1"
+        },
+        "-MzR5E2A1PRVpLgx-UbD": {
+            "id": "-MzR5E2A1PRVpLgx-UbD",
+            "name": "TAJA: Para mencionar (Kiswhili)",
+            "weight": "1"
+        },
+        "-MzR5E2EOTpefb60yLbX": {
+            "id": "-MzR5E2EOTpefb60yLbX",
+            "name": "TAKIYAH: Íntegra",
+            "weight": "1"
+        },
+        "-MzR5E2IzNVfj4aSdzm4": {
+            "id": "-MzR5E2IzNVfj4aSdzm4",
+            "name": "TAMU: Doce (Swahili)",
+            "weight": "1"
+        },
+        "-MzR5E2MqO_WLcuTa-Iq": {
+            "id": "-MzR5E2MqO_WLcuTa-Iq",
+            "name": "TANGELA: Atenciosa (Afro-Americano)",
+            "weight": "1"
+        },
+        "-MzR5E2PqQ3Pc_ybWbne": {
+            "id": "-MzR5E2PqQ3Pc_ybWbne",
+            "name": "TANGENI: Deusa de elogio (Ovambo Da Namibia)",
+            "weight": "1"
+        },
+        "-MzR5E2S1hSA_bHv-iuW": {
+            "id": "-MzR5E2S1hSA_bHv-iuW",
+            "name": "TANGINIKA: Deusa do lago (Afro-Americano)",
+            "weight": "1"
+        },
+        "-MzR5E2Zo0D46YB72cNb": {
+            "id": "-MzR5E2Zo0D46YB72cNb",
+            "name": "TANISHA: Nascida na Segunda-Feira (Hausa da Nigéria)",
+            "weight": "1"
+        },
+        "-MzR5E2bKZcuV7rEbRdH": {
+            "id": "-MzR5E2bKZcuV7rEbRdH",
+            "name": "TAPIWA: Presente, dádiva (Shona do Zimbábue)",
+            "weight": "1"
+        },
+        "-MzR5E2fU-AOJ4NQcPuo": {
+            "id": "-MzR5E2fU-AOJ4NQcPuo",
+            "name": "TARANA: Nascida durante o dia (Hausa da Nigéria)",
+            "weight": "1"
+        },
+        "-MzR5E2iCyGKj32GV52Y": {
+            "id": "-MzR5E2iCyGKj32GV52Y",
+            "name": "TARISAI: Olhe, olhar para (Zimbábue)",
+            "weight": "1"
+        },
+        "-MzR5E2mTx7_6KvemJ_e": {
+            "id": "-MzR5E2mTx7_6KvemJ_e",
+            "name": "TATA: Envolvente (Kiswahili)",
+            "weight": "1"
+        },
+        "-MzR5E2qDhmFVP2GyCSa": {
+            "id": "-MzR5E2qDhmFVP2GyCSa",
+            "name": "TATU: Terceira filha (Swahili)",
+            "weight": "1"
+        },
+        "-MzR5E2tC15_01mSmlI6": {
+            "id": "-MzR5E2tC15_01mSmlI6",
+            "name": "TAWIAH: Primeira depois de gêmeos (Gana)",
+            "weight": "1"
+        },
+        "-MzR5E2xZKU_bEuBVfIF": {
+            "id": "-MzR5E2xZKU_bEuBVfIF",
+            "name": "TENDAI: Grata a Deus (Shona do Zimbábue)",
+            "weight": "1"
+        },
+        "-MzR5E3-3h5qMKHm3zYv": {
+            "id": "-MzR5E3-3h5qMKHm3zYv",
+            "name": "TEREHASA: Santificada (Etiópia)",
+            "weight": "1"
+        },
+        "-MzR5E34F1iuIRzqKt1_": {
+            "id": "-MzR5E34F1iuIRzqKt1_",
+            "name": "THANDIWE: Rainha amorosa",
+            "weight": "1"
+        },
+        "-MzR5E37SMvzKQYqSeJi": {
+            "id": "-MzR5E37SMvzKQYqSeJi",
+            "name": "THEMA: Rainha",
+            "weight": "1"
+        },
+        "-MzR5E3ANz_zch4cNk3l": {
+            "id": "-MzR5E3ANz_zch4cNk3l",
+            "name": "TIOMBE: Tímida (Africano do Oeste)",
+            "weight": "1"
+        },
+        "-MzR5E3GOINymxpSX5Y8": {
+            "id": "-MzR5E3GOINymxpSX5Y8",
+            "name": "TITILAYO: Felicidade eterna (Yoruba Da Nigéria)",
+            "weight": "1"
+        },
+        "-MzR5E3MEbo0dXkLzz8k": {
+            "id": "-MzR5E3MEbo0dXkLzz8k",
+            "name": "TSEHAI: Raio de sol (Etiópia)",
+            "weight": "1"
+        },
+        "-MzR5E3QynmEKy0zL999": {
+            "id": "-MzR5E3QynmEKy0zL999",
+            "name": "TSHEPISO: Uma promessa (Tswanna da África do Sul)",
+            "weight": "1"
+        },
+        "-MzR5E3TDKPvOzr1rYTD": {
+            "id": "-MzR5E3TDKPvOzr1rYTD",
+            "name": "TUMPE: Deixe agradecermos à Deus",
+            "weight": "1"
+        },
+        "-MzR5E3W6IG4D6THcvn4": {
+            "id": "-MzR5E3W6IG4D6THcvn4",
+            "name": "TUSAJIGWE: Nós somos abençoados",
+            "weight": "1"
+        },
+        "-MzR5E3ZrucDdBR9nW0N": {
+            "id": "-MzR5E3ZrucDdBR9nW0N",
+            "name": "TUWALOLE: Exemplar",
+            "weight": "1"
+        },
+        "-MzR5E3ckpqnTqaK5jdj": {
+            "id": "-MzR5E3ckpqnTqaK5jdj",
+            "name": "UBEKWENISHA: Mãe da íntegra (Yoruba)",
+            "weight": "1"
+        },
+        "-MzR5E3g1rbX-ulfHnUD": {
+            "id": "-MzR5E3g1rbX-ulfHnUD",
+            "name": "UBORO: Excelência (Kiswahili)",
+            "weight": "1"
+        },
+        "-MzR5E3jqhpjLrfMQdTX": {
+            "id": "-MzR5E3jqhpjLrfMQdTX",
+            "name": "UCHENNA: Será de Deus (Ibo da Nigéria)",
+            "weight": "1"
+        },
+        "-MzR5E3mOusEFbphH6l7": {
+            "id": "-MzR5E3mOusEFbphH6l7",
+            "name": "UDAKO: Respeito aos anciães (Namimbia)",
+            "weight": "1"
+        },
+        "-MzR5E3rGGWjmSKU4kj5": {
+            "id": "-MzR5E3rGGWjmSKU4kj5",
+            "name": "UDAMA: Bonita flor (Argélia)",
+            "weight": "1"
+        },
+        "-MzR5E3xsCFvx_DiwLry": {
+            "id": "-MzR5E3xsCFvx_DiwLry",
+            "name": "UGOCHI: Presente de Deus (Nigéria)",
+            "weight": "1"
+        },
+        "-MzR5E40gW_y7s3No1ZE": {
+            "id": "-MzR5E40gW_y7s3No1ZE",
+            "name": "ULU: Segunda Filha (Ibo da Nigéria)",
+            "weight": "1"
+        },
+        "-MzR5E43GG2hKgxphoDR": {
+            "id": "-MzR5E43GG2hKgxphoDR",
+            "name": "URBI: Princesa",
+            "weight": "1"
+        },
+        "-MzR5E4D0PFNKnQmH_zZ": {
+            "id": "-MzR5E4D0PFNKnQmH_zZ",
+            "name": "URENNA: Orgulho do Pai",
+            "weight": "1"
+        },
+        "-MzR5E4HGlP7AgkZkJ2g": {
+            "id": "-MzR5E4HGlP7AgkZkJ2g",
+            "name": "URUHU: Liberdade (Kiswahili)",
+            "weight": "1"
+        },
+        "-MzR5E4KusoS4SdSC0Kp": {
+            "id": "-MzR5E4KusoS4SdSC0Kp",
+            "name": "UWIMANA: Filha de Deus",
+            "weight": "1"
+        },
+        "-MzR5E4ORqIjCnAAljlL": {
+            "id": "-MzR5E4ORqIjCnAAljlL",
+            "name": "UZURI: Beleza (Swahili)",
+            "weight": "1"
+        },
+        "-MzR5E4SKpRDkq9R-eql": {
+            "id": "-MzR5E4SKpRDkq9R-eql",
+            "name": "VAI: Pessoa de Serra Leoa",
+            "weight": "1"
+        },
+        "-MzR5E4VP-RlGv_YQifW": {
+            "id": "-MzR5E4VP-RlGv_YQifW",
+            "name": "VANA: Privilégio (Congo)",
+            "weight": "1"
+        },
+        "-MzR5E4ZGPXY-MQLJIwD": {
+            "id": "-MzR5E4ZGPXY-MQLJIwD",
+            "name": "VASHA: Língua da África do Sul",
+            "weight": "1"
+        },
+        "-MzR5E4dG84reo6VoOB1": {
+            "id": "-MzR5E4dG84reo6VoOB1",
+            "name": "VENDA: Pessoa (Bantu da África do Sul)",
+            "weight": "1"
+        },
+        "-MzR5E4kCnt0lIE8Ayn6": {
+            "id": "-MzR5E4kCnt0lIE8Ayn6",
+            "name": "WALASMA: Nome de uma família real que governou a Etiópia Oriental",
+            "weight": "1"
+        },
+        "-MzR5E4plcyaessanrvp": {
+            "id": "-MzR5E4plcyaessanrvp",
+            "name": "WAMBUI: Cantante (Kikuyu Do Quênia)",
+            "weight": "1"
+        },
+        "-MzR5E4uMz8oz7Vr_552": {
+            "id": "-MzR5E4uMz8oz7Vr_552",
+            "name": "WANDA: Ficar gorda (Kiswahili)",
+            "weight": "1"
+        },
+        "-MzR5E507AryBF1Yd1bK": {
+            "id": "-MzR5E507AryBF1Yd1bK",
+            "name": "WANGUI: Uma Das Nove Filhas De Gikuyu E Mumbi*",
+            "weight": "1"
+        },
+        "-MzR5E54ClgQGt7D7H5z": {
+            "id": "-MzR5E54ClgQGt7D7H5z",
+            "name": "WANJIKO: Kikuyu do Quênia",
+            "weight": "1"
+        },
+        "-MzR5E579qbL6PaKG8Gk": {
+            "id": "-MzR5E579qbL6PaKG8Gk",
+            "name": "WANJIRU: (Kikuyu do Quênia)",
+            "weight": "1"
+        },
+        "-MzR5E5CJzFfVjWkj-ZL": {
+            "id": "-MzR5E5CJzFfVjWkj-ZL",
+            "name": "WUB: Magnífica, bonita (Etiópia)",
+            "weight": "1"
+        },
+        "-MzR5E5FGtZaiclVvKpI": {
+            "id": "-MzR5E5FGtZaiclVvKpI",
+            "name": "XETSA: Nome dado a uma de duas gêmea (Ewe De Gana)",
+            "weight": "1"
+        },
+        "-MzR5E5IIF8GL-m07aY1": {
+            "id": "-MzR5E5IIF8GL-m07aY1",
+            "name": "XHOSA: Umas pessoas na África do Sul",
+            "weight": "1"
+        },
+        "-MzR5E5LzrQJhmcRgxUC": {
+            "id": "-MzR5E5LzrQJhmcRgxUC",
+            "name": "YA: Nascida na Quinta-Feira, Valente, Corajosa (Akan Da Gana)",
+            "weight": "1"
+        },
+        "-MzR5E5cGI1JBDX0XSsm": {
+            "id": "-MzR5E5cGI1JBDX0XSsm",
+            "name": "YAHMINAH: Propriamente com respeito (Egito)",
+            "weight": "1"
+        },
+        "-MzR5E5g2_KSNVpiUw3b": {
+            "id": "-MzR5E5g2_KSNVpiUw3b",
+            "name": "YATIMA: Orfã (Kiswahili) -Ye",
+            "weight": "1"
+        },
+        "-MzR5E5kUsKuACqrczxW": {
+            "id": "-MzR5E5kUsKuACqrczxW",
+            "name": "YEJIDE: A imagem da mãe",
+            "weight": ""
+        }
+    }
+}

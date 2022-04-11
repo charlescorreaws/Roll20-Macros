@@ -1,0 +1,13 @@
+{
+    "schema_version": 2,
+    "macros": [
+        {
+            "attributes": {
+                "action": "&{template:traits} {{name=Falha Critíca - ARMAS}} {{source=Personagem: @{selected|character_name}}} {{description=[IMG](https://i.imgur.com/F334C8X.png)[[1t[Arma-Falhas-Críticas]]]\n----------------------------------------------\n[Macro By Charles Corrêa http://rpg.charlescorrea.com.br](https://i.imgur.com/kQM1O9d.gif)\n----------------------------------------------\n``**[Macro By Charles Corrêa](http://rpg.charlescorrea.com.br)**``\n----------------------------------------------\n\n}}",
+                "istokenaction": true,
+                "name": "Falha-Critica-ARMAS",
+                "visibleto": "all"
+            }
+        }
+    ]
+}

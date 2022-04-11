@@ -1,0 +1,13 @@
+{
+    "schema_version": 2,
+    "macros": [
+        {
+            "attributes": {
+                "action": "&{template:dmg} {{rname=⚔️ Divine Smite - @{selected|character_name}}} {{damage=1}} {{dmg1flag=1}} {{dmg1=[[[[(?{Gostaria de usar qual espaço de magia?|1º Nível,2|2º Nível,3|3º Nível,4|4º Nível,5} + ?{O inimigo é um morto-vivo ou um ínfernal?|Nao,0|Sim,1} + ?{Seu Personagem está no LEVEL 11º de PALADINO (para casos de ja ter liberado à Punição Divina Aprimorada)?|Nao,0|Sim,1})*?{Ataque Critico?|Nao,1|Sim,2}]]d8]]}} {{dmg1type=🌟✨DANO RADIANTE}}",
+                "istokenaction": true,
+                "name": "DIVINE-SMITE",
+                "visibleto": "-MyEsb9COijnC3Y0jikR"
+            }
+        }
+    ]
+}

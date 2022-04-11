@@ -1,0 +1,1360 @@
+{
+    "schema_version": 1,
+    "playlists": [
+        {
+            "name": "Aura: Tensão",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Clash of Kings por Tabletop Audio",
+                    "track_id": "34_Clash_of_Kings.mp3-1539446466515",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Waiting Time por Tabletop Audio",
+                    "track_id": "128_Waiting_Time.mp3-1539446466526",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Russian Winter por Tabletop Audio",
+                    "track_id": "130_Russian_Winter.mp3-1539446466528",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "The March of the Faithful por Tabletop Audio",
+                    "track_id": "3_The_March_of_the_Faithful.mp3-1539448521577",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "Alchemists Tower por Kevin MacLeod",
+                    "track_id": "Alchemists%20Tower.mp3-1539450230329",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Dust to Dust por Tabletop Audio",
+                    "track_id": "8_New_Dust_to_Dust.mp3-1539448521581",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Super Hero por Tabletop Audio",
+                    "track_id": "50_Super_Hero.mp3-1539446466516",
+                    "volume": 16.000000000000004
+                }
+            ]
+        },
+        {
+            "name": "Aura: Alegre",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "Achilles por Kevin MacLeod",
+                    "track_id": "Achilles.mp3-1539450230319",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "And Awaken por Kevin MacLeod",
+                    "track_id": "And%20Awaken.mp3-1539450230350",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "Achaidh Cheide por Kevin MacLeod",
+                    "track_id": "Achaidh%20Cheide.mp3-1539450230318",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Endless Voyage por Tabletop Audio",
+                    "track_id": "126_Endless_Voyage.mp3-1539446466525",
+                    "volume": 16.000000000000004
+                }
+            ]
+        },
+        {
+            "name": "Aura: Triste",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Lonesome West por Tabletop Audio",
+                    "track_id": "107_Lonesome_West.mp3-1539446466525",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Barovian Castle por Tabletop Audio",
+                    "track_id": "148_Barovian_Castle.mp3-1539446466528",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "A Singular Perversion por Kevin MacLeod",
+                    "track_id": "A%20Singular%20Perversion.mp3-1539450230315",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "Air Prelude por Kevin MacLeod",
+                    "track_id": "Air%20Prelude.mp3-1539450230325",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Before The Storm por Tabletop Audio",
+                    "track_id": "9_Before_The_Storm.mp3-1539446466511",
+                    "volume": 16.000000000000004
+                }
+            ]
+        },
+        {
+            "name": "Aura: Calmo",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "Accralate por Kevin MacLeod",
+                    "track_id": "Accralate.mp3-1539450230316",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "Ambiment por Kevin MacLeod",
+                    "track_id": "Ambiment.mp3-1539450230335",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Elven Glade por Tabletop Audio",
+                    "track_id": "91_Elven_Glade.mp3-1539446466518",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Middle Earth: Dawn por Tabletop Audio",
+                    "track_id": "62_Middle_Earth_Dawn.mp3-1539446466517",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "River Town por Tabletop Audio",
+                    "track_id": "104_River_Town.mp3-1539446466524",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Solemn Vow por Tabletop Audio",
+                    "track_id": "4_Solemn_Vow.mp3-1539446466510",
+                    "volume": 16.000000000000004
+                }
+            ]
+        },
+        {
+            "name": "Aura: Suspense",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Dark City por Tabletop Audio",
+                    "track_id": "86_Dark_City.mp3-1539446466517",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Weirder Things por Tabletop Audio",
+                    "track_id": "105_Weirder_Things_2.mp3-1539446466524",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Noir Procedural por Tabletop Audio",
+                    "track_id": "94_Noir_Procedural.mp3-1539446466522",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Lost Mine por Tabletop Audio",
+                    "track_id": "98_Lost_Mine.mp3-1539446466523",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Los Vangeles 3030 por Tabletop Audio",
+                    "track_id": "30_Los_Vangeles_3030.mp3-1539446466514",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "The Desert Awaits por Tabletop Audio",
+                    "track_id": "7_The_Desert_Awaits.mp3-1539448521580",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Weirder Things: 2 por Tabletop Audio",
+                    "track_id": "129_Weirder_Things_2.mp3-1539446466527",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Dark Elf City - Morndingur - Score Music - Mike Bridge",
+                    "track_id": "Dark Elf City - Morndingur - Score Music - Mike Bridge.mp3-1539445507216",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": true,
+                    "softstop": true,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Loop Tales por Tabletop Audio",
+                    "track_id": "150_Loop_Tales.mp3-1539446466529",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Antiquarian Study por Tabletop Audio",
+                    "track_id": "115_Antiquarian_Study.mp3-1539445510072",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Rise of the Ancients por Tabletop Audio",
+                    "track_id": "42_Rise_of_the_Ancients.mp3-1539448521586",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Dungeon I por Tabletop Audio",
+                    "track_id": "65_Dungeon_I.mp3-1539448521590",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "Ambush por Kevin MacLeod",
+                    "track_id": "Ambush.mp3-1539450230337",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "Enigma por Kevin MacLeod",
+                    "track_id": "Enigma.mp3-1558281680325#62593",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Temple of the Eye por Tabletop Audio",
+                    "track_id": "39_Temple_of_the_Eye.mp3-1539448521585",
+                    "volume": 16.000000000000004
+                }
+            ]
+        },
+        {
+            "name": "----------",
+            "mode": "s",
+            "songs": []
+        },
+        {
+            "name": "SFX: Chuva",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Weather - Moderate Rain - WildDog Productions",
+                    "track_id": "Weather - Moderate Rain - WildDog Productions.mp3-1539445507256",
+                    "volume": 16.000000000000004
+                }
+            ]
+        },
+        {
+            "name": "SFX: Tempestade",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Weather - Lightning Tempest - WildDog Productions",
+                    "track_id": "Weather - Lightning Tempest - WildDog Productions.mp3-1539445507256",
+                    "volume": 16.000000000000004
+                }
+            ]
+        },
+        {
+            "name": "SFX: Floresta",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Forest Night por Tabletop Audio",
+                    "track_id": "69_Forest_Night.mp3-1539446337684",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Floresta Dia Xingu Nights por Tabletop Audio",
+                    "track_id": "27_Xingu_Nights.mp3-1539446337675",
+                    "volume": 16.000000000000004
+                }
+            ]
+        },
+        {
+            "name": "SFX: Acampamento",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Woodland Campsite por Tabletop Audio",
+                    "track_id": "51_Woodland_Campsite.mp3-1539448521588",
+                    "volume": 16.000000000000004
+                }
+            ]
+        },
+        {
+            "name": "SFX: Caverna",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Cave of Time por Tabletop Audio",
+                    "track_id": "13_Cave_of_Time.mp3-1539448521583",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Catacombs por Tabletop Audio",
+                    "track_id": "37_Catacombs.mp3-1539448521585",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Mummy's Tomb por Tabletop Audio",
+                    "track_id": "142_Mummys_Tomb.mp3-1539445510075",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Goblin's Cave por Tabletop Audio",
+                    "track_id": "49_Goblin's_Cave.mp3-1539448521587",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Ice Cavern por Tabletop Audio",
+                    "track_id": "55_Ice_Cavern.mp3-1539448521589",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Dungeon II: Mechanical por Tabletop Audio",
+                    "track_id": "90_Dungeon_II_Mechanical.mp3-1539448521594",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": true,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Cavern of Lost Souls por Tabletop Audio",
+                    "track_id": "99_Cavern_of_Lost_Souls.mp3-1539448521595",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Bubbling Pools por Tabletop Audio",
+                    "track_id": "2_Bubbling_Pools.mp3-1539448521575",
+                    "volume": 16.000000000000004
+                }
+            ]
+        },
+        {
+            "name": "SFX: Viagem",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Carriage Journey por Tabletop Audio",
+                    "track_id": "134_Carriage_Journey.mp3-1539448521601",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Overland with Oxen por Tabletop Audio",
+                    "track_id": "48_Overland_with_Oxen.mp3-1539448521587",
+                    "volume": 16.000000000000004
+                }
+            ]
+        },
+        {
+            "name": "SFX: Taverna",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Halfling Festival por Tabletop Audio",
+                    "track_id": "133_Halfling_Festival.mp3-1539446466528",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "RavenPuff Common por Tabletop Audio",
+                    "track_id": "116_RavenPuff_Common.mp3-1539445510072",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "The Slaughtered Ox por Tabletop Audio",
+                    "track_id": "23_The_Slaughtered_Ox.mp3-1539445510062",
+                    "volume": 16.000000000000004
+                }
+            ]
+        },
+        {
+            "name": "SFX: Sonho",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Ethereal Plane por Tabletop Audio",
+                    "track_id": "112_Ethereal_Plane.mp3-1539448521596",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Disembodied Spirits por Tabletop Audio",
+                    "track_id": "12_Disembodied_Spirits.mp3-1539448521583",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Astral Plane por Tabletop Audio",
+                    "track_id": "113_Astral_Plane.mp3-1539448521596",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Abyssal Gaze por Tabletop Audio",
+                    "track_id": "6_Abyssal_Gaze.mp3-1539448521579",
+                    "volume": 16.000000000000004
+                }
+            ]
+        },
+        {
+            "name": "SFX: Igreja/Templo",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Medieval Library por Tabletop Audio",
+                    "track_id": "73_Medieval_Library.mp3-1539445510067",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "House on the Hill por Tabletop Audio",
+                    "track_id": "18_House_on_the_Hill.mp3-1539445510060",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Antiquarian Study por Tabletop Audio",
+                    "track_id": "115_Antiquarian_Study.mp3-1539448521597",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "Agnus Dei X por Kevin MacLeod",
+                    "track_id": "Agnus%20Dei%20X.mp3-1539450230324",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Cathedral por Tabletop Audio",
+                    "track_id": "46_Cathedral.mp3-1539448521586",
+                    "volume": 16.000000000000004
+                }
+            ]
+        },
+        {
+            "name": "SFX: Vulcão",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Volcano por Tabletop Audio",
+                    "track_id": "100_Volcano.mp3-1539446337685",
+                    "volume": 16.000000000000004
+                }
+            ]
+        },
+        {
+            "name": "SFX: Dragões",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "There be Dragons por Tabletop Audio",
+                    "track_id": "47_There_be_Dragons.mp3-1539448521587",
+                    "volume": 16.000000000000004
+                }
+            ]
+        },
+        {
+            "name": "SFX: Forja",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Dwarven City por Tabletop Audio",
+                    "track_id": "114_Dwarven_City.mp3-1539448521597",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Blacksmith Shoppe por Tabletop Audio",
+                    "track_id": "80_Blacksmith_Shoppe.mp3-1539448521592",
+                    "volume": 16.000000000000004
+                }
+            ]
+        },
+        {
+            "name": "SFX: Deserto",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Arabesque por Tabletop Audio",
+                    "track_id": "95_Arabesque.mp3-1539445510068",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Desert Winds por Tabletop Audio",
+                    "track_id": "138_Desert_Winds.mp3-1539446337689",
+                    "volume": 16.000000000000004
+                }
+            ]
+        },
+        {
+            "name": "SFX: Multidão",
+            "mode": "s",
+            "songs": []
+        },
+        {
+            "name": "SFX: Cidade",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Victorian London por Tabletop Audio",
+                    "track_id": "44_Victorian_London.mp3-1539445510063",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Large City - City of Trade in Day - Olivier Girardot",
+                    "track_id": "Large City - City of Trade in Day - Olivier Girardot.mp3-1539445507261",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Large City - City of Trade at Night - Olivier Girardot",
+                    "track_id": "Large City - City of Trade at Night - Olivier Girardot.mp3-1539445507261",
+                    "volume": 16.000000000000004
+                }
+            ]
+        },
+        {
+            "name": "Ambiente: Vila",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Medieval Town por Tabletop Audio",
+                    "track_id": "56_Medieval_Town.mp3-1539445510064",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Mill Town por Tabletop Audio",
+                    "track_id": "137_Mill_Town_a.mp3-1539445510074",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Winter Festival por Tabletop Audio",
+                    "track_id": "87_Winter_Festival.mp3-1539445510068",
+                    "volume": 16.000000000000004
+                }
+            ]
+        },
+        {
+            "name": "SFX: Mar/Doca",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Age of Sail por Tabletop Audio",
+                    "track_id": "19_Age_of_Sail.mp3-1539445510060",
+                    "volume": 39.690000000000005
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Docks District por Tabletop Audio",
+                    "track_id": "75_Docks_District.mp3-1539445510068",
+                    "volume": 16.000000000000004
+                }
+            ]
+        },
+        {
+            "name": "SFX: Pântano",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Swamp - Marsh of Madness in Day - WildDog Productions",
+                    "track_id": "Swamp - Marsh of Madness in Day - WildDog Productions.mp3-1539445507265",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Swamp - Marsh of Madness in Day (Heavy Spirits) - WildDog Productions",
+                    "track_id": "Swamp - Marsh of Madness in Day (Heavy Spirits) - WildDog Productions.mp3-1539445507264",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Swamp - Marsh of Madness at Night (Some Spirits) - WildDog Productions",
+                    "track_id": "Swamp - Marsh of Madness at Night (Some Spirits) - WildDog Productions.mp3-1539445507264",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Battlebards",
+                    "tags": "",
+                    "title": "Swamp - Marsh of Madness at Night - WildDog Productions",
+                    "track_id": "Swamp - Marsh of Madness at Night - WildDog Productions.mp3-1539445507264",
+                    "volume": 16.000000000000004
+                }
+            ]
+        },
+        {
+            "name": "-------------",
+            "mode": "s",
+            "songs": []
+        },
+        {
+            "name": "Batalha: Grande",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "Evil March por Kevin MacLeod",
+                    "track_id": "Evil%20March.mp3-1558281680325#34770",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "Final Battle of the Dark Wizards por Kevin MacLeod",
+                    "track_id": "Final%20Battle%20of%20the%20Dark%20Wizards.mp3-1558281470812#58379",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "Curse of the Scarab por Kevin MacLeod",
+                    "track_id": "Curse%20of%20the%20Scarab.mp3-1558281680325#60616",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "Crossing the Chasm por Kevin MacLeod",
+                    "track_id": "Crossing%20the%20Chasm.mp3-1558281680325#84885",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "Full On por Kevin MacLeod",
+                    "track_id": "Full%20On.mp3-1558281680325#61037",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "Cortosis por Kevin MacLeod",
+                    "track_id": "Cortosis.mp3-1558281680325#28649",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "Burnt Spirit por Kevin MacLeod",
+                    "track_id": "Burnt%20Spirit.mp3-1558281680325#12451",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "Feral Chase por Kevin MacLeod",
+                    "track_id": "Feral%20Chase.mp3-1558281680325#84004",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "Final Count por Kevin MacLeod",
+                    "track_id": "Final%20Count.mp3-1558281680325#80087",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "Five Armies por Kevin MacLeod",
+                    "track_id": "Five%20Armies.mp3-1558281680325#88126",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "Ghostpocalypse - 7 Master por Kevin MacLeod",
+                    "track_id": "Ghostpocalypse%20%2D%207%20Master.mp3-1558281680325#30914",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "Grim Idol por Kevin MacLeod",
+                    "track_id": "Grim%20Idol.mp3-1558281680325#22640",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "Aggressor por Kevin MacLeod",
+                    "track_id": "Aggressor.mp3-1539450230322",
+                    "volume": 16.000000000000004
+                }
+            ]
+        },
+        {
+            "name": "Batalha: Média",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "El Magicia por Kevin MacLeod",
+                    "track_id": "El%20Magicia.mp3-1558281680325#29298",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "Failing Defense por Kevin MacLeod",
+                    "track_id": "Failing%20Defense.mp3-1558281680325#70481",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "Exciting Trailer por Kevin MacLeod",
+                    "track_id": "Exciting%20Trailer.mp3-1558281680325#35061",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "Dangerous por Kevin MacLeod",
+                    "track_id": "Dangerous.mp3-1558281680325#81718",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "Darkling por Kevin MacLeod",
+                    "track_id": "Darkling.mp3-1558281680325#69739",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "Action por Kevin MacLeod",
+                    "track_id": "Action.mp3-1539450230320",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "Stoneworld Battle por Kevin MacLeod",
+                    "track_id": "Stoneworld%20Battle.mp3-1558281470812#94649",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "Big Mojo por Kevin MacLeod",
+                    "track_id": "Big%20Mojo.mp3-1558281680325#69087",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "Eighties Action por Kevin MacLeod",
+                    "track_id": "Eighties%20Action.mp3-1558281680325#35918",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "Firebrand por Kevin MacLeod",
+                    "track_id": "Firebrand.mp3-1558281680325#95849",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "Black Vortex por Kevin MacLeod",
+                    "track_id": "Black%20Vortex.mp3-1558281680325#10249",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "Clenched Teeth por Kevin MacLeod",
+                    "track_id": "Clenched%20Teeth.mp3-1558281680325#65826",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "Chase por Kevin MacLeod",
+                    "track_id": "Chase.mp3-1558281680325#77026",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "Cognitive Dissonance por Kevin MacLeod",
+                    "track_id": "Cognative%20Dissonance.mp3-1558281680325#80184",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": true,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Skirmish por Tabletop Audio",
+                    "track_id": "92_Skirmish.mp3-1539446466519",
+                    "volume": 16.000000000000004
+                }
+            ]
+        },
+        {
+            "name": "Batalha: Pequena",
+            "mode": "s",
+            "songs": [
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "All This por Kevin MacLeod",
+                    "track_id": "All%20This.mp3-1539450230331",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "Cartoon Battle por Kevin MacLeod",
+                    "track_id": "Cartoon%20Battle.mp3-1558281470812#35682",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "Exotic Battle por Kevin MacLeod",
+                    "track_id": "Exotic%20Battle.mp3-1558281470812#42611",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "Colossus por Kevin MacLeod",
+                    "track_id": "Colossus.mp3-1558281680325#71749",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "Call to Adventure por Kevin MacLeod",
+                    "track_id": "Call%20to%20Adventure.mp3-1558281680325#28347",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "Constance por Kevin MacLeod",
+                    "track_id": "Constance.mp3-1558281680325#28109",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Incompetech",
+                    "tags": "",
+                    "title": "Freddy's Menagerie por Kevin MacLeod",
+                    "track_id": "Freddy's%20Menagerie.mp3-1558281680325#32572",
+                    "volume": 16.000000000000004
+                },
+                {
+                    "loop": false,
+                    "playing": false,
+                    "softstop": false,
+                    "source": "Tabletop Audio",
+                    "tags": "",
+                    "title": "Dark Continent por Tabletop Audio",
+                    "track_id": "20_Dark_Continent_aa.mp3-1539445510061",
+                    "volume": 16.000000000000004
+                }
+            ]
+        },
+        {
+            "name": "---------------",
+            "mode": "s",
+            "songs": []
+        },
+        {
+            "name": "Sessão de Hoje",
+            "mode": "s",
+            "songs": []
+        }
+    ]
+}

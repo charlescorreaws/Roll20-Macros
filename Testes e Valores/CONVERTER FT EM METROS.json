@@ -1,0 +1,13 @@
+{
+    "schema_version": 2,
+    "macros": [
+        {
+            "attributes": {
+                "action": "&{template:traits} {{name=Converter FT em MT}} {{source=Charles Corrêa - http://rpg.charlescorrea.com.br}} {{description=\n[img](https://i.imgur.com/I8wwAA9.png)\n\nA distância convertida de FT para MT é de ``**[[?{Quantos feets deseja converter? LEMBRE-SE VALOR COMO UM METRO E MEIO DEVEM SER INFORMADOS DA SEGUINTE FORMA (1.5) nunca usar VIRGULAS e sim PONTOS|}*0.3048]] Metros**``\n\n** Caso não dê números redondos (ex: 9.144) se arredonda para baixo fechando 9 metros **\n\n----------------------------------------------\n[Macro By Charles Corrêa http://rpg.charlescorrea.com.br](https://i.imgur.com/kQM1O9d.gif)\n----------------------------------------------\n``**[Macro By Charles Corrêa](http://rpg.charlescorrea.com.br)**``\n----------------------------------------------\n}}",
+                "istokenaction": false,
+                "name": "Converter-FT-em-MT",
+                "visibleto": "all"
+            }
+        }
+    ]
+}

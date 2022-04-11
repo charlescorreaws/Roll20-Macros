@@ -1,0 +1,247 @@
+{
+    "name": "OBJETOS-DE-ARTE",
+    "showplayers": true,
+    "id": "-Mzhn3Z9tCTSAFp02ixT",
+    "items": {
+        "-Mzhn3ZD4z-pewdN_HWn": {
+            "id": "-Mzhn3ZD4z-pewdN_HWn",
+            "name": "Jarro de prata [VALENDO 25 PO (PEÇAS DE OURO)]",
+            "weight": "40"
+        },
+        "-Mzhn3ZJgEh7P9n_kyKO": {
+            "id": "-Mzhn3ZJgEh7P9n_kyKO",
+            "name": "Estatueta esculpida em osso [VALENDO 25 PO (PEÇAS DE OURO)]",
+            "weight": "40"
+        },
+        "-Mzhn3ZMvBYFtFxQucfz": {
+            "id": "-Mzhn3ZMvBYFtFxQucfz",
+            "name": "Bracelete de ouro pequeno [VALENDO 25 PO (PEÇAS DE OURO)]",
+            "weight": "40"
+        },
+        "-Mzhn3ZOyp7bp7u1Npu1": {
+            "id": "-Mzhn3ZOyp7bp7u1Npu1",
+            "name": "Vestimenta de tecido dourado [VALENDO 25 PO (PEÇAS DE OURO)]",
+            "weight": "40"
+        },
+        "-Mzhn3ZRC_QianLIDWOH": {
+            "id": "-Mzhn3ZRC_QianLIDWOH",
+            "name": "Máscara de veludo negra costurada com fios de prata [VALENDO 25 PO (PEÇAS DE OURO)]",
+            "weight": "40"
+        },
+        "-Mzhn3ZVQB8SNnB0f8sT": {
+            "id": "-Mzhn3ZVQB8SNnB0f8sT",
+            "name": "Cálice de cobre com filigrana prateada [VALENDO 25 PO (PEÇAS DE OURO)]",
+            "weight": "40"
+        },
+        "-Mzhn3ZZKdN8G9tloL_B": {
+            "id": "-Mzhn3ZZKdN8G9tloL_B",
+            "name": "Par de dados de osso com gravuras [VALENDO 25 PO (PEÇAS DE OURO)]",
+            "weight": "40"
+        },
+        "-Mzhn3ZbCXxCdRbMfS3F": {
+            "id": "-Mzhn3ZbCXxCdRbMfS3F",
+            "name": "Pequeno espelho numa moldura de madeira pintada [VALENDO 25 PO (PEÇAS DE OURO)]",
+            "weight": "40"
+        },
+        "-Mzhn3ZdopsO6kvf8r_9": {
+            "id": "-Mzhn3ZdopsO6kvf8r_9",
+            "name": "Lenço de seda bordado [VALENDO 25 PO (PEÇAS DE OURO]",
+            "weight": "40"
+        },
+        "-Mzhn3ZgAcCLgomQuMkn": {
+            "id": "-Mzhn3ZgAcCLgomQuMkn",
+            "name": "Broche de ouro com um retrato pintado dentro [VALENDO 25 PO (PEÇAS DE OURO)]",
+            "weight": "40"
+        },
+        "-Mzhn3ZkxEjp2rNlcH7r": {
+            "id": "-Mzhn3ZkxEjp2rNlcH7r",
+            "name": "Anel de ouro cravejado com pedras de sangue  [VALENDO 250 PO (PEÇAS DE OURO)]",
+            "weight": "10"
+        },
+        "-Mzhn3ZrQmpLphHFOkqh": {
+            "id": "-Mzhn3ZrQmpLphHFOkqh",
+            "name": "Estatueta esculpida em marfim  [VALENDO 250 PO (PEÇAS DE OURO)]",
+            "weight": "10"
+        },
+        "-Mzhn3Ztii7A41chPbjv": {
+            "id": "-Mzhn3Ztii7A41chPbjv",
+            "name": "Bracelete de ouro largo  [VALENDO 250 PO (PEÇAS DE OURO)]",
+            "weight": "10"
+        },
+        "-Mzhn3ZzNazFtIp1mdnK": {
+            "id": "-Mzhn3ZzNazFtIp1mdnK",
+            "name": "Gargantilha de prata com um pingente de pedra preciosa  [VALENDO 250 PO (PEÇAS DE OURO)]",
+            "weight": "10"
+        },
+        "-Mzhn3_4qtZLYD6KJYx8": {
+            "id": "-Mzhn3_4qtZLYD6KJYx8",
+            "name": "Coroa de bronze  [VALENDO 250 PO (PEÇAS DE OURO)]",
+            "weight": "10"
+        },
+        "-Mzhn3_642SW1O8cc_g6": {
+            "id": "-Mzhn3_642SW1O8cc_g6",
+            "name": "Robe de seda com adornos de ouro  [VALENDO 250 PO (PEÇAS DE OURO)]",
+            "weight": "10"
+        },
+        "-Mzhn3_AeHO-wsz8-ZXu": {
+            "id": "-Mzhn3_AeHO-wsz8-ZXu",
+            "name": "Grande tapeçaria elegante  [VALENDO 250 PO (PEÇAS DE OURO)]",
+            "weight": "10"
+        },
+        "-Mzhn3_DnQh3DcTjE8gP": {
+            "id": "-Mzhn3_DnQh3DcTjE8gP",
+            "name": "Caneca de bronze com jades incrustadas  [VALENDO 250 PO (PEÇAS DE OURO)]",
+            "weight": "10"
+        },
+        "-Mzhn3_FEKHj6xshDjNG": {
+            "id": "-Mzhn3_FEKHj6xshDjNG",
+            "name": "Caixa de miniaturas de animais em turquesa  [VALENDO 250 PO (PEÇAS DE OURO)]",
+            "weight": "10"
+        },
+        "-Mzhn3_J6a-Mz1o5IBDR": {
+            "id": "-Mzhn3_J6a-Mz1o5IBDR",
+            "name": "Gaiola de pássaro de ouro com filigrana de electro  [VALENDO 250 PO (PEÇAS DE OURO)]",
+            "weight": "10"
+        },
+        "-Mzhn3_LOFRxMyWt5EWo": {
+            "id": "-Mzhn3_LOFRxMyWt5EWo",
+            "name": "Cálice de prata cravejado com pedras da lua [VALENDO 750 PO (PEÇAS DE OURO)]",
+            "weight": "5"
+        },
+        "-Mzhn3_Oe9WNYHcwPSZ8": {
+            "id": "-Mzhn3_Oe9WNYHcwPSZ8",
+            "name": "Espada longa de lâmina prateada com conjunto de jatos no cabo [VALENDO 750 PO (PEÇAS DE OURO)]",
+            "weight": "5"
+        },
+        "-Mzhn3_RlhAEwoT-lB8Y": {
+            "id": "-Mzhn3_RlhAEwoT-lB8Y",
+            "name": "Harpa de madeira exótica com marfim incrustado e gemas de zircónio [VALENDO 750 PO (PEÇAS DE OURO)]",
+            "weight": "5"
+        },
+        "-Mzhn3_U3T9bhpO4eLeW": {
+            "id": "-Mzhn3_U3T9bhpO4eLeW",
+            "name": "Pequeno ídolo de ouro [VALENDO 750 PO (PEÇAS DE OURO)]",
+            "weight": "5"
+        },
+        "-Mzhn3_Y6LK7HlAE5WR9": {
+            "id": "-Mzhn3_Y6LK7HlAE5WR9",
+            "name": "Pente de ouro em formato de dragão cravejada com granadas vermelhas nos olhos [VALENDO 750 PO (PEÇAS DE OURO)]",
+            "weight": "5"
+        },
+        "-Mzhn3_ayjUApcneIHqy": {
+            "id": "-Mzhn3_ayjUApcneIHqy",
+            "name": "Rolha de garrafa gravada com folhas de ouro e cravejada com ametistas [VALENDO 750 PO (PEÇAS DE OURO)]",
+            "weight": "5"
+        },
+        "-Mzhn3a60XUdKMZETAJx": {
+            "id": "-Mzhn3a60XUdKMZETAJx",
+            "name": "Adaga de electro cerimonial com uma pérola negra no pomo [VALENDO 750 PO (PEÇAS DE OURO)]",
+            "weight": "5"
+        },
+        "-Mzhn3a9iSw0heRdFTbv": {
+            "id": "-Mzhn3a9iSw0heRdFTbv",
+            "name": "Broche de prata e ouro [VALENDO 750 PO (PEÇAS DE OURO)]",
+            "weight": "5"
+        },
+        "-Mzhn3aEUFJDxVD5ofeQ": {
+            "id": "-Mzhn3aEUFJDxVD5ofeQ",
+            "name": "Estatueta de obsidiana com detalhes e incrustações de ouro [VALENDO 750 PO (PEÇAS DE OURO)]",
+            "weight": "5"
+        },
+        "-Mzhn3aGPA1RzMf5FzRY": {
+            "id": "-Mzhn3aGPA1RzMf5FzRY",
+            "name": "Máscara de guerra de ouro pintada [VALENDO 750 PO (PEÇAS DE OURO)]",
+            "weight": "2"
+        },
+        "-Mzhn3aKaC0pMVfVWxci": {
+            "id": "-Mzhn3aKaC0pMVfVWxci",
+            "name": "Corrente de ouro elegante cravejada com uma opala de fogo [VALENDO 2.500 PO (PEÇAS DE OURO)]",
+            "weight": "2"
+        },
+        "-Mzhn3aQfQtRr0BJHZFN": {
+            "id": "-Mzhn3aQfQtRr0BJHZFN",
+            "name": "Antiga pintura obra-prima [VALENDO 2.500 PO (PEÇAS DE OURO)]",
+            "weight": "2"
+        },
+        "-Mzhn3aSkLaqzowWdSiC": {
+            "id": "-Mzhn3aSkLaqzowWdSiC",
+            "name": "Manto de seda e veludo bordado com diversas pedras da lua cravejadas [VALENDO 2.500 PO (PEÇAS DE OURO)]",
+            "weight": "2"
+        },
+        "-Mzhn3aVsBvWTLIr6Tin": {
+            "id": "-Mzhn3aVsBvWTLIr6Tin",
+            "name": "Bracelete de platina cravejado com uma safira [VALENDO 2.500 PO (PEÇAS DE OURO)]",
+            "weight": "2"
+        },
+        "-Mzhn3aYjxTOid4Zx3kc": {
+            "id": "-Mzhn3aYjxTOid4Zx3kc",
+            "name": "Luvas bordadas com lascas de joias [VALENDO 2.500 PO (PEÇAS DE OURO)]",
+            "weight": "2"
+        },
+        "-Mzhn3aazcT-ZjpXyZmW": {
+            "id": "-Mzhn3aazcT-ZjpXyZmW",
+            "name": "Peúga cheia de joias [VALENDO 2.500 PO (PEÇAS DE OURO)]",
+            "weight": "2"
+        },
+        "-Mzhn3adw2BLmTgwvvjl": {
+            "id": "-Mzhn3adw2BLmTgwvvjl",
+            "name": "Caixa de música de ouro [VALENDO 2.500 PO (PEÇAS DE OURO)]",
+            "weight": "2"
+        },
+        "-Mzhn3agZ6xTzwY_dQa1": {
+            "id": "-Mzhn3agZ6xTzwY_dQa1",
+            "name": "Argola de ouro cravejada com quatro águas-marinhas [VALENDO 2.500 PO (PEÇAS DE OURO)]",
+            "weight": "2"
+        },
+        "-Mzhn3asgJb0B90hkK4W": {
+            "id": "-Mzhn3asgJb0B90hkK4W",
+            "name": "Tapa-olho com um olho falso cravejado em uma safira azul e uma pedra da lua [VALENDO 2.500 PO (PEÇAS DE OURO)]",
+            "weight": "2"
+        },
+        "-Mzhn3ayvCDj3i6tZPAJ": {
+            "id": "-Mzhn3ayvCDj3i6tZPAJ",
+            "name": "Um colar de pequenas pérolas rosas [VALENDO 2.500 PO (PEÇAS DE OURO)]",
+            "weight": "2"
+        },
+        "-Mzhn3bE-GeDfmsX2rOy": {
+            "id": "-Mzhn3bE-GeDfmsX2rOy",
+            "name": "Coroa de ouro cheia de joias  [VALENDO 7.500 PO (PEÇAS DE OURO)]",
+            "weight": "1"
+        },
+        "-Mzhn3bG3Z0xD4_1-D4P": {
+            "id": "-Mzhn3bG3Z0xD4_1-D4P",
+            "name": "Anel de platina cheio de joias [VALENDO 7.500 PO (PEÇAS DE OURO)]",
+            "weight": "1"
+        },
+        "-Mzhn3bJo9YOeaqF1yW9": {
+            "id": "-Mzhn3bJo9YOeaqF1yW9",
+            "name": "Pequena estatueta de ouro cravejada com rubis [VALENDO 7.500 PO (PEÇAS DE OURO)]",
+            "weight": "1"
+        },
+        "-Mzhn3bNTSEOelZQZzbp": {
+            "id": "-Mzhn3bNTSEOelZQZzbp",
+            "name": "Taça de ouro cravejada com esmeraldas [VALENDO 7.500 PO (PEÇAS DE OURO)]",
+            "weight": "1"
+        },
+        "-Mzhn3bQ3_RLw8G_kCwf": {
+            "id": "-Mzhn3bQ3_RLw8G_kCwf",
+            "name": "Caixa de joias de ouro com filigrana de platina [VALENDO 7.500 PO (PEÇAS DE OURO)]",
+            "weight": "1"
+        },
+        "-Mzhn3bTKj0PJ4NRaJM_": {
+            "id": "-Mzhn3bTKj0PJ4NRaJM_",
+            "name": "Sarcófago infantil de ouro pintado [VALENDO 7.500 PO (PEÇAS DE OURO)]",
+            "weight": "1"
+        },
+        "-Mzhn3bWfjhxFq5Ub-NK": {
+            "id": "-Mzhn3bWfjhxFq5Ub-NK",
+            "name": "Jogo de tabuleiro de jade com peças de ouro maciço [VALENDO 7.500 PO (PEÇAS DE OURO)]",
+            "weight": "1"
+        },
+        "-Mzhn3bZ2PuYAm47QF5D": {
+            "id": "-Mzhn3bZ2PuYAm47QF5D",
+            "name": "Chifre de marfim adornado com filigrana de ouro [VALENDO 7.500 PO (PEÇAS DE OURO)]",
+            "weight": ""
+        }
+    }
+}

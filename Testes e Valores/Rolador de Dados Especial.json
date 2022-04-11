@@ -1,0 +1,17 @@
+{
+    "schema_version": 2,
+    "macros": [
+        {
+            "attributes": {
+                "action": "&{template:traits} {{name=Rolagens de Dados}} {{source=http://rpg.charlescorrea.com.br}} {{description=[img](https://i.imgur.com/3eX29x2.gif)\n\nO Valor da Sua Rolagem foi: ``**[[?{Valor do Dado que deseja rolar? (EX: 2d10 ou 3d6+3)|0}]]**``\n\n----------------------------------------------\n[Macro By Charles Corrêa http://rpg.charlescorrea.com.br](https://i.imgur.com/kQM1O9d.gif)\n----------------------------------------------\n``**[Macro By Charles Corrêa](http://rpg.charlescorrea.com.br)**``\n----------------------------------------------\n\n}}\n\n",
+                "istokenaction": true,
+                "name": "03-ROLAGENS-DADOS",
+                "visibleto": "all"
+            },
+            "macrobar": {
+                "color": "#4a86e8",
+                "name": null
+            }
+        }
+    ]
+}
